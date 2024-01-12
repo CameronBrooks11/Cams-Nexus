@@ -128,4 +128,5 @@
 		  sudo service apache2 restart
 		  ```
 - It works - even the Favicon!
-- I added a www C
+- I added a www CNAME record
+	- In order for it to redirect, I had to
