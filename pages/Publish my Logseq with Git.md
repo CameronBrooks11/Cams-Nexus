@@ -8,3 +8,5 @@
 	  RewriteCond %{HTTP_HOST} ^cameronbrooks\.net$ [NC]
 	  RewriteRule ^(.*)$ http://www.cameronbrooks.net/$1 [R=301,L]
 	  ```
+	- restart it: sudo systemctl restart apache2
+	-
