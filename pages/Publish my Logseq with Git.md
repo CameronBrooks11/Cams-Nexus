@@ -1,0 +1,3 @@
+- https://github.com/CharlesChiuGit/Logseq-Git-Sync-101
+- https://github.com/logseq/publish-spa
+- Set the GitHub action to point to
