@@ -9,4 +9,6 @@
 	  RewriteRule ^(.*)$ http://www.cameronbrooks.net/$1 [R=301,L]
 	  ```
 	- restart it: sudo systemctl restart apache2
+- Still didnt work
+	- Gonna try and edit: sudo nano /etc/apache2/apache2.conf
 	-
