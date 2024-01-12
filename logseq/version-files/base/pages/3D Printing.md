@@ -1,0 +1,2 @@
+- See: [[Additive Manufacturing]]
+- The act of creating some [[3D Geometry]] using a [[3D Printer]]
