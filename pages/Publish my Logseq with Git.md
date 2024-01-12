@@ -11,4 +11,10 @@
 	- restart it: sudo systemctl restart apache2
 - Still didnt work
 	- Gonna try and edit: sudo nano /etc/apache2/apache2.conf
+	- Changed:
+		- ```
+		  <Directory /var/www/>
+		      AllowOverride All
+		  </Directory>
+		  ```
 	-
