@@ -2,9 +2,9 @@
 - https://github.com/logseq/publish-spa
 - Set the GitHub action to point to logseq.cameronbrooks.net
 - Add CNAME record on google cloud console for logseq.cameronbrooks.net
-- I had to add this to the .htaccess on the apache server
+- I had to add this to the .htaccess on the apache server (sudo nano .htaccess)
 	- ```
 	  RewriteEngine On
-	  RewriteCond %{HTTP_HOST} ^example\.com$ [NC]
-	  RewriteRule ^(.*)$ http://www.example.com/$1 [R=301,L]
+	  RewriteCond %{HTTP_HOST} ^cameronbrooks\.net$ [NC]
+	  RewriteRule ^(.*)$ http://www.cameronbrooks.net/$1 [R=301,L]
 	  ```
