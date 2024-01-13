@@ -32,7 +32,11 @@ id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
 - **Budget:** [Budget details] *(Provide an overview of the budget for the project)*
 - ## Timeline and Milestones
 - INSERT
-- ## Documentation and Intellectual Property
+- ## Documentation
+- **Literature Review:** [Research group or Department Repository or Wiki for Literature Reviews] *(Link it here)*
+- **Paper Outline:** [Research group or Department Outline for Writing Academic Papers] *(Attach it here)*
+- **Reports:** [Date]: [Description of report] *(Replace with report details)*
+- ...
 - ## Meetings and Collaboration
 - [Type]: [Link] *(Replace with specific meeting or collaboration link)*
 - ...
