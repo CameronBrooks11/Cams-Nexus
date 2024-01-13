@@ -2,7 +2,7 @@
 id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
 - *Innovation and Technology Project Template*
 - **Category:** Materials, Manufacturing, Software
-- **Start Date:** [Start Date] *(Replace with actual start date)*
+- **Start Date:** November 10th, 2023
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
 - **Milestones:** *(Should be connected to tangible deliverables)*
 	- *Next:* Milestone N+1
