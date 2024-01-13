@@ -1,11 +1,12 @@
 # SnapTessSCAD
 id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
+- *Innovation and Technology Project Template*
 - **Category:** [Technology/Innovation Field] *(Replace with specific technology or innovation field)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
-- **Milestones:** *(Should be connected to tangi)*
+- **Milestones:** *(Should be connected to tangible deliverables)*
 	- *Next:* Complete FAST Paper Template
-	-
+	- Milestone n-1
 - ## Project Objectives
 - **Objective 1:** [Objective Description] *(Replace with specific project objective)*
 - **Objective 2:** [Objective Description] *(Replace with specific project objective)*
