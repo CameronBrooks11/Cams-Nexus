@@ -55,7 +55,6 @@
 	- ```
 	  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 	  ```
-	- pine11appleexpress22
 	- Your identification has been saved in /home/cambrooks3393/.ssh/id_rsa
 	  Your public key has been saved in /home/cambrooks3393/.ssh/id_rsa.pub
 	  The key fingerprint is:
