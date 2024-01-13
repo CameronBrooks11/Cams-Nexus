@@ -33,9 +33,6 @@ id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
 - ## Timeline and Milestones
 - INSERT
 - ## Documentation and Intellectual Property
-- **Patents:** [List of patents or IP related documents] *(Detail any patents or IP documents related to the project)*
-- **Reports:** [Date]: [Description of report] *(Replace with report details)*
-- ...
 - ## Meetings and Collaboration
 - [Type]: [Link] *(Replace with specific meeting or collaboration link)*
 - ...

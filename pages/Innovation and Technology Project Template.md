@@ -32,8 +32,8 @@
 - **Milestone 1:** [Date] - [Milestone Description] *(Replace with specific milestone details)*
 - **Milestone 2:** [Date] - [Milestone Description] *(Replace with specific milestone details)*
 - ...
-- ## Documentation and Intellectual Property
-- **Literature Review:** [Research group or Department Repository or Wiki]
+- ## Documentation
+- **Literature Review:** [Research group or Department Repository or Wiki for Literature Reviews] *(Link it here)*
 - **Paper Outline:** [Research group or Department Outline for Writing Academic Papers] *(Attach it here)*
 - **Reports:** [Date]: [Description of report] *(Replace with report details)*
 - ...
