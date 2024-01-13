@@ -33,7 +33,7 @@
 - **Milestone 2:** [Date] - [Milestone Description] *(Replace with specific milestone details)*
 - ...
 - ## Documentation and Intellectual Property
-- **Patents:** [List of patents or IP related documents] *(Detail any patents or IP documents related to the project)*
+- **Paper Outline:** [Research group or Department ] *(Detail any patents or IP documents related to the project)*
 - **Reports:** [Date]: [Description of report] *(Replace with report details)*
 - ...
 - ## Meetings and Collaboration
