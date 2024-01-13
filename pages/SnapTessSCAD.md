@@ -1,14 +1,8 @@
 # SnapTessSCAD
 id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
--
-- ## Innovation and Technology Project Template Formatting Legend
-- **Bold Text:** Used for section headings and key points.
-	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
-	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
-	- `- [List Item]`: Used for listing items or tasks.
-	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
-	  
-	  ---
+- **Category:** [Technology/Innovation Field] *(Replace with specific technology or innovation field)*
+- **Start Date:** [Start Date] *(Replace with actual start date)*
+- **Estimated End Date:** [End Date] *(Replace with estimated end date)*
 - ## Project Objectives
 - **Objective 1:** [Objective Description] *(Replace with specific project objective)*
 - **Objective 2:** [Objective Description] *(Replace with specific project objective)*
@@ -31,9 +25,7 @@ id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
 - **Technology Resources:** [List of technology resources required] *(Detail the resources needed for the project)*
 - **Budget:** [Budget details] *(Provide an overview of the budget for the project)*
 - ## Timeline and Milestones
-- **Milestone 1:** [Date] - [Milestone Description] *(Replace with specific milestone details)*
-- **Milestone 2:** [Date] - [Milestone Description] *(Replace with specific milestone details)*
-- ...
+- INSERT
 - ## Documentation and Intellectual Property
 - **Patents:** [List of patents or IP related documents] *(Detail any patents or IP documents related to the project)*
 - **Reports:** [Date]: [Description of report] *(Replace with report details)*
@@ -48,3 +40,11 @@ id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
 - ## Feedback, Testing, and Iterations
 - [Date]: [Feedback/Testing/Iteration Description] *(Replace with specific feedback, testing, or iteration details)*
 - ...
+- ## Innovation and Technology Project Template Formatting Legend
+- **Bold Text:** Used for section headings and key points.
+	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
+	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
+	- `- [List Item]`: Used for listing items or tasks.
+	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
+	  
+	  ---
