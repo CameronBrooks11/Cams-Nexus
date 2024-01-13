@@ -1,7 +1,8 @@
 # SnapTessSCAD
 id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
 	- *Innovation and Technology Project Template*
-	- **Last Updated Card:** [[Jan 13th, 2024]]
+	- **Last Updated:** [[Jan 13th, 2024]]
+	- **Links:** []
 	- **Category:** Materials, Manufacturing, Software
 	  id:: ad2ce86b-483e-4e58-aeab-c498f102b128
 	- **Start Date:** November 10th, 2023
