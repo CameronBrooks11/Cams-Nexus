@@ -25,9 +25,6 @@ id:: 659d933b-b59c-42d7-9825-bfcb7afb4d83
 - **Financials:** Description of financials
 - **Documentation:** Links to documentation
 - **Repository:** GitLab/GitHub link
-- ## Timeline and Milestones
-- **Milestone 1:** *Date* - Description
-- **Milestone 2:** *Date* - Description
 - ## Reviews
 - *Date*: Objective
 - *Date*: Objective
