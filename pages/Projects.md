@@ -31,5 +31,4 @@ id:: 659f6827-5c4d-4334-9789-17c97000a316
   |12| [[Hypochlorous Acid Generator]]  | 20 | Planning[:br][Hold]| [[Engineering Design Project]], [[Clinical Trial Project]] , [[Product Development Project]] , [[Experimental Research Project]] | Biomedical, Process Control, Embedded Systems | FAST |  ||
   |13| [[TraceSculptor]] | 1 | Not Started| [[Software Engineering Project]] | Manufacturing, Materials | FAST, AddiTronics | [Fangkai?] ||
   |14| [[RecurTreeSCAD]] | 1 | Design Execution [Active] | [[Software Engineering Project]] | Manufacturing, Materials | FAST | ||
-- |15| [[Pipe-Fitting-SCAD]] | 1 | Design Execution [Active] | [[Software Engineering Project]], [[Engineering Design Project]] | Software, Mechanical, MEP| FAST | ||
--
+  |15| [[Pipe-Fitting-SCAD]] | 1 | Design Execution [Active] | [[Software Engineering Project]], [[Engineering Design Project]] | Software, Mechanical, MEP| FAST | ||

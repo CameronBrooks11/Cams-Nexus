@@ -3,7 +3,8 @@ id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
 - **Category:** [Technology/Innovation Field] *(Replace with specific technology or innovation field)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
--
+- **Milestones:**
+	-
 - ## Project Objectives
 - **Objective 1:** [Objective Description] *(Replace with specific project objective)*
 - **Objective 2:** [Objective Description] *(Replace with specific project objective)*
