@@ -33,7 +33,8 @@
 - **Milestone 2:** [Date] - [Milestone Description] *(Replace with specific milestone details)*
 - ...
 - ## Documentation and Intellectual Property
-- **Paper Outline:** [Research group or Department ] *(Detail any patents or IP documents related to the project)*
+- **Literature Review:** [Research group or Department Repository or Wiki]
+- **Paper Outline:** [Research group or Department Outline for Writing Academic Papers] *(Attach it here)*
 - **Reports:** [Date]: [Description of report] *(Replace with report details)*
 - ...
 - ## Meetings and Collaboration
