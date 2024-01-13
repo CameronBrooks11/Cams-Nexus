@@ -1,7 +1,7 @@
 # SnapTessSCAD
 id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
 - *Innovation and Technology Project Template*
-- **Category:** [Technology/Innovation Field] *(Replace with specific technology or innovation field)*
+- **Category:** Materials, Manufacturing, Software
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
 - **Milestones:** *(Should be connected to tangible deliverables)*
