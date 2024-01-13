@@ -7,8 +7,8 @@ id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
 - **Milestones:** *(Should be connected to tangible deliverables)*
 	- *Next:* Paper Outline
 	- Milestone N
-	- Milestone N-1
-	- Functional model and manufacture of a tesss
+	- Completion of the hexagon and octagon
+	- Functional model and manufacture of the snap surface
 - ## Project Objectives
 - **Objective 1:** [Objective Description] *(Replace with specific project objective)*
 - **Objective 2:** [Objective Description] *(Replace with specific project objective)*
