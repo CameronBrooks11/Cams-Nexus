@@ -6,8 +6,8 @@ id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
 - **Estimated End Date:** March 2nd, 2023
 - **Milestones:** *(Should be connected to tangible deliverables)*
 	- *Next:* Paper Outline
-	- Milestone N
-	- Completion of the hexagon and octagon
+	- Fully parametric generation of functional analog
+	- Completion of the hexagon & octagon point grids
 	- Functional model and manufacture of the snap surface
 - ## Project Objectives
 - **Objective 1:** [Objective Description] *(Replace with specific project objective)*
