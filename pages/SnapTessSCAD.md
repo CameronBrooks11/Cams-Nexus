@@ -46,7 +46,7 @@ id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
 - ## Feedback, Testing, and Iterations
 - [Date]: [Feedback/Testing/Iteration Description] *(Replace with specific feedback, testing, or iteration details)*
 - ...
-- ## Innovation and Technology Project Template Formatting Legend
+- ## Template Formatting Legend
 - **Bold Text:** Used for section headings and key points.
 	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
 	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
