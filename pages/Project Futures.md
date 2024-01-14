@@ -26,7 +26,7 @@
 	- [[FOSH Hospital Equipment]]
 	- [[Sheet Press Applications]]
 	- [[Adaptable Open Source Health Monitoring Wearable]]
-	-
+	- [[3D Printing of Coral Structures]]
 - ### Idea Fragments
 	- Cyclic water dispenser that uses Madeleines filter
 	- Combining OS water filter with hypochlorite electrolysis sterilization system
