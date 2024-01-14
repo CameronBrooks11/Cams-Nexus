@@ -13,4 +13,5 @@
   |10| [[Scalable Open Induction Heating]] | 5 | Planning | -- | | | | |
 -
 - ## Brain Waves
+- [[High-Precision Open Source LiDAR Scanner]]
 -
