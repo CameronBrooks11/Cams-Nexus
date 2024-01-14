@@ -6,9 +6,9 @@
 - UES
 	- Answer all (Clarrie, GC, international)
 	- plan for The Doc
-	  collapsed:: true
 		- Clubs rehaul --> prioritize discussion for wednesday
 		- ACI add to agenda
+		- wellne
 		- Clubs
 			- Policy rehaul
 			- From USC
@@ -48,6 +48,7 @@
 	- Design PCB to connect all components
 	- Select and order motor + battery pack
 	- Success Plan for report due Friday the 19th
+	- Plan for confirming with masters students and getting them involved
 - Project stuff
 	- Email Pearce about Pipe Fitting
 	- collapsed:: true
@@ -99,7 +100,7 @@
 		- Review paper to see what is left and confirm with morgan.
 		- Technical items:
 			- SD card and logging --> remove to beta
-			- Power monitoring --> remove
+			- Power monitoring --> remove to beta
 			- LCD screen
 			- Safety / state functions
 	- collapsed:: true
