@@ -1,2 +1,2 @@
 - https://psychedelics.berkeley.edu/therapy/
--
+- Reresearch in recent years by the [[Multidisciplinary Association for Psychedelic Studies]] suggests
