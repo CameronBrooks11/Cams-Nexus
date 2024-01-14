@@ -18,6 +18,7 @@
 	- [[Open Source Locally Manufactured Insulin]]
 	- [[Complete Open Source System for Everyday Necessities]]
 	- [[Open Source Transition Consultation Service]]
+	- [[3D Printing and Local Manufacturing of Sporting Equipment and Athletic Testing Devices]]
 - ### Brain Fragments
 	- Cyclic water dispenser that uses Madeleines filter
 	- Combining OS water filter with hypochlorite electrolysis sterilization system
