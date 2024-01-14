@@ -48,9 +48,6 @@
 - ...
 - ## Feedback and Adjustments
 - [Date]: [Feedback/Adjustment Description] *(Replace with specific feedback or adjustment details)*
-- j
--
--
 - ...
 - ### Experimental Research Project Template Formatting Legend
 - **Bold Text:** Used for section headings and key points.
@@ -60,4 +57,3 @@
 	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
 	  
 	  ---
--
