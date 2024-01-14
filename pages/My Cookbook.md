@@ -23,16 +23,16 @@
 - ## Recipe Collection
 	- ### Main Ingredient Focus
 		- [[Vegetable-Based Dishes]]
-			- E.g., Grilled Asparagus, Stuffed Bell Peppers
+			- Grilled Asparagus, Stuffed Bell Peppers
 		- [[Fruit-Based Dishes]]
-			- E.g., Fruit Salads, Berry Smoothies
+			- Fruit Salads, Berry Smoothies
 		- [[Whole Grains]]
-			- E.g., Quinoa Salad, Brown Rice Pilaf
+			- Quinoa Salad, Brown Rice Pilaf
 		- [[Proteins]]
 			- #### Animal Proteins
-				- E.g., Grilled Chicken, Baked Salmon
+				- Grilled Chicken, Baked Salmon
 			- #### Plant Proteins
-				- , Tofu Stir-Fry
+				- #[[Curry Lentil Soup]], Tofu Stir-Fry
 		- [[Dairy Alternatives]]
 			- #[[Almond Milk Power Smoothie]]
 - ## Cooking Techniques
