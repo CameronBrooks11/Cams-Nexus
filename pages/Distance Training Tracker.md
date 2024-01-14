@@ -1,7 +1,13 @@
 - This is a generic [[template]] for tracking distance training.
 - | *Sun* | *Mon* | *Tue* | *Wed* | *Thu* | *Fri* | *Sat* |
-  |||| **1.** Distance: xx.yy; Time: HH:MM:SS  | **2**Distance:Time:  | **3**Distance:Time:  | **4**Distance:Time:  |
-  | **5**Distance:Time:  | **6**Distance:Time:  | **7**Distance:Time:  | **8**Distance:Time:  | **9**Distance:Time:  | **10**Distance:Time:  | **11**Distance:Time:  |
-  | **12**Distance:Time:  | **13**Distance:Time:  | **14**Distance:Time:  | **15**Distance:Time:  | **16**Distance:Time:  | **17**Distance:Time:  | **18**Distance:Time:  |
-  | **19**Distance:Time:  | **20**Distance:Time:  | **21**Distance:Time:  | **22**Distance:Time:  | **23**Distance:Time:  | **24**Distance:Time:  | **25**Distance:Time:  |
-  | **26**Distance:Time:  | **27**Distance:Time:  | **28**Distance:Time:  | **29**Distance:Time:  | **30**Distance:Time:  | **31**Distance:Time:  | |
+  |-------|-------|-------|-------|-------|-------|-------|
+  | **1.** Distance: xx.yy; Time: HH:MM:SS  | **2.** Distance: xx.yy; Time: HH:MM:SS  | **3.** Distance: xx.yy; Time: HH:MM:SS  | **4.** Distance: xx.yy; Time: HH:MM:SS  |
+  | **5.** Distance: xx.yy; Time: HH:MM:SS  | **6.** Distance: xx.yy; Time: HH:MM:SS  | **7.** Distance: xx.yy; Time: HH:MM:SS  | **8.** Distance: xx.yy; Time: HH:MM:SS  |
+  | **9.** Distance: xx.yy; Time: HH:MM:SS  | **10.** Distance: xx.yy; Time: HH:MM:SS  | **11.** Distance: xx.yy; Time: HH:MM:SS  |
+  | **12.** Distance: xx.yy; Time: HH:MM:SS  | **13.** Distance: xx.yy; Time: HH:MM:SS  | **14.** Distance: xx.yy; Time: HH:MM:SS  |
+  | **15.** Distance: xx.yy; Time: HH:MM:SS  | **16.** Distance: xx.yy; Time: HH:MM:SS  | **17.** Distance: xx.yy; Time: HH:MM:SS  |
+  | **18.** Distance: xx.yy; Time: HH:MM:SS  | **19.** Distance: xx.yy; Time: HH:MM:SS  | **20.** Distance: xx.yy; Time: HH:MM:SS  |
+  | **21.** Distance: xx.yy; Time: HH:MM:SS  | **22.** Distance: xx.yy; Time: HH:MM:SS  | **23.** Distance: xx.yy; Time: HH:MM:SS  |
+  | **24.** Distance: xx.yy; Time: HH:MM:SS  | **25.** Distance: xx.yy; Time: HH:MM:SS  | **26.** Distance: xx.yy; Time: HH:MM:SS  |
+  | **27.** Distance: xx.yy; Time: HH:MM:SS  | **28.** Distance: xx.yy; Time: HH:MM:SS  | **29.** Distance: xx.yy; Time: HH:MM:SS  |
+  | **30.** Distance: xx.yy; Time: HH:MM:SS  | **31.** Distance: xx.yy; Time: HH:MM:SS  |
