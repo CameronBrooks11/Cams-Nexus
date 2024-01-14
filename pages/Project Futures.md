@@ -13,14 +13,15 @@
   |10| [[Scalable Open Induction Heating]] | 5 | Planning | -- | | | | |
   |11| [[Open Source Scraper and Search Engine]] | 1 | Planning | -- | | | | |
 -
-- ## Brain Waves
+- ## Ideas
 	- [[High-Precision Open Source LiDAR Scanner]]
 	- [[Web Application for Processing Image Input to 3D Model]]
 	- [[Open Source Locally Manufactured Insulin]]
 	- [[Complete Open Source System for Everyday Necessities]]
 	- [[Open Source Transition Consultation Service]]
 	- [[3D Printing and Local Manufacturing of Sporting Equipment and Athletic Testing Devices]]
-- ### Brain Fragments
+	- [[Agricultural Waste to Biofilament Conversion]]
+- ### Idea Fragments
 	- Cyclic water dispenser that uses Madeleines filter
 	- Combining OS water filter with hypochlorite electrolysis sterilization system
 	-
