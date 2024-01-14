@@ -20,7 +20,21 @@
 	- ### Micronutrients
 		- [[Vitamins]]
 		- [[Minerals]]
--
+- ## Recipe Collection
+	- ### Main Ingredient Focus
+		- [[Vegetable-Based Dishes]]
+			- E.g., Grilled Asparagus, Stuffed Bell Peppers
+		- [[Fruit-Based Dishes]]
+			- E.g., Fruit Salads, Berry Smoothies
+		- [[Whole Grains]]
+			- E.g., Quinoa Salad, Brown Rice Pilaf
+		- [[Proteins]]
+			- #### Animal Proteins
+				- E.g., Grilled Chicken, Baked Salmon
+			- #### Plant Proteins
+				- E.g., Lentil Soup, Tofu Stir-Fry
+		- [[Dairy and Alternatives]]
+			- E.g., Yogurt Parfait, Almond Milk Smoothie
 - ## Cooking Techniques
 	- [[Baking]]
 	- [[Grilling]]
@@ -36,6 +50,6 @@
 		- [[Herbs and Spices]]
 		- [[Staple Foods]]
 - ## References and Resources
-	- Cookbooks
-	- Nutrition and Dietary Blogs
+	- [[Cookbooks]]
+	- [[Nutrition and Dietary Blogs]]
 	- Cooking Channels
