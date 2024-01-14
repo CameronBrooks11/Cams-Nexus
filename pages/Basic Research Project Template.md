@@ -1,5 +1,12 @@
 - *Basic Research Project Template*
--
+- **Category:** [Technology/Innovation Field] *(Replace with specific technology or innovation field)*
+- **Start Date:** [Start Date] *(Replace with actual start date)*
+- **Estimated End Date:** [End Date] *(Replace with estimated end date)*
+- **Milestones:** *(Should be connected to tangible deliverables)*
+	- *Next:* Milestone N+1
+	- Milestone N
+	- Milestone N-1
+	- ...
 - ## Research Objectives
 - **Objective 1:** [Objective Description] *(Replace with specific research objective)*
 - **Objective 2:** [Objective Description] *(Replace with specific research objective)*
