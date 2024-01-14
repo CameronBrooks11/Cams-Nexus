@@ -24,6 +24,7 @@
 	- [[Morphable Mold for Custom Rapid Casting]]
 	- [[Electrolyzed Hydrogen Production]]
 	- [[FOSH Hospital Equipment]]
+	- [[Sheet Press Applications]]
 - ### Idea Fragments
 	- Cyclic water dispenser that uses Madeleines filter
 	- Combining OS water filter with hypochlorite electrolysis sterilization system
