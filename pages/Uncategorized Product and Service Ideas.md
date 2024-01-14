@@ -34,8 +34,7 @@
 		- Cleaning/detailing for bags?
 	- Canadian golf (uses hockey sticks and pucks)
 	- Golf course that maintained by robots (cutting grass, watering, getting range balls)
-	- Place with a fuck ton of stuff (mini putt, batting cages, archery, trampolines, basketball court with score, driving range, kayaking in river)
-	- Take old bikes and repurpose and mash together and resell
+	- Take old bikes and repurpose and mash usable parts together and resell
 	- Lawn Care business that is “on demand” if you need someone to cut your lawn ASAP and don’t want a contract you call or text the number and it the voice someone gets the info (approximate property size) but text does it automatically (use gps tracking to find total area cut to do charge - on top of flat fee) - same thing for snow shovelling - but a combination of pounds and area)
 	- Restaurant with OS tools and appliances where it’s like a community kitchen
 	- Adult swimming school (private pools, use the body motion capture device along side instructors)
