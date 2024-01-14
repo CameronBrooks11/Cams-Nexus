@@ -2,11 +2,7 @@
 - **Category:** [Field Study Area/Topic] *(Replace with specific field study area or topic)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
-- **Milestones:** *(Should be connected to tangible deliverables)*
-	- *Next:* Milestone N+1
-	- Milestone N
-	- Milestone N-1
-	- ...
+-
 - ## Study Objectives
 - **Objective 1:** [Objective Description] *(Replace with specific study objective)*
 - **Objective 2:** [Objective Description] *(Replace with specific study objective)*
