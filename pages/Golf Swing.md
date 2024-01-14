@@ -1,0 +1,3 @@
+- Club face rotates
+	- Backswing the face should be directed towards target line and peak of followthrough should face away from target line
+-
