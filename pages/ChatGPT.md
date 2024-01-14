@@ -1,1 +1,3 @@
 - [[ChatGPT Custom Instructions Bank]]
+- [[ChatGPT for Logseq]]
+-
