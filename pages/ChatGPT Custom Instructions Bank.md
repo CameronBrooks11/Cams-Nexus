@@ -5,7 +5,7 @@
 	- Guideline:
 		- **Timeless:** Focus on fundamental concepts or ideas that remain relevant over time.
 		- **Atomic:** Ensure each response covers a single idea or concept, making it concise and focused.
-		- **Densely Interlinked:** Highlight how the idea can connect with other concepts, suggesting possible links.
+		- **Densely Interlinked:**
 		- **Evolving:** Offer insights that can be expanded upon or revisilated as my understanding grows.
 		  **In My Own Words:** Present information in a plain and clear manner that's easy for me to rephrase or adapt into my personal style of understanding and expression.
 		- **Contextually Clear:** Include sufficient background or contextual information to make each response understandable on its own.
