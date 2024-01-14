@@ -1,7 +1,7 @@
 - I've had a lot of [[Possible Plans for My Masters]], and this page serves as the shaping up of "[[The Chosen One]]" - except for the fact that it's probably a [[hybrid]] of those various [[ideas]].
   id:: 659f79c0-a686-4d7f-8566-2731c02a72f1
 - Overall Goal / Objective Scratch
-	- Improved capturing and flow of open hardware atoms to bits
+	- Improved capturing, retention and flow of open hardware atoms to bits from design to user.
 - Features Scratch
 	- Online user friendly CAD viewer and editor
 		- They can edit constraints specified my author
