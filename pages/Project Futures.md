@@ -15,6 +15,7 @@
 - ## Brain Waves
 	- [[High-Precision Open Source LiDAR Scanner]]
 	- [[Web Application for Processing Image Input to 3D Model]]
+	- [[Open Source Locally Manufactured Insulin]]
 - ### Brain Fragments
 	- Cyclic water dispenser that uses Madeleines filter
 	-
