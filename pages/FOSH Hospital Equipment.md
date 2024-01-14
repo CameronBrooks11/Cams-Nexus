@@ -1,5 +1,5 @@
 - **FOSH Hospital Equipment**
-	- FOSH, or Free and Open Source Hardware, in the context of hospital equipment, refers to medical devices and tools whose designs are openly shared, allowing anyone to build, modify, and distribute them.
+	- [[FOSH]], or [[Free and Open Source Hardware]], in the context of [[hospital equipment]], refers to [[medical devices]] and tools whose designs are openly shared, allowing anyone to [[build, modify, and distribute]] them.
 	- The concept emphasizes accessibility, affordability, and community-driven innovation, particularly valuable in resource-limited settings.
 	- Initial focus on simpler, yet essential, devices allows for gradual development and testing before moving to more complex machinery.
 	- Examples of reasonable FOSH hospital equipment to start with:
@@ -10,5 +10,4 @@
 		- [[Sterilizer/autoclave]]: Used for sterilizing equipment, essential for infection control in any medical setting.
 		- [[ECG machine]]: Records the electrical activity of the heart over a period of time, useful in diagnosing heart conditions.
 		- [[Ultrasound machine]]: Uses high-frequency sound waves to visualize internal organs, beneficial in diagnostics and guided procedures.
-	- Future expansion into more complex devices can leverage insights gained from the initial simpler projects.
-	- This approach supports the evolution of FOSH in healthcare, potentially transforming how medical equipment is accessed and used globally.
+	- Future expansion into more complex devices can leverage insights gained from the initial simpler projects. This approach supports the evolution of FOSH in healthcare, potentially transforming how medical equipment is accessed and used globally.

@@ -3,7 +3,7 @@
 - ## Overall Goal / Objective Scratch
 - Improved capturing, retention and flow of open hardware atoms to bits from design to user.
 - Consolodating? --> database
--
+- note to cam: remember principles of [[build, modify, and distribute]]
 - ## Features Scratch
 - Online user friendly CAD viewer and editor
 	- They can edit constraints specified my author
