@@ -1,4 +1,4 @@
 - Hydrogen production using electrolysis
-	- ### Studies
+	- Studies
 		- [A membrane-less electrolyzer with porous walls for high throughput and pure hydrogen production](https://doi.org/10.1039/D1SE00255D)
-		- Similar reactor architecture to what is planned for
+		- Similar reactor architecture to what is planned for [[FEMORA-One]]
