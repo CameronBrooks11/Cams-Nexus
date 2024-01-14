@@ -38,7 +38,7 @@
 - ## Adjustments and Project Evolution
 - [Date]: [Adjustment/Evolution Description] *(Replace with details of any project adjustments or evolution over time)*
 - ...
-- ### Interdisciplinary Research Project Template Formatting Legend
+- ## Project Template Formatting Legend
 - **Bold Text:** Used for section headings and key points.
 	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
 	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.

@@ -38,7 +38,7 @@
 - ## Feedback and Design Adjustments
 - [Date]: [Feedback/Adjustment Description] *(Replace with specific feedback or adjustment details related to design changes)*
 - ...
-- ### Engineering Design Project Template Formatting Legend
+- ## Project Template Formatting Legend
 - **Bold Text:** Used for section headings and key points.
 	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
 	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.

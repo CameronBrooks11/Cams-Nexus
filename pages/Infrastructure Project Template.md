@@ -44,7 +44,7 @@
 - ## Progress Tracking and Adjustments
 - **Progress Reports:** [Frequency and format of progress reports] *(Detail how progress will be reported)*
 - **Adjustments:** [Process for making adjustments] *(Describe the process for implementing changes or adjustments)*
-- ### Infrastructure Project Template Formatting Legend
+- ## Project Template Formatting Legend
 - **Bold Text:** Used for section headings and key points.
 	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
 	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
