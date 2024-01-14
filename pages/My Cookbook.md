@@ -32,7 +32,7 @@
 			- #### Animal Proteins
 				- E.g., Grilled Chicken, Baked Salmon
 			- #### Plant Proteins
-				- E.g., Lentil Soup, Tofu Stir-Fry
+				- , Tofu Stir-Fry
 		- [[Dairy Alternatives]]
 			- #[[Almond Milk Power Smoothie]]
 - ## Cooking Techniques
