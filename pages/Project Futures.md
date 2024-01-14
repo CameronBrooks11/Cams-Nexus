@@ -11,6 +11,7 @@
   |8| [[OpenSCAD Package Manager]] | 1 | Not Started | -- | | | | |
   |9| [[DARPA Dryer]] | 2 | Planning | -- | | | | |
   |10| [[Scalable Open Induction Heating]] | 5 | Planning | -- | | | | |
+  |11| [[Open Source Scraper and Search Engine]] | 1 | Planning | -- | | | | |
 -
 - ## Brain Waves
 	- [[High-Precision Open Source LiDAR Scanner]]
