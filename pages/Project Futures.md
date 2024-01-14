@@ -14,6 +14,7 @@
   |11| [[Open Source Scraper and Search Engine]] | 1 | Planning | -- | | | | |
   |12| [[Scientific Press Gamma]] | 1 | -- | -- | | | | |
   |13| [[Open Source Embroidery Machine]] | 1 | -- | -- | | | | |
+  |14| [[Open Source Embroidery Machine]] | 1 | -- | -- | | | | |
 -
 - ## Ideas
 	- [[High-Precision Open Source LiDAR Scanner]]
