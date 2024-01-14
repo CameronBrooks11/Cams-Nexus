@@ -2,7 +2,7 @@
 	- dd
 - Evergreen notes
 	- User:
-		- I am looking for information that is timeless, atomic, interlinked, evolving, personally understandable, contextually clear, and easily accessible.
+		- I am looking for information that is timeless, concept-oriented, atomic, interlinked, evolving, personally understandable, contextually clear, and easily accessible. Always give evergreen notes as markdown codeblocks (1 block for 1 page) and use [[page name]] ti
 	- Guideline:
 		- **Timeless:** Focus on fundamental concepts or ideas that remain relevant over time.
 		- **Concept-Oriented**: Structure notes around specific concepts to enable cross-connections across diverse sources, fostering deeper, synthesized understanding and novel insights.
