@@ -1,12 +1,4 @@
-# Educational and Outreach Project Template Formatting Legend
-- **Bold Text:** Used for section headings and key points.
-	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
-	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
-	- `- [List Item]`: Used for listing items or tasks.
-	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
-	  
-	  ---
-- # Educational and Outreach Project Template
+# Educational and Outreach Project Template
 - **Category:** [Educational Topic/Outreach Program] *(Replace with specific topic or program name)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
@@ -47,3 +39,11 @@
 - ## Feedback and Evaluation
 - [Date]: [Feedback/Evaluation Description] *(Replace with specific feedback or evaluation details)*
 - ...
+- ## Project Template Formatting Legend
+- **Bold Text:** Used for section headings and key points.
+	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
+	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
+	- `- [List Item]`: Used for listing items or tasks.
+	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
+	  
+	  ---
