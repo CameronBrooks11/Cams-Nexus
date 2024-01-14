@@ -1,0 +1,2 @@
+- List of upgrades for the [[Prusa i3 MK3]]
+	-
