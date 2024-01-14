@@ -59,18 +59,34 @@
 			- Reps: 3x5
 			- Weight: 160
 	- ## Day 5: Upper Body Strength
-	- Bench press
-		- Reps: 4x3
-		- Weight: 135
-	- Lat pulldowns
-		- Reps: 3x5
-		- Weight: 160
-	- Overhead barbell press
-		- Reps: 4x3
-		- Weight: 95
-	- Bicep curls
-		- Reps: 3x5
-		- Weight: 35
-	- Dumbbell shoulder press
-		- Reps: 3x5
-		- Weight: 40
+		- Bench press
+			- Reps: 4x3
+			- Weight: 135
+		- Lat pulldowns
+			- Reps: 3x5
+			- Weight: 160
+		- Overhead barbell press
+			- Reps: 4x3
+			- Weight: 95
+		- Bicep curls
+			- Reps: 3x5
+			- Weight: 35
+		- Dumbbell shoulder press
+			- Reps: 3x5
+			- Weight: 40
+	- ## Day 6: Full Body Strength
+		- Deadlift
+			- Reps: 4x2
+			- Weight: 295
+		- Rows
+			- Reps: 4x3
+			- Weight: 135
+		- Split squats
+			- Reps: 3x5
+			- Weight: 55
+		- Skullcrushers one hand
+			- Reps: 3x5
+			- Weight: 40
+		- Farmers carry
+			- Duration: 3x30 sec
+			- Weight: [Add weight]
