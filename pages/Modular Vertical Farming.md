@@ -1,5 +1,5 @@
 # Modular Vertical Farming
-- Modular Vertical Farming is an innovative approach to agriculture, combining vertical farming techniques with modular design principles.
+- Modular [[Vertical Farming]] is an innovative approach to [[agriculture]], combining [[vertical farming techniques]] with modular design principles.
 	- **Efficiency in Space Utilization**: Maximizes agricultural output per square meter, ideal for urban environments.
 		- Utilizes vertical structures like shelves or towers.
 		- Reduces the need for extensive land area.
