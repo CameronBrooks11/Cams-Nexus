@@ -2,7 +2,7 @@
 - **Infinite Possibilities and Consciousness**
 	- The concept of [[Infinite Possibilities]] posits that in an infinite universe, the existence of our consciousness and the world is not just possible but inevitable.
 	- This idea is rooted in the understanding of [[Time]], [[Matter]], and [[Infinity]], suggesting that given infinite time and matter, all configurations including our conscious experience must occur.
-	- An alternative perspective considers the [[Improbability of Conscious Existence]]. It views the specific assembly of atoms to create a conscious being as so unlikely that it might imply the necessity of a [[Higher Power]].
+	- An alternative perspective considers the [[Improbability of Conscious Existence]]. It views the specific assembly of matter to create a conscious being as so unlikely that it might imply the necessity of a [[Higher Power]].
 - **Evolution of Religion**
 	- The theory that [[All Religions Originate from a Common Source]] explores the idea that various religious beliefs and practices originated from an ancient, unified religion.
 	- Over time, due to [[Cultural Divergence]] and [[Historical Conflicts]], these beliefs have evolved and diverged into the multitude of religions we see today.
