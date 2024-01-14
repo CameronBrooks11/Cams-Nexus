@@ -1,5 +1,7 @@
 - *This needs to be empty by the end of each day*
 - ---
+- Fix all project templates
+- Fix script (times) and transfer person
 - UES
 	- Answer all (Clarrie, GC, international)
 	- plan for The Doc
