@@ -1,7 +1,7 @@
 # My Cookbook
 - ## Overview
 	- ### Purpose
-		- The goal of this cookbook is to compile nutritious and delicious recipes that cater to a variety of dietary needs.
+		- The goal of this cookbook is to compile all my nutritious and delicious recipes.
 	- ### Principles
 		- Focus on health and nutrition.
 		- Inclusion of diverse cuisines.
@@ -33,8 +33,8 @@
 				- E.g., Grilled Chicken, Baked Salmon
 			- #### Plant Proteins
 				- E.g., Lentil Soup, Tofu Stir-Fry
-		- [[Dairy and Alternatives]]
-			- E.g., Yogurt Parfait, Almond Milk Smoothie
+		- [[Dairy Alternatives]]
+			- #[[Almond Milk Power Smoothie]]
 - ## Cooking Techniques
 	- [[Baking]]
 	- [[Grilling]]
@@ -52,4 +52,4 @@
 - ## References and Resources
 	- [[Cookbooks]]
 	- [[Nutrition and Dietary Blogs]]
-	- Cooking Channels
+	- [[Cooking Channels]]
