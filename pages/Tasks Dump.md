@@ -2,7 +2,9 @@
 - ---
 - Aero mould --> answer Brett
 - ISCI
-	-
+	- Orient
+	- PM
+	- Meeting
 - Payload
 	- tasks formalize:
 		- Riley: [https://www.printables.com/model/77186-cubesat-v10/files](https://www.printables.com/model/77186-cubesat-v10/files) replicate this on Fusion360 or OnShape. 3D model and corresponding dimensioned 2D drawing for all the parts. Keep in mind this will be stretched length wise to create a 2U which will be interfaced with the normal 1U that the design at the link describes.
@@ -88,14 +90,17 @@
 	- collapsed:: true
 	  
 	  Scientific press alpha
-		- Complete AFFiNE page
+		- Complete page
+		- Software rework (organize, process menu-centric, GUI, e-stop, safety functions, thermal runaway, flow diagram)
 		- Review paper to see what is left and confirm with morgan.
 		- Technical items:
 			- SD card and logging
 			- Power monitoring
 			- LCD screen
 			- Safety / state functions
-	- Industrial press
+	- collapsed:: true
+	  
+	  Industrial press
 		- Project plan / timeline
 		- Paper outline
 		- Complete / update current design schematic
