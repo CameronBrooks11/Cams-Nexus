@@ -1,8 +1,7 @@
 # Smart Modular & Augmentable Plant Enclosure (SMARE)
 - Smart Modular & Augmentable Plant Enclosure (SMARE)
 - # Overview
-  
-  A
+-
 - # Applications
 - Microfarms for the decentralized production of local fresh foods.
 - Vertical farms to maximize yield per square unit of ground to reduce the environmental impact of agriculture.
