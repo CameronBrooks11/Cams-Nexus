@@ -1,1 +1,1 @@
-- It would be interesting to look at an [[open source]] sys
+- It would be interesting to look at an [[open source]] system for [[synthesizing]] [[MDMA]] for use in therapeutic trials
