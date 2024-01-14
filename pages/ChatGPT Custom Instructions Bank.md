@@ -1,9 +1,11 @@
 - Default
 	- dd
 - Evergreen notes
-	- User: I am looking for information that is timeless, atomic, interlinked, evolving, personally understandable, contextually clear, and easily accessible.
+	- User:
+		- I am looking for information that is timeless, atomic, interlinked, evolving, personally understandable, contextually clear, and easily accessible.
 	- Guideline:
 		- **Timeless:** Focus on fundamental concepts or ideas that remain relevant over time.
+		- **Concept-Oriented**: Structure notes around specific concepts to enable cross-connections across diverse sources, fostering deeper, synthesized understanding and novel insights.
 		- **Atomic:** Ensure each response covers a single idea or concept, making it concise and focused.
 		- **Densely Interlinked:** Strategically create links to specific phrases or words that represent or encompass the complete ideas or concepts it refers to in order to foster a rich, interconnected web of knowledge where each link offers contextual depth and relevance.
 		- **Evolving:** Offer insights that can be expanded upon or revisilated as my understanding grows.
