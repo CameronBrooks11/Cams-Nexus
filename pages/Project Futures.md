@@ -28,7 +28,7 @@
 	- [[Sheet Press Applications]]
 	- [[Adaptable Open Source Health Monitoring Wearable]]
 	- [[3D Printing of Coral Structures]]
-	- [[Flexible Mobile Work Station for Scientists, Engineers and Innovators ]
+	- [[Flexible Mobile Work Station for Scientists, Engineers and Innovators]]
 - ### Idea Fragments
 	- Cyclic water dispenser that uses Madeleines filter
 	- Combining OS water filter with hypochlorite electrolysis sterilization system
