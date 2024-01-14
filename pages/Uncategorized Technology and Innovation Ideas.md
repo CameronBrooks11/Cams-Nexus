@@ -1,33 +1,34 @@
 # Innovations/Technology
 - ## Medical/Healthcare
-- Bacteria/protein engineered to clot blood instantly
-	- For trauma injuries
-- Clippers that use magnetism to close the blades (for small surgery etc.)
-- Erectile dysfunction device that fits around the base of penis to help increase blood flow (ultrasound? Magnetism or electricity to stimulate the nerves? - would prob depend on physiological basis of the ED)
-- Fully automatic CPR AED device
-- Device to slip over drowning victim's head/mouth and nose to pump water out while swimming back to shore for lifeguarding (also monitors breathing and helps breaths go) - they would have to be face down so any fluid, water, vomit, etc. drains out
-- Someway to make common drugs and insulin affordable
-	- Bioreactors? Biohacking
-- At home health monitor/micromanaged healthcare and preventative healthcare (BP, diabetes, organ function, WBC, universal marker that indicates unbalance?, test for STIs, hyper- and hypothyroidism tracker that calculates micro adjustments for that medication doesn’t induce the opposite)
-	- Custom vitamin calculator then multivitamin gets sent to u - micromanaged and adjusted
-- Electrical, magnetic or wave device that gets rid of pain impulses (are pain stimuli a different voltage or frequency - how does pain and movement transmit at same time? Wouldn’t they overlap?)
-- Electricity to treat infection (instead of or with antibiotics)
-- Device to relieve muscle tension using electricity or magnetism
-- Robots that enter body, collect data, then biodegrade after
-- Personal at home scope device for tonsil stones, earwax, etc. (programmed with safety limits)
-- Exosuit type thing to help people with disabilities or elderly by reinforcing movements
-- Automatic inventory tracker for hospitals
-	- Some type of paint or liquid that’s sustainable and fast drying
-	- Every week has a slight different composition of paint that is detected to determine expiry date - do certain products have certain ranges of dates in a batch (e.g. will one batch always be within 2 weeks of expiry date range)
-	- Paint comes in dots of equal size (how is it easily applied?)
-- Device that takes on the shape of damaged vessels for trauma (magnets?, fills GSWs?)
-- Exoskeleton that reinforces movements for workers that move and bend a lot - also enforces good form
-- Device that goes along with the at home health thing where the doctor can do basic check up in the person's home without being there
-- Motion capture suit or tech for physio/healthcare (can tell where the body is based on electrical potential of living skin?)
-- Magnetic or electronic or ultrasonic waves for gout or other inflammatory response issues
-- Pillow that can detect brain waves associated with sleep to track and aid sleep wake cycle
-	- Uses magnetic or ultrasonic waves to induce and aid sleep
-	- Alarm that wakes you up at the lightest point of sleep during a certain period (uses AI and machine learning to learn users patterns and combine with real time data to wake up at right time)
+	- Bacteria/protein engineered to clot blood instantly
+		- For trauma injuries
+	- Clippers that use magnetism to close the blades (for small surgery etc.)
+	- Erectile dysfunction device that fits around the base of penis to help increase blood flow (ultrasound? Magnetism or electricity to stimulate the nerves? - would prob depend on physiological basis of the ED)
+	- Fully automatic CPR AED device
+	- Device to slip over drowning victim's head/mouth and nose to pump water out while swimming back to shore for lifeguarding (also monitors breathing and helps breaths go) - they would have to be face down so any fluid, water, vomit, etc. drains out
+	- Someway to make common drugs and insulin affordable
+		- Bioreactors? Biohacking
+	- At home health monitor/micromanaged healthcare and preventative healthcare (BP, diabetes, organ function, WBC, universal marker that indicates unbalance?, test for STIs, hyper- and hypothyroidism tracker that calculates micro adjustments for that medication doesn’t induce the opposite)
+		- Custom vitamin calculator then multivitamin gets sent to u - micromanaged and adjusted
+		- [[Blueprint Bryan Johnson]]
+	- Electrical, magnetic or wave device that gets rid of pain impulses (are pain stimuli a different voltage or frequency - how does pain and movement transmit at same time? Wouldn’t they overlap?)
+	- Electricity to treat infection (instead of or with antibiotics)
+	- Device to relieve muscle tension using electricity or magnetism
+	- Robots that enter body, collect data, then biodegrade after
+	- Personal at home scope device for tonsil stones, earwax, etc. (programmed with safety limits)
+	- Exosuit type thing to help people with disabilities or elderly by reinforcing movements
+	- Automatic inventory tracker for hospitals
+		- Some type of paint or liquid that’s sustainable and fast drying
+		- Every week has a slight different composition of paint that is detected to determine expiry date - do certain products have certain ranges of dates in a batch (e.g. will one batch always be within 2 weeks of expiry date range)
+		- Paint comes in dots of equal size (how is it easily applied?)
+	- Device that takes on the shape of damaged vessels for trauma (magnets?, fills GSWs?)
+	- Exoskeleton that reinforces movements for workers that move and bend a lot - also enforces good form
+	- Device that goes along with the at home health thing where the doctor can do basic check up in the person's home without being there
+	- Motion capture suit or tech for physio/healthcare (can tell where the body is based on electrical potential of living skin?)
+	- Magnetic or electronic or ultrasonic waves for gout or other inflammatory response issues
+	- Pillow that can detect brain waves associated with sleep to track and aid sleep wake cycle
+		- Uses magnetic or ultrasonic waves to induce and aid sleep
+		- Alarm that wakes you up at the lightest point of sleep during a certain period (uses AI and machine learning to learn users patterns and combine with real time data to wake up at right time)
 - ## Health and Beauty
 - Sleep/wake aids
 	- Wake up in morning (pure O2 hit or jolt)

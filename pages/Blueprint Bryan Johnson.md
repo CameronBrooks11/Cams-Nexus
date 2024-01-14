@@ -1,0 +1,1 @@
+- https://blueprint.bryanjohnson.co
