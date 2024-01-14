@@ -1,6 +1,6 @@
 - *This needs to be empty by the end of each day*
 -
-- To send ASAP Culmination of Current Work
-- SnapTessSCAD paper outline and repo
-- Mini Press paper
-- PipeFitting repo and asking
+- To send Pearce ASAP Culmination of Current Work
+	- SnapTessSCAD paper outline and repo
+	- Mini Press paper
+	- PipeFitting repo and asking
