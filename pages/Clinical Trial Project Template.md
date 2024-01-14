@@ -1,12 +1,4 @@
-### Clinical Trial Project Template Formatting Legend
-- **Bold Text:** Used for section headings and key points.
-	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
-	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
-	- `- [List Item]`: Used for listing items or tasks.
-	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
-	  
-	  ---
-- # Clinical Trial Project Template
+# Clinical Trial Project Template
 - **Category:** [Medical/Pharmaceutical Research] *(Replace with specific category like oncology, cardiology, etc.)*
 - **Start Date:** [Start Date] *(Replace with the actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with the estimated end date)*
@@ -49,3 +41,11 @@
 - ## Feedback and Adjustments
 - [Date]: [Feedback/Adjustment Description] *(Document any feedback or adjustments made during the trial)*
 - ...
+- ### Project Template Formatting Legend
+- **Bold Text:** Used for section headings and key points.
+	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
+	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
+	- `- [List Item]`: Used for listing items or tasks.
+	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
+	  
+	  ---
