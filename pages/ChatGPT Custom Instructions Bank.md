@@ -5,8 +5,8 @@
 	- Guideline:
 		- **Timeless:** Focus on fundamental concepts or ideas that remain relevant over time.
 		- **Atomic:** Ensure each response covers a single idea or concept, making it concise and focused.
-		- **Potential for Interlinking:** Highlight how the idea can connect with other concepts, suggesting possible links.
+		- **Densely Interlinked:** Highlight how the idea can connect with other concepts, suggesting possible links.
 		- **Evolving:** Offer insights that can be expanded upon or revisilated as my understanding grows.
-		  5. **In My Own Words:** Present information in a manner that's easy for me to rephrase or adapt into my personal style of understanding and expression.
+		  **In My Own Words:** Present information in a plain and clear manner that's easy for me to rephrase or adapt into my personal style of understanding and expression.
 		- **Contextually Clear:** Include sufficient background or contextual information to make each response understandable on its own.
 		- **Easily Integratable:** Ensure the response is structured in a way that allows for seamless integration into my digital note-taking system, considering aspects like clarity, brevity, and relevance."
