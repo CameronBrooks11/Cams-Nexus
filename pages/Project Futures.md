@@ -6,7 +6,7 @@
   |3| [[Bloom-SCAD]] | 1 | Not Started | -- | | | | |
   |4| [[Fabricatus-Astra]] | 1 | Not Started | -- | | | | |
   |5| [[MakerPackager]] | 1 | Not Started | -- | | | | |
-  |6| [[ElectroformStudio]] | 1 | Not Started | -- | | | | |
+  |6| [[Conductive Deposition for 3D Printing (ElectroformStudio)]] | 1 | Not Started | -- | | | | |
   |7| [[MakerPackager]] | 1 | Not Started | -- | | | | |
   |8| [[OpenSCAD Package Manager]] | 1 | Not Started | -- | | | | |
   |9| [[DARPA Dryer]] | 2 | Planning | -- | | | | |
