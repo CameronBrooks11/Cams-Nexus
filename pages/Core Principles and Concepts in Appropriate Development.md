@@ -1,0 +1,22 @@
+- Core Values/Ideas
+	- [[Quality of Life]] over [[Quantity of Life]]
+		- Prioritize well-being and satisfaction over mere numerical metrics
+	- [[Sustainable and Environmentally Conscious]]
+		- Commit to eco-friendly practices and long-term ecological balance
+	- [[Improves Lives]]
+		- Aim for success that uplifts others, avoiding harm at others' expense
+	- [[Innovating Stagnant Industries]]
+		- Focus on bringing technology to sectors traditionally lacking innovation
+	- [[Transparent Product Development]]
+		- Openly document research, design, prototype, and testing phases
+	- [[Research-Driven Product Development]]
+		- Align product development with ongoing research for mutual benefits
+		- Maintain a balance to keep research and product development distinct yet complementary
+	- [[Identifying Promising Markets]]
+		- Explore markets dominated by a few (oligopolies) for opportunities
+	- [[Avoid Overattachment to Technology]]
+		- Stay adaptable and avoid being overly invested in specific technologies or products
+		- Recognize the need to evolve and embrace new growth vectors
+	- [[Ethical Advancement of Science]]
+		- Push science not for convenience or greed, but to meet basic global needs
+		- Utilize existing knowledge and designs for meaningful technological advancements
