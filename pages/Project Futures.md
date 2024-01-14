@@ -34,7 +34,9 @@
 	- [[Flexible Mobile Work Station for Scientists, Engineers and Innovators]]
 	- [[Recycling of Industrial Waste to 3D Printing Filament Additives]]
 	- [[AI-Driven CAD and Open Source Hardware (OSH) Network]]
+	- [[Smart Modular & Augmentable Plant Enclosure]]
 - ### Idea Fragments
+  collapsed:: true
 	- Cyclic water dispenser that uses Madeleines filter
 	- Combining OS water filter with hypochlorite electrolysis sterilization system
 - ### #[[Uncategorized Technology and Innovation Ideas]]
