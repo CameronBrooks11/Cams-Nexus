@@ -1,1 +1,4 @@
+- Learning resources:
+	- d
+	-
 - [mastering-openscad.eu](https://mastering-openscad.eu/)
