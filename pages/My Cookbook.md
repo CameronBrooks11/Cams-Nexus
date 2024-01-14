@@ -37,6 +37,7 @@
 	- [[Grilling]]
 	- [[Stir-Frying]]
 	- [[Steaming]]
+	- [[Air Frying]]
 - ## Kitchen Essentials
 	- ### Tools
 		- [[Knives]]
