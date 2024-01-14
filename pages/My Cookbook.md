@@ -20,18 +20,7 @@
 	- ### Micronutrients
 		- [[Vitamins]]
 		- [[Minerals]]
-- ## Recipe Collection
-	- ### Breakfast
-		-
-	- ### Lunch
-		- [[Quinoa Salad]]
-		- [[Paleo Chicken Wrap]]
-	- ### Dinner
-		- [[Vegetarian Lasagna]]
-		- [[Grilled Salmon with Vegetables]]
-	- ### Snacks
-		- [[Fruit Smoothies]]
-		- [[Nuts and Seeds Mix]]
+-
 - ## Cooking Techniques
 	- [[Baking]]
 	- [[Grilling]]
