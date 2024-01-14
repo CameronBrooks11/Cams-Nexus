@@ -1,7 +1,5 @@
 # 3D Printing and Local Manufacturing of Sporting Equipment and Testing Devices
-- **Overview**
-	- Utilizing [[3D Printing (3DP)]] and [[Local Manufacturing]] is transforming the production of [[Sporting Equipment]] and [[Testing Devices]].
-	- Focuses on creating customized, efficient, and accessible sporting goods and fitness technologies.
+- **Concept:** Utilizing [[3D Printing (3DP)]] and [[Local Manufacturing]] is transforming the production of [[Sporting Equipment]] and [[Testing Devices]]. Focuses on creating customized, efficient, and accessible sporting goods and fitness technologies.
 - **Wearable Technology in Sports**
 	- Development of various [[Wearable Tech]] for athletes and fitness enthusiasts.
 		- Low-tech, [[Fitbit-Style Devices]] for tracking daily activities and health metrics.

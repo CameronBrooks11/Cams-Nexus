@@ -1,4 +1,4 @@
-# Open Source Transition Consultation Service
+# Business Concept: Open Source Transition Consultation Service
 - [[Open Source Transition Consultation Service]] offers specialized guidance for [[Companies]], [[Institutions]], and [[Researchers]] to adopt an [[Open Source Model]].
 	- This service encompasses areas like [[Software]], [[Hardware]], and [[Open Access Publishing]].
 - **Scope of Services**

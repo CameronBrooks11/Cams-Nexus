@@ -1,5 +1,5 @@
 # Complete Open Source System for Everyday Necessities (COSSEN)
-- The Complete Open Source System for Everyday Necessities is a comprehensive, user-friendly [[system]] designed to empower individuals to live a cost-effective and simpler life. It is based on open source principles, providing tools and resources for everyday needs. Key components include:
+- **Concept:** The Complete Open Source System for Everyday Necessities is a comprehensive, user-friendly [[system]] designed to empower individuals to live a cost-effective and simpler life. It is based on open source principles, providing tools and resources for everyday needs. Key components include:
 	- **Open Source Solutions for Daily Needs**: Providing [[open-source blueprints]] and guides for creating a wide range of everyday necessities, from furniture to clothing.
 	- **User-Friendly Interface**: A central [[digital platform]] or [[app]] that is intuitive and easy to navigate, catering to users with varying levels of technical expertise.
 	- **Cost-Effectiveness**: Focused on [[affordable living]], the system provides ways to create or obtain essentials at a minimal cost.
