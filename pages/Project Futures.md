@@ -33,6 +33,7 @@
 	- [[3D Printing of Coral Structures]]
 	- [[Flexible Mobile Work Station for Scientists, Engineers and Innovators]]
 	- [[Recycling of Industrial Waste to 3D Printing Filament Additives]]
+	- [[AI-Driven CAD and Open Source Hardware (OSH) Network]]
 - ### Idea Fragments
 	- Cyclic water dispenser that uses Madeleines filter
 	- Combining OS water filter with hypochlorite electrolysis sterilization system
