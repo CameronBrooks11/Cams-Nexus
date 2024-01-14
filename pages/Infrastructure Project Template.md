@@ -1,12 +1,4 @@
-### Infrastructure Project Template Formatting Legend
-- **Bold Text:** Used for section headings and key points.
-	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
-	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
-	- `- [List Item]`: Used for listing items or tasks.
-	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
-	  
-	  ---
-- # Infrastructure Project Template
+# Infrastructure Project Template
 - **Category:** [Infrastructure Category - e.g., Transportation, Urban Development, Construction] *(Replace with specific infrastructure category)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
@@ -52,3 +44,11 @@
 - ## Progress Tracking and Adjustments
 - **Progress Reports:** [Frequency and format of progress reports] *(Detail how progress will be reported)*
 - **Adjustments:** [Process for making adjustments] *(Describe the process for implementing changes or adjustments)*
+- ### Infrastructure Project Template Formatting Legend
+- **Bold Text:** Used for section headings and key points.
+	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
+	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
+	- `- [List Item]`: Used for listing items or tasks.
+	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
+	  
+	  ---

@@ -1,12 +1,4 @@
-### Engineering Design Project Template Formatting Legend
-- **Bold Text:** Used for section headings and key points.
-	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
-	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
-	- `- [List Item]`: Used for listing items or tasks.
-	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
-	  
-	  ---
-- # Engineering Design Project Template
+# Engineering Design Project Template
 - **Category:** [Engineering Discipline/Design Focus] *(Replace with specific engineering discipline or design focus)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
@@ -46,3 +38,11 @@
 - ## Feedback and Design Adjustments
 - [Date]: [Feedback/Adjustment Description] *(Replace with specific feedback or adjustment details related to design changes)*
 - ...
+- ### Engineering Design Project Template Formatting Legend
+- **Bold Text:** Used for section headings and key points.
+	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
+	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
+	- `- [List Item]`: Used for listing items or tasks.
+	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
+	  
+	  ---
