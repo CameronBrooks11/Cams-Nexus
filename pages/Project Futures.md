@@ -22,6 +22,7 @@
 	- [[3D Printing and Local Manufacturing of Sporting Equipment and Athletic Testing Devices]]
 	- [[Agricultural Waste to Biofilament Conversion]]
 	- [[Morphable Mold for Custom Rapid Casting]]
+	- [[Adaptable Molding Device]]
 	- [[Electrolyzed Hydrogen Production]]
 	- [[FOSH Hospital Equipment]]
 	- [[Sheet Press Applications]]
