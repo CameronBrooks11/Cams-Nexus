@@ -38,4 +38,7 @@
 	- Lawn Care business that is “on demand” if you need someone to cut your lawn ASAP and don’t want a contract you call or text the number and it the voice someone gets the info (approximate property size) but text does it automatically (use gps tracking to find total area cut to do charge - on top of flat fee) - same thing for snow shovelling - but a combination of pounds and area)
 	- Restaurant with OS tools and appliances where it’s like a community kitchen
 	- Adult swimming school (private pools, use the body motion capture device along side instructors)
--
+- Amazon Semi-Automatic Business Overview
+	- Amazon links
+		- Affiliate program: [https://affiliate-program.amazon.com/](https://affiliate-program.amazon.com/)
+		- Category commissions: [https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ](https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ)
