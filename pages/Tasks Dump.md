@@ -9,67 +9,73 @@
 	- SnapTessSCAD paper outline and repo
 	- Mini Press paper
 	- PipeFitting repo and asking
-- SnapTessSCAD
-	- Repo
+- Grad school set plan
+	- Applications
+	- Scholarships --> OGS (see pinned email)
+	- Subject / topic / roadmap
+- Project stuff
+  collapsed:: true
+	- SnapTessSCAD
+		- Repo
+			- Script
+			- Examples
+			- Stl exports
+			- Pics
+			- README
+		- Intro
+			- Lit review
+			- Description
+		- Methods and materials
+			- Explain SCAD methods
+			- Explain printing procedure
+			- Explain mechanical testing methods
+		- Results
+		- Results of printing the samples
+		- How the results will be interpreted and presented for mechanical tests
+	- RecurTreeSCAD
 		- Script
 		- Examples
 		- Stl exports
 		- Pics
 		- README
-	- Intro
-		- Lit review
-		- Description
-	- Methods and materials
-		- Explain SCAD methods
-		- Explain printing procedure
-		- Explain mechanical testing methods
-	- Results
-	- Results of printing the samples
-	- How the results will be interpreted and presented for mechanical tests
-- RecurTreeSCAD
-	- Script
-	- Examples
-	- Stl exports
-	- Pics
-	- README
-- SOSSAL (Scalable Open Source Solar Accessories Library))
-	- Scripts
-		- Corner
-		- Middle
-		- Adjust for inverse angles for front
-		- Adjust for linked (2) corner
-		- Adjust for linked (2) middle
-		- extender?
-	- Examples
-	- Stl exports
-	- Pics
-	- README
-		- Goal with lib
-		- Touch on each paper and integrate papers
-- Scientific press alpha
-	- Complete AFFiNE page
-	- Review paper to see what is left and confirm with morgan.
-	- Technical items:
-		- SD card and logging
-		- Power monitoring
-		- LCD screen
-		- Safety / state functions
-- Industrial press
-	- Project plan / timeline  AFFiNE page
-	- Complete / update current design schematic
-		- Version for Opta and another for Portenta
-	- Complete current design BOM
-	- Compare to other sheet press(es) and other PP designs on site
-	- Initial programming
-	- Final update for schematic and BOM
-	- Send to Dan to review
-	- Order stuff and arrange for time(s) to build
-- Scientific press beta
-	- Project plan / timeline  AFFiNE page
-	- Yukonstruct prototype fixes
-		- Port added alpha items over (logging, power monitoring, LCD)
-		- Safety scripts
-	- How much can morgan do on this / improve mechanically
-	- Oven coils
-	- Base plate and better mounting
-	- Thermocouples - improved mounting
+	- SOSSAL (Scalable Open Source Solar Accessories Library))
+		- Scripts
+			- Corner
+			- Middle
+			- Adjust for inverse angles for front
+			- Adjust for linked (2) corner
+			- Adjust for linked (2) middle
+			- extender?
+		- Examples
+		- Stl exports
+		- Pics
+		- README
+			- Goal with lib
+			- Touch on each paper and integrate papers
+	- Scientific press alpha
+		- Complete AFFiNE page
+		- Review paper to see what is left and confirm with morgan.
+		- Technical items:
+			- SD card and logging
+			- Power monitoring
+			- LCD screen
+			- Safety / state functions
+	- Industrial press
+		- Project plan / timeline  AFFiNE page
+		- Complete / update current design schematic
+			- Version for Opta and another for Portenta
+		- Complete current design BOM
+		- Compare to other sheet press(es) and other PP designs on site
+		- Initial programming
+		- Final update for schematic and BOM
+		- Send to Dan to review
+		- Order stuff and arrange for time(s) to build
+	- Scientific press beta
+		- Project plan / timeline  AFFiNE page
+		- Yukonstruct prototype fixes
+			- Port added alpha items over (logging, power monitoring, LCD)
+			- Safety scripts
+		- How much can morgan do on this / improve mechanically
+		- Oven coils
+		- Base plate and better mounting
+		- Thermocouples - improved mounting
