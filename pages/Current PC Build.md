@@ -11,4 +11,4 @@
   | Power Supply		 | Corsair RMX White Series RM850x, 850 Watt 80+ Gold Certified | Delivered(Amazon) |
   | GPU | ASUS Dual series GeForce® GTX 1070 OC edition 8GB | Delivered(Ebay) |
   | Monitor | Dell 27" FHD 75Hz 8ms GTG IPS LED FreeSync Gaming Monitor (SE2719HR) | Shipping (BestBuy) |
--
+- [[Planned PC Build December 2020]]
