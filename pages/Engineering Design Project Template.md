@@ -2,6 +2,11 @@
 - **Category:** [Engineering Discipline/Design Focus] *(Replace with specific engineering discipline or design focus)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
+- **Milestones:** *(Should be connected to tangible deliverables)*
+	- *Next:* Milestone N+1
+	- Milestone N
+	- Milestone N-1
+	- ...
 - ## Design Objectives
 - **Objective 1:** [Objective Description] *(Replace with specific design objective)*
 - **Objective 2:** [Objective Description] *(Replace with specific design objective)*

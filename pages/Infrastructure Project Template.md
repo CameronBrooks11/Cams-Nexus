@@ -2,6 +2,11 @@
 - **Category:** [Infrastructure Category - e.g., Transportation, Urban Development, Construction] *(Replace with specific infrastructure category)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
+- **Milestones:** *(Should be connected to tangible deliverables)*
+	- *Next:* Milestone N+1
+	- Milestone N
+	- Milestone N-1
+	- ...
 - ## Project Overview
 - **Brief Description:** [Short description of the project, its goals, and expected outcomes.] *(Replace with project overview)*
 - ## Project Objectives

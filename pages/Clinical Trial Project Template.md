@@ -2,6 +2,11 @@
 - **Category:** [Medical/Pharmaceutical Research] *(Replace with specific category like oncology, cardiology, etc.)*
 - **Start Date:** [Start Date] *(Replace with the actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with the estimated end date)*
+- **Milestones:** *(Should be connected to tangible deliverables)*
+	- *Next:* Milestone N+1
+	- Milestone N
+	- Milestone N-1
+	- ...
 - ## Trial Objectives
 - **Primary Objective:** [Primary Objective Description] *(Replace with the primary goal of the clinical trial)*
 - **Secondary Objectives:** [Secondary Objectives Description] *(List and describe secondary objectives, if any)*
