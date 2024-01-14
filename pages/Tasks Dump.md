@@ -20,9 +20,9 @@
 	- Select and order motor + battery pack
 	- Success Plan for report due Friday the 19th
 - UES Doc
-	- Clubs rehaul
+	- Clubs rehaul --> prioritize discussion for wednesday
 	- ACI add to agenda
-	- -Clubs
+	- Clubs
 		- Policy rehaul
 		- From USC
 		- Vice chairs on commission are delegation committee
@@ -32,13 +32,14 @@
 		- Meeting are at set intervals
 		- Start of the final month of every semester?
 		- Feedback from stakeholders
-	- -WESEL for CMLP53
+	- WESEL for CMLP53
 		- 3D printer (electrical enclosures, etc., validate)
 		- ask eugen
 - Project stuff
-  collapsed:: true
 	- Email Pearce about Pipe Fitting
-	- SnapTessSCAD
+	- collapsed:: true
+	  
+	  SnapTessSCAD
 		- Repo
 			- Script
 			- Examples
@@ -55,13 +56,17 @@
 		- Results
 		- Results of printing the samples
 		- How the results will be interpreted and presented for mechanical tests
-	- RecurTreeSCAD
+	- collapsed:: true
+	  
+	  RecurTreeSCAD
 		- Script
 		- Examples
 		- Stl exports
 		- Pics
 		- README
-	- SOSSAL (Scalable Open Source Solar Accessories Library))
+	- collapsed:: true
+	  
+	  SOSSAL (Scalable Open Source Solar Accessories Library))
 		- Scripts
 			- Corner
 			- Middle
