@@ -1,6 +1,9 @@
-# SnapTessSCAD
-id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
-collapsed:: true
+- Pics
+  collapsed:: true
+	- ![10853_2022_8015_Fig2_HTML.webp](../assets/10853_2022_8015_Fig2_HTML_1705261120475_0.webp){:height 1150, :width 1250}
+- # SnapTessSCAD
+  id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
+  collapsed:: true
 	- *Innovation and Technology Project Template*
 	- **Last Updated:** [[Jan 13th, 2024]]
 	- **Links:** [GitHub:CameronBrooks11/SnapTessSCAD](https://github.com/CameronBrooks11/SnapTessSCAD)
