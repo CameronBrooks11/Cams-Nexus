@@ -4,11 +4,12 @@
 - Fix all project templates
 - Fix script (times) and transfer person
 - UES
+  collapsed:: true
 	- Answer all (Clarrie, GC, international)
 	- plan for The Doc
 		- Clubs rehaul --> prioritize discussion for wednesday
 		- ACI add to agenda
-		- wellne
+		- wellness --> cubes replaced by press?
 		- Clubs
 			- Policy rehaul
 			- From USC
@@ -24,25 +25,32 @@
 			- ask eugen
 - Aero mould --> answer Brett
 - ISCI
+  collapsed:: true
 	- Orient
 	- PM
 	- Meeting
 - Payload
+  collapsed:: true
 	- tasks formalize:
 		- Riley: [https://www.printables.com/model/77186-cubesat-v10/files](https://www.printables.com/model/77186-cubesat-v10/files) replicate this on Fusion360 or OnShape. 3D model and corresponding dimensioned 2D drawing for all the parts. Keep in mind this will be stretched length wise to create a 2U which will be interfaced with the normal 1U that the design at the link describes.
 		- Nick: [https://github.com/chrisspen/gears](https://github.com/chrisspen/gears) use this lib to come up with 3 variations of planetary gears to test. Consider the size of the payload (ask Jess cross section dimensions), since it needs to fit inside with some tolerance
 		- Graham: go onto the rocketry gitlab and clone the repo. Start documenting the designs. Tell him to message me on teams for what he needs.
 		- Everyone else: CAD the multi neck flask, help with frame CAD
 	- Report rehash and into .md for subcategories --> Pearce paper
+	- New time possible for payload meetings
+	- reach out to nima out experiment design task
 - To send Pearce ASAP Culmination of Current Work
+  collapsed:: true
 	- SnapTessSCAD paper outline and repo
 	- Mini Press paper
 	- PipeFitting repo and asking
 - Grad school set plan
+  collapsed:: true
 	- Applications
 	- Scholarships --> OGS (see pinned email)
 	- Subject / topic / roadmap
 - Capstone tasks figure out
+  collapsed:: true
 	- Finalize the main software loop
 	- Initial programming for the control algorithm
 	- Design PCB to connect all components
@@ -50,6 +58,7 @@
 	- Success Plan for report due Friday the 19th
 	- Plan for confirming with masters students and getting them involved
 - Project stuff
+  collapsed:: true
 	- Email Pearce about Pipe Fitting
 	- collapsed:: true
 	  
