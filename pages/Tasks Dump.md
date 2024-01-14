@@ -1,5 +1,24 @@
 - *This needs to be empty by the end of each day*
 - ---
+- UES
+	- Answer all (Clarrie, GC, international)
+	- plan for The Doc
+	  collapsed:: true
+		- Clubs rehaul --> prioritize discussion for wednesday
+		- ACI add to agenda
+		- Clubs
+			- Policy rehaul
+			- From USC
+			- Vice chairs on commission are delegation committee
+			- PF 2nd month of every semester (add grace period?)
+			- Clubs commission person can be anyone on team with a leadership position
+			- Must always attend
+			- Meeting are at set intervals
+			- Start of the final month of every semester?
+			- Feedback from stakeholders
+		- WESEL for CMLP53
+			- 3D printer (electrical enclosures, etc., validate)
+			- ask eugen
 - Aero mould --> answer Brett
 - ISCI
 	- Orient
@@ -26,22 +45,6 @@
 	- Design PCB to connect all components
 	- Select and order motor + battery pack
 	- Success Plan for report due Friday the 19th
-- UES Doc
-	- Clubs rehaul --> prioritize discussion for wednesday
-	- ACI add to agenda
-	- Clubs
-		- Policy rehaul
-		- From USC
-		- Vice chairs on commission are delegation committee
-		- PF 2nd month of every semester (add grace period?)
-		- Clubs commission person can be anyone on team with a leadership position
-		- Must always attend
-		- Meeting are at set intervals
-		- Start of the final month of every semester?
-		- Feedback from stakeholders
-	- WESEL for CMLP53
-		- 3D printer (electrical enclosures, etc., validate)
-		- ask eugen
 - Project stuff
 	- Email Pearce about Pipe Fitting
 	- collapsed:: true
