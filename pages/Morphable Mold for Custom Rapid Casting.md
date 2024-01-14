@@ -3,7 +3,7 @@
 	- **Key Features**:
 		- **Adaptability**: Can change shape to accommodate various designs.
 		- **Rapid Casting**: Streamlines the process of creating multiple, unique casted objects.
-	- **Technology Involved**:
+	- **Possible Technology Involved**:
 		- **Ferromagnetic Fluids**: Utilize ferromagnetic fluids to alter mold shapes.
 		- **Magnetic Fields**: Leverage magnetic fields to manipulate the fluid and form the desired mold shape.
 		- **Photo/Thermo-hardening**: Incorporate materials that harden in response to light or heat, solidifying the mold.
