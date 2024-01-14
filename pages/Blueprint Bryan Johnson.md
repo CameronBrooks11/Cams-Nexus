@@ -1,1 +1,1 @@
-- https://blueprint.bryanjohnson.co
+- [blueprint.bryanjohnson.co](https://blueprint.bryanjohnson.co)
