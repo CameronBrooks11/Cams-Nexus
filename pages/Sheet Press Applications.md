@@ -1,3 +1,3 @@
 - Sheet press application ideas
-	- Heating floor made from plastic plate press slabs that have steel or titanium mesh melted in then
+	- Extra strong plastic plate press slabs that have [[steel mesh]] or [[titanium mesh]] melted in them
 	- [[Hydronic heating]] in the [[sand-polymer composite]] sheets
