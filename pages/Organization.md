@@ -1,4 +1,5 @@
 # Organization, The Driving Force of Existence
+title:: Organization
 - ## Concept Overview
 - **Definition of Organization:** Organization is a multifaceted concept encompassing various meanings and applications across different fields.
 	- **Basic Definition:** The act or process of organizing.
