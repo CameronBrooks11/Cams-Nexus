@@ -22,6 +22,7 @@
 	- [[3D Printing and Local Manufacturing of Sporting Equipment and Athletic Testing Devices]]
 	- [[Agricultural Waste to Biofilament Conversion]]
 	- [[Morphable Mold for Custom Rapid Casting]]
+	- [[Electrolyzed Hydrogen Production]]
 - ### Idea Fragments
 	- Cyclic water dispenser that uses Madeleines filter
 	- Combining OS water filter with hypochlorite electrolysis sterilization system
