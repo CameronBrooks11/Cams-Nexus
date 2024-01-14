@@ -13,6 +13,8 @@
   |10| [[Scalable Open Induction Heating]] | 5 | Planning | -- | | | | |
 -
 - ## Brain Waves
-- [[High-Precision Open Source LiDAR Scanner]]
-- [[Web Application for Processing Image Input to 3D Model]]
--
+	- [[High-Precision Open Source LiDAR Scanner]]
+	- [[Web Application for Processing Image Input to 3D Model]]
+- ### Brain Fragments
+	- Cyclic water dispenser that uses Madeleines filter
+	-
