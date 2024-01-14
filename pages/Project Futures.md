@@ -19,4 +19,5 @@
 	- [[Complete Open Source System for Everyday Necessities]]
 - ### Brain Fragments
 	- Cyclic water dispenser that uses Madeleines filter
+	- Combining OS water filter with hypochlorite electrolysis sterilization system
 	-
