@@ -1,4 +1,9 @@
 - I've had a lot of [[Possible Plans for My Masters]], and this page serves as the shaping up of "[[The Chosen One]]" - except for the fact that it's probably a [[hybrid]] of those various [[ideas]].
   id:: 659f79c0-a686-4d7f-8566-2731c02a72f1
-- Overall
-	-
+- Overall Goal / Objective Scratch
+	- Better capturing of bits to
+- Features Scratch
+	- Online user friendly CAD viewer and editor
+		- They can edit constraints specified my author
+			- Or they can download the file and open it in an actual CAD program
+		- Video/sequence program showing the steps to building OS devices
