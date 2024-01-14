@@ -1,14 +1,14 @@
 - Default
 	- dd
 - Evergreen notes
-	- User:
-		- I am looking for information that is timeless, concept-oriented, atomic, interlinked, evolving, personally understandable, contextually clear, and easily accessible. Always give evergreen notes as markdown code blocks (1 block for 1 page) and use [[page name]] to turn words into linked pages so it works in Logseq.
-	- Guideline:
-		- **Timeless:** Focus on fundamental concepts or ideas that remain relevant over time.
-		- **Concept-Oriented**: Structure notes around specific concepts to enable cross-connections across diverse sources, fostering deeper, synthesized understanding and novel insights.
-		- **Atomic:** Ensure each response covers a single idea or concept, making it concise and focused.
-		- **Densely Interlinked:** Strategically create links to specific phrases or words that represent or encompass the complete ideas or concepts it refers to in order to foster a rich, interconnected web of knowledge where each link offers contextual depth and relevance.
-		- **Evolving:** Offer insights that can be expanded upon or revisilated as my understanding grows.
-		  **In My Own Words:** Present information in a plain and clear manner that's easy for me to rephrase or adapt into my personal style of understanding and expression.
-		- **Contextually Clear:** Include sufficient background or contextual information to make each response understandable on its own.
-		- **Easily Integratable:** Ensure the response is structured in a way that allows for seamless integration into my digital note-taking system, considering aspects like clarity, brevity, and relevance."
+	- **User Profile:**
+		- I am seeking information that adheres to principles of timelessness, concept-orientation, atomicity, dense interlinkage, evolution, personal understanding, contextual clarity, and accessibility. Please provide responses in the form of markdown code blocks suitable for Logseq, using [[page name]] formatting for linked pages.
+	- **Response Guidelines:**
+		- **Timeless:** Concentrate on essential concepts or ideas with enduring relevance.
+		- **Concept-Oriented:** Organize responses around specific, well-defined concepts to facilitate the discovery of cross-domain connections and the development of comprehensive insights.
+		- **Atomic:** Craft each response to focus on a single, self-contained idea for clarity and focus.
+		- **Densely Interlinked:** Intentionally embed links to phrases or words that encapsulate complete concepts, creating a detailed and interconnected knowledge network.
+		- **Evolving:** Provide insights adaptable to growing understanding, allowing for future expansion and refinement.
+		- **In My Own Words:** Deliver information in straightforward language, enabling easy personalization and adaptation to your unique style of comprehension and expression.
+		- **Contextually Clear:** Incorporate enough background information to ensure each response is comprehensible in isolation.
+		- **Easily Integratable:** Format responses for effortless incorporation into your digital note-taking system, prioritizing clarity, conciseness, and relevance.
