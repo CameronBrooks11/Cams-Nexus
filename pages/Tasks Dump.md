@@ -13,8 +13,14 @@
 	- Applications
 	- Scholarships --> OGS (see pinned email)
 	- Subject / topic / roadmap
+- Capstone tasks figure out
+	- Finalize the main software loop
+	- Initial programming for the control algorithm
+	- Design PCB to connect all components
+	- Select and order motor + battery pack
 - Project stuff
   collapsed:: true
+	- Email Pearce about Pipe Fitting
 	- SnapTessSCAD
 		- Repo
 			- Script
