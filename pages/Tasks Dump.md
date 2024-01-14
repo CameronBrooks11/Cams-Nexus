@@ -1,5 +1,6 @@
 - *This needs to be empty by the end of each day*
 - ---
+- But screen protector, phone case and toothbrush heads
 - Fix all project templates
 - Fix script (times) and transfer person
 - UES
@@ -92,15 +93,13 @@
 		- README
 			- Goal with lib
 			- Touch on each paper and integrate papers
-	- collapsed:: true
-	  
-	  Scientific press alpha
+	- Scientific press alpha
 		- Complete page
 		- Software rework (organize, process menu-centric, GUI, e-stop, safety functions, thermal runaway, flow diagram)
 		- Review paper to see what is left and confirm with morgan.
 		- Technical items:
-			- SD card and logging
-			- Power monitoring
+			- SD card and logging --> remove to beta
+			- Power monitoring --> remove
 			- LCD screen
 			- Safety / state functions
 	- collapsed:: true
