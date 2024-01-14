@@ -16,6 +16,7 @@
 	- [[High-Precision Open Source LiDAR Scanner]]
 	- [[Web Application for Processing Image Input to 3D Model]]
 	- [[Open Source Locally Manufactured Insulin]]
+	- [[Complete Open Source System for Everyday Necessities]]
 - ### Brain Fragments
 	- Cyclic water dispenser that uses Madeleines filter
 	-
