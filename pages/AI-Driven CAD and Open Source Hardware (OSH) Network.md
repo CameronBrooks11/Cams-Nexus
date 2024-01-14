@@ -1,6 +1,3 @@
-- [[Machine Learning and AI]]: Core Technologies in Modern CAD Tools
-	- Timeless relevance in [[AI CAD]] development
-	- Enhancing efficiency and precision in design
 - [[Pitch to Google]]: Leveraging AI in CAD for OSH
 	- Proposal for integrating [[Natural Language Processing]] in CAD
 	- Focusing on Google's interest in AI-driven solutions
