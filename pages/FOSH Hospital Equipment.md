@@ -1,8 +1,8 @@
 - **FOSH Hospital Equipment**
 	- [[FOSH]], or [[Free and Open Source Hardware]], in the context of [[hospital equipment]], refers to [[medical devices]] and tools whose designs are openly shared, allowing anyone to [[build, modify, and distribute]] them.
-	- The concept emphasizes accessibility, affordability, and community-driven innovation, particularly valuable in resource-limited settings.
-	- Initial focus on simpler, yet essential, devices allows for gradual development and testing before moving to more complex machinery.
-	- Examples of reasonable FOSH hospital equipment to start with:
+	- The concept emphasizes accessibility, affordability, and [[community-driven innovation]], particularly valuable in [[resource-limited settings]].
+	- Initial focus on simpler, yet essential, devices allows for [[gradual development]] and testing before moving to more [[complex]] machinery.
+	- Some examples of reasonable FOSH hospital equipment for the open source research and medical community to approach:
 		- [[Electro surgical unit]]: A device used in surgery to cut tissue or seal blood vessels using high-frequency electrical currents.
 		- [[Video laryngoscope]]: A tool for visualizing a patient's airway during intubation, with a camera at the end for better guidance and training.
 		- [[Defibrillator]]: A life-saving device that delivers a dose of electric current to the heart to treat life-threatening cardiac dysrhythmias.
