@@ -1,0 +1,51 @@
+# My Cookbook
+- ## Overview
+	- ### Purpose
+		- The goal of this cookbook is to compile nutritious and delicious recipes that cater to a variety of dietary needs.
+	- ### Principles
+		- Focus on health and nutrition.
+		- Inclusion of diverse cuisines.
+		- Adaptability to different dietary restrictions.
+- ## Dietary Categories
+	- [[Vegan Recipes]]
+	- [[Vegetarian Recipes]]
+	- [[Gluten-Free Recipes]]
+	- [[Keto Recipes]]
+	- [[Paleo Recipes]]
+- ## Nutrition Basics
+	- ### Macronutrients
+		- [[Carbohydrates]]
+		- [[Proteins]]
+		- [[Fats]]
+	- ### Micronutrients
+		- [[Vitamins]]
+		- [[Minerals]]
+- ## Recipe Collection
+	- ### Breakfast
+		-
+	- ### Lunch
+		- [[Quinoa Salad]]
+		- [[Paleo Chicken Wrap]]
+	- ### Dinner
+		- [[Vegetarian Lasagna]]
+		- [[Grilled Salmon with Vegetables]]
+	- ### Snacks
+		- [[Fruit Smoothies]]
+		- [[Nuts and Seeds Mix]]
+- ## Cooking Techniques
+	- [[Baking]]
+	- [[Grilling]]
+	- [[Stir-Frying]]
+	- [[Steaming]]
+- ## Kitchen Essentials
+	- ### Tools
+		- [[Knives]]
+		- [[Mixing Bowls]]
+		- [[Cookware]]
+	- ### Ingredients
+		- [[Herbs and Spices]]
+		- [[Staple Foods]]
+- ## References and Resources
+	- Cookbooks
+	- Nutrition and Dietary Blogs
+	- Cooking Channels
