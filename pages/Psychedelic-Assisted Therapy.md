@@ -1,2 +1,2 @@
 - https://psychedelics.berkeley.edu/therapy/
-- Reresearch in recent years by the [[Multidisciplinary Association for Psychedelic Studies]] suggests
+- Research in by the [[Multidisciplinary Association for Psychedelic Studies]] has focused on using 3,4-Methylenedioxymethamphetamine, better know as MDMA in the scien
