@@ -1,13 +1,17 @@
+# Airbrakes Capstone
+id:: 659f76c4-3971-493b-a032-f2a8d95a6562
 - **Categories:** Course, Embedded Systems, Aerospace
 - **Start Date:** September 7th, 2023
 - **Estimated End Date:** April 8th, 2024
 - ## Tasks
   
   | Task                    | Description                                     | Status | Deadline |
-  | ----------------------- | ----------------------------------------------- | ------ | -------- |
+  |--|--|--|--|
   | Document reviews        | Outcomes of meeting [notes]                     |        | [Date]   |
   | Complete End 3 Sections | MJD, Risk Management, Feedback and Adjustments  |        | [Date]   |
   | Add all tasks           | Port from MS Planner and updated back as needed |        | [Date]   |
+  |Report 3 plan ||||
+  |||||
 - ## Project Description
 - **Brief Overview:** [Short description of the project, its objectives, and expected outcomes.]
 - ## Key Objectives

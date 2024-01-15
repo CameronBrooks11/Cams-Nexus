@@ -1,0 +1,3 @@
+- [[WE Rocketry Team]]
+- [[McGill Rocketry Team]]
+- [[Duke Rocketry Team]]
