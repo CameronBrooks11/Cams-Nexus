@@ -1,3 +1,4 @@
+- *Interdisciplinary Research Project Template*
 - **Categories:** [List of involved disciplines or fields] *(Replace with involved disciplines, e.g., Biology, Computer Science)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
