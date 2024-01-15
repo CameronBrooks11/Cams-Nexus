@@ -27,4 +27,3 @@ id:: 659f6827-5c4d-4334-9789-17c97000a316
   |8| [[Advanced Cube Cell Bioreactor System Alpha]]  | 39 |Design Execution[:br][Active]|[[Engineering Design Project]], [[Experimental Research Project]] | Aerospace, Process Control, Embedded Systems | Rocketry, FAST | [[W.E.R.T Payload 23/24]] ||
   |9| [[RecurTreeSCAD]] | 1 | Design Execution [Active] | [[Software Engineering Project]] | Manufacturing, Materials | FAST | ||
   |10| [[Pipe-Fitting-SCAD]] | 1 | Design Execution [Active] | [[Software Engineering Project]], [[Engineering Design Project]] | Software, Mechanical, MEP| FAST | ||
-  |11|[[SOSSAL]]|15||[[Software Engineering Project]]|Mechanical Design, Solar PV, Appropriate Technology, Local Manufacturing|FAST|||

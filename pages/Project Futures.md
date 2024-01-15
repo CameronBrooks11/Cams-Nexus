@@ -1,16 +1,17 @@
 ## Fleshed Out Ideas
 - |#|Project|Progress|Status|Type|Subject|Association|People| Links |
   |--|--|--|--|--|--|--|--|
-  |1| [[Component Expansion Additive Manufacture System]]  | 1 |Initiation[Hold]| [[Software Engineering Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Manufacturing, Materials | AddiTronics, FAST | Cameron K. Brooks, Joshua M. Pearce ||
-  |2| [[FEMORA-One]]  | 1 |Initiation[:br][Hold]| [[Engineering Design Project]], [[Experimental Research Project]] | Process Control, Manufacturing, Materials, Embedded Systems, Biomedical | FAST |  ||
-  |3| [[Hypochlorous Acid Generator]]  | 20 | Planning[:br][Hold]| [[Engineering Design Project]], [[Clinical Trial Project]] , [[Product Development Project]] , [[Experimental Research Project]] | Biomedical, Process Control, Embedded Systems | FAST |  ||
-  |4| [[TraceSculptor]] | 1 | Not Started| [[Software Engineering Project]] | Manufacturing, Materials | FAST, AddiTronics | [Fangkai?] ||
-  |5| [[Project Icarus]]  | 1 | Not Started | -- | Software, Accessibility | FAST, Masters |  |  |
-  |6| [[Fabricatus-Astra]] | 1 | Not Started | -- | | | | |
-  |7| [[Bloom-SCAD]] | 1 | Not Started | -- | | | | |
-  |8| [[MakerPackager]] | 1 | Not Started | -- | | | | |
-  |9| [[Conductive Deposition for 3D Printing (ElectroformStudio)]] | 1 | Not Started | -- | | | | |
-  |10| [[MakerPackager]] | 1 | Not Started | -- | | | | |
+  |1|[[SOSSAL]]|15||[[Software Engineering Project]]|Mechanical Design, Solar PV, Appropriate Technology, Local Manufacturing|FAST|||
+  |2| [[Component Expansion Additive Manufacture System]]  | 1 |Initiation[Hold]| [[Software Engineering Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Manufacturing, Materials | AddiTronics, FAST | Cameron K. Brooks, Joshua M. Pearce ||
+  |3| [[FEMORA-One]]  | 1 |Initiation[:br][Hold]| [[Engineering Design Project]], [[Experimental Research Project]] | Process Control, Manufacturing, Materials, Embedded Systems, Biomedical | FAST |  ||
+  |4| [[Hypochlorous Acid Generator]]  | 20 | Planning[:br][Hold]| [[Engineering Design Project]], [[Clinical Trial Project]] , [[Product Development Project]] , [[Experimental Research Project]] | Biomedical, Process Control, Embedded Systems | FAST |  ||
+  |5| [[TraceSculptor]] | 1 | Not Started| [[Software Engineering Project]] | Manufacturing, Materials | FAST, AddiTronics | [Fangkai?] ||
+  |6| [[Project Icarus]]  | 1 | Not Started | -- | Software, Accessibility | FAST, Masters |  |  |
+  |7| [[Fabricatus-Astra]] | 1 | Not Started | -- | | | | |
+  |8| [[Bloom-SCAD]] | 1 | Not Started | -- | | | | |
+  |9| [[MakerPackager]] | 1 | Not Started | -- | | | | |
+  |10| [[Conductive Deposition for 3D Printing (ElectroformStudio)]] | 1 | Not Started | -- | | | | |
+  |11| [[MakerPackager]] | 1 | Not Started | -- | | | | |
   |11| [[OpenSCAD Package Manager]] | 1 | Not Started | -- | | | | |
   |12| [[DARPA Dryer]] | 2 | Planning | -- | | | | |
   |13| [[Scalable Open Induction Heating]] | 5 | Planning | -- | | | | |
