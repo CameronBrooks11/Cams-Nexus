@@ -1,3 +1,4 @@
+- *Engineering Design Project Template*
 - **Category:** [Engineering Discipline/Design Focus] *(Replace with specific engineering discipline or design focus)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*

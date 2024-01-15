@@ -1,4 +1,4 @@
-# Sustainability and Environmental Engineering Project Template
+- *Sustainability and Environmental Engineering Project Template*
 - **Category:** [Sustainability/Environmental Engineering Topic] *(Replace with specific project topic)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*

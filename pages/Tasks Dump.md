@@ -1,6 +1,5 @@
 - *This needs to be empty by the end of each day*
 - ---
-- Fix all project templates
 - Fill initially quick all the relevant current ones
 - Fix script (times) and transfer person
 - UES
