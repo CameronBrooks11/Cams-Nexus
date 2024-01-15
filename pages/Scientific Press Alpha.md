@@ -9,7 +9,6 @@ id:: 659d933b-b59c-42d7-9825-bfcb7afb4d83
   | -------------- | ------------------------------------------------------------------- | ------ | -------- |
   | Add all tasks  | All tasks remaining to complete project alpha                       |        | \[Date]  |
   |Paper complete | [Test Sheet Press Hardware X Paper Draft 11cam.docx](https://uwoca-my.sharepoint.com/:w:/g/personal/mwoods52_uwo_ca/EYSCtlrzprROlc3MJUqUZaYBagjo0F0PZnCBvILtQLQn6w) |        | \[Date]  |
--
 - ## Project Description
 - **Brief Overview:** Short description of the project, its objectives, and expected outcomes.
 - ## Key Objectives
