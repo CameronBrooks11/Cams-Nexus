@@ -1,4 +1,4 @@
-# Product Development Project Template
+- *Product Development Project Template*
 - **Category:** [Product Category/Type] *(Replace with the specific category or type of product)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*

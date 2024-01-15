@@ -1,3 +1,4 @@
+-
 - **Category:** [Software Development/Engineering] *(Replace with specific project category)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*

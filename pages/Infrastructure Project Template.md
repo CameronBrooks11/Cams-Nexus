@@ -1,4 +1,4 @@
-# Infrastructure Project Template
+- *Infrastructure Project Template*
 - **Category:** [Infrastructure Category - e.g., Transportation, Urban Development, Construction] *(Replace with specific infrastructure category)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*

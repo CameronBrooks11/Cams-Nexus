@@ -1,4 +1,4 @@
-# Clinical Trial Project Template
+- *Clinical Trial Project Template*
 - **Category:** [Medical/Pharmaceutical Research] *(Replace with specific category like oncology, cardiology, etc.)*
 - **Start Date:** [Start Date] *(Replace with the actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with the estimated end date)*
