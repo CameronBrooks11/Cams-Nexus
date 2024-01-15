@@ -45,8 +45,7 @@
 	- PipeFitting repo and asking
 - Grad school set plan
 	- Applications
-	- Scholarships --> OGS (see pinned email)
-		- [[Graduate School Sponsorships]]
+	- Scholarships --> OGS for next year timing how that works out
 	- Subject / topic / roadmap
 - Capstone tasks figure out
   collapsed:: true
