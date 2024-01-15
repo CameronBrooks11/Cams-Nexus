@@ -46,7 +46,7 @@
 - Grad school set plan
 	- Applications
 	- Scholarships --> OGS (see pinned email)
-		- [[Graduate School Sponsorshi
+		- [[Graduate School Sponsorships]]
 	- Subject / topic / roadmap
 - Capstone tasks figure out
   collapsed:: true
