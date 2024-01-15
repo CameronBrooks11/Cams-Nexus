@@ -22,9 +22,9 @@ id:: 659f6827-5c4d-4334-9789-17c97000a316
   |3| [[Airbrakes Capstone]]  | 40 | Design Execution[:br][Active]| [[Engineering Design Project]] | Course, Embedded Systems, Aerospace |Rocketry, Capstone (BESc)| Giorgio Chassikos, Cameron Brooks, Brett MacDonald, Shelby Mior ||
   |4| [[Industrial Press]]  | 41 | Design Execution[:br][Active]| [[Experimental Research Project]], [[Engineering Design Project]] | Embedded Systems, Process Control, Materials, Manufacturing | FAST | Morgan C. Woods, Cameron K. Brooks, Joshua M. Pearce ||
   |5|[[DraftSCAD]]|11||[[Software Engineering Project]]|Mechanical Design, User Interface|FAST|||
-  |6|[[SOSSAL]]|15||[[Software Engineering Project]]|Mechanical Design, Solar PV, Appropriate Technology, Local Manufacturing|FAST|||
   |7| [[ISCI3D]]  | 35 | Design Execution [Active]| [[Engineering Design Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Manufacturing, Embedded Systems, Materials | AddiTronics, Thompson Grant | Ravneet Rattan, Jessica Kerr ||
   |8| [[Scientific Press Beta]]  | 21 |Planning[:br][Hold]| [[Experimental Research Project]], [[Product Development Project]], [[Engineering Design Project]]  | Manufacturing, Materials, Process Control, Embedded Systems | FAST |  ||
   |9| [[Advanced Cube Cell Bioreactor System Alpha]]  | 39 |Design Execution[:br][Active]|[[Engineering Design Project]], [[Experimental Research Project]] | Aerospace, Process Control, Embedded Systems | Rocketry, FAST | [[W.E.R.T Payload 23/24]] ||
   |14| [[RecurTreeSCAD]] | 1 | Design Execution [Active] | [[Software Engineering Project]] | Manufacturing, Materials | FAST | ||
   |15| [[Pipe-Fitting-SCAD]] | 1 | Design Execution [Active] | [[Software Engineering Project]], [[Engineering Design Project]] | Software, Mechanical, MEP| FAST | ||
+  |6|[[SOSSAL]]|15||[[Software Engineering Project]]|Mechanical Design, Solar PV, Appropriate Technology, Local Manufacturing|FAST|||
