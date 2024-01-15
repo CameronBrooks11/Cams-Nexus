@@ -2,6 +2,11 @@
 - **Category:** [Sustainability/Environmental Engineering Topic] *(Replace with specific project topic)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
+- **Milestones:** *(Should be connected to tangible deliverables)*
+	- *Next:* Milestone N+1
+	- Milestone N
+	- Milestone N-1
+	- ...
 - ## Project Objectives
 - **Objective 1:** [Objective Description] *(Replace with specific project objective)*
 - **Objective 2:** [Objective Description] *(Replace with specific project objective)*

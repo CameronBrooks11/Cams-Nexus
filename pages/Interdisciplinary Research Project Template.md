@@ -1,7 +1,11 @@
-# Interdisciplinary Research Project Template
 - **Categories:** [List of involved disciplines or fields] *(Replace with involved disciplines, e.g., Biology, Computer Science)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
+- **Milestones:** *(Should be connected to tangible deliverables)*
+	- *Next:* Milestone N+1
+	- Milestone N
+	- Milestone N-1
+	- ...
 - ## Project Overview
 - **Brief Description:** [Short description of the project, its overarching goals, and integrated approach.] *(Replace with project overview)*
 - ## Research Objectives
