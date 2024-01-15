@@ -26,9 +26,5 @@ id:: 659f6827-5c4d-4334-9789-17c97000a316
   |7| [[ISCI3D]]  | 35 | Design Execution [Active]| [[Engineering Design Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Manufacturing, Embedded Systems, Materials | AddiTronics, Thompson Grant | Ravneet Rattan, Jessica Kerr ||
   |8| [[Scientific Press Beta]]  | 21 |Planning[:br][Hold]| [[Experimental Research Project]], [[Product Development Project]], [[Engineering Design Project]]  | Manufacturing, Materials, Process Control, Embedded Systems | FAST |  ||
   |9| [[Advanced Cube Cell Bioreactor System Alpha]]  | 39 |Design Execution[:br][Active]|[[Engineering Design Project]], [[Experimental Research Project]] | Aerospace, Process Control, Embedded Systems | Rocketry, FAST | [[W.E.R.T Payload 23/24]] ||
-  |10| [[Component Expansion Additive Manufacture System]]  | 1 |Initiation[Hold]| [[Software Engineering Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Manufacturing, Materials | AddiTronics, FAST | Cameron K. Brooks, Joshua M. Pearce ||
-  |11| [[FEMORA-One]]  | 1 |Initiation[:br][Hold]| [[Engineering Design Project]], [[Experimental Research Project]] | Process Control, Manufacturing, Materials, Embedded Systems, Biomedical | FAST |  ||
-  |12| [[Hypochlorous Acid Generator]]  | 20 | Planning[:br][Hold]| [[Engineering Design Project]], [[Clinical Trial Project]] , [[Product Development Project]] , [[Experimental Research Project]] | Biomedical, Process Control, Embedded Systems | FAST |  ||
-  |13| [[TraceSculptor]] | 1 | Not Started| [[Software Engineering Project]] | Manufacturing, Materials | FAST, AddiTronics | [Fangkai?] ||
   |14| [[RecurTreeSCAD]] | 1 | Design Execution [Active] | [[Software Engineering Project]] | Manufacturing, Materials | FAST | ||
   |15| [[Pipe-Fitting-SCAD]] | 1 | Design Execution [Active] | [[Software Engineering Project]], [[Engineering Design Project]] | Software, Mechanical, MEP| FAST | ||
