@@ -3,9 +3,9 @@
   | OpenSCAD | Script-based modeling | OpenSCAD | Actively Developed | Windows, macOS, Linux | |
   | BRL-CAD | CSG modeling, analysis | Tcl | Actively Developed | Windows, macOS, Linux | |
   | Blender | 3D graphics, animation, CAD | Python | Actively Developed | Windows, macOS, Linux | |
-  | QCAD | 2D design and drafting | ECMAScript | Actively Developed | Windows, macOS, Linux | |
-  | HeeksCAD | CNC machining | Python | Moderately Active | Windows, Linux | |
-  | CadQuery | Parametric 3D modeling | Python | Actively Developed | Windows, macOS, Linux | [https://github.com/CadQuery/cadquery]() |
+  | QCAD | 2D design and drafting | ECMAScript | Actively Developed | Windows, macOS, Linux |  |
+  | HeeksCAD | CNC machining | Python | Moderately Active | Windows, Linux |[github.com/Heeks/heekscad](https://github.com/Heeks/heekscad) |
+  | CadQuery | Parametric 3D modeling | Python | Actively Developed | Windows, macOS, Linux | [github.com/CadQuery/cadquery](https://github.com/CadQuery/cadquery) |
   | Antimony | Design, node-based interface | Python | Moderately Active | Windows, macOS, Linux | [pypi.org/project/antimony/#files](https://pypi.org/project/antimony/#files), [github.com/mkeeter/antimony](https://github.com/mkeeter/antimony)  | |
   | OpenJsCad | Script-based 3D modeling | JavaScript | Actively Developed | Web-based | [openjscad.xyz/docs/index](https://openjscad.xyz/docs/index.html), [github.com/jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org)  | |
   | ImplicitCAD | Script-based 3D modeling | Haskell | Moderately Active | Windows, macOS, Linux, Web | [implicitcad.org/](http://implicitcad.org/), [github.com/Haskell-Things/ImplicitCAD](https://github.com/Haskell-Things/ImplicitCAD)  | |
