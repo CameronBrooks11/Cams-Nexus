@@ -1,15 +1,6 @@
 - *This needs to be empty by the end of each day*
 - ---
-- Add script to-dos
-- UES
-	- Answer all (Clarrie, GC, international)
-	- plan for The Doc
-		- Clubs rehaul --> prioritize discussion for wednesday
-		-
-		- wellness --> cubes replaced by press?
-		- Clubs
 - Project stuff
-  collapsed:: true
 	- project pages all current then all
 	- SnapTessSCAD
 	  collapsed:: true
