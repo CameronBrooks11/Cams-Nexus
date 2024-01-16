@@ -21,7 +21,6 @@
 			- 3D printer (electrical enclosures, etc., validate)
 			- ask eugen
 - Payload
-  collapsed:: true
 	- tasks formalize:
 		- Riley: [https://www.printables.com/model/77186-cubesat-v10/files](https://www.printables.com/model/77186-cubesat-v10/files) replicate this on Fusion360 or OnShape. 3D model and corresponding dimensioned 2D drawing for all the parts. Keep in mind this will be stretched length wise to create a 2U which will be interfaced with the normal 1U that the design at the link describes.
 		- Nick: [https://github.com/chrisspen/gears](https://github.com/chrisspen/gears) use this lib to come up with 3 variations of planetary gears to test. Consider the size of the payload (ask Jess cross section dimensions), since it needs to fit inside with some tolerance
@@ -31,7 +30,6 @@
 	- New time possible for payload meetings
 	- reach out to nima out experiment design task
 - To send Pearce ASAP Culmination of Current Work
-  collapsed:: true
 	- SnapTessSCAD paper outline and repo
 	- Mini Press paper
 	- PipeFitting repo and asking
@@ -39,15 +37,8 @@
 	- Applications
 	- Scholarships --> OGS for next year timing how that works out
 	- Subject / topic / roadmap
-- Capstone tasks figure out
-  collapsed:: true
-	- Finalize the main software loop
-	- Initial programming for the control algorithm
-	- Design PCB to connect all components
-	- Select and order motor + battery pack
-	- Success Plan for report due Friday the 19th
-	- Plan for confirming with masters students and getting them involved
 - Project stuff
+  collapsed:: true
 	- project pages all current then all
 	- SnapTessSCAD
 	  collapsed:: true
