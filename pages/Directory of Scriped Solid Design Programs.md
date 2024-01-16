@@ -1,6 +1,6 @@
 - | **Name** | **Primary Focus** | **Scripting Language** | **Development Status** | **Platform Compatibility** | **Links** |
-  | FreeCAD | General, mechanical engineering | Python | Actively Developed | Windows, macOS, Linux | |
-  | OpenSCAD | Script-based modeling | OpenSCAD | Actively Developed | Windows, macOS, Linux | |
+  | FreeCAD | General, mechanical engineering | Python | Actively Developed | Windows, macOS, Linux | [github.com/FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) |
+  | OpenSCAD | Script-based modeling | OpenSCAD | Actively Developed | Windows, macOS, Linux | [github.com/openscad/openscad](https://github.com/openscad/openscad) |
   | BRL-CAD | CSG modeling, analysis | Tcl | Actively Developed | Windows, macOS, Linux | [github.com/BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad) |
   | Blender | 3D graphics, animation, CAD | Python | Actively Developed | Windows, macOS, Linux | [github.com/blender/blender](https://github.com/blender/blender) |
   | QCAD | 2D design and drafting | ECMAScript | Actively Developed | Windows, macOS, Linux | [github.com/qcad/qcad](https://github.com/qcad/qcad) |
