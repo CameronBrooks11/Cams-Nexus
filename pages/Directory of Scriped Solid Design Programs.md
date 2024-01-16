@@ -1,9 +1,9 @@
 - | **Name** | **Primary Focus** | **Scripting Language** | **Development Status** | **Platform Compatibility** | **Links** |
   | FreeCAD | General, mechanical engineering | Python | Actively Developed | Windows, macOS, Linux | |
   | OpenSCAD | Script-based modeling | OpenSCAD | Actively Developed | Windows, macOS, Linux | |
-  | BRL-CAD | CSG modeling, analysis | Tcl | Actively Developed | Windows, macOS, Linux | |
-  | Blender | 3D graphics, animation, CAD | Python | Actively Developed | Windows, macOS, Linux | |
-  | QCAD | 2D design and drafting | ECMAScript | Actively Developed | Windows, macOS, Linux |  |
+  | BRL-CAD | CSG modeling, analysis | Tcl | Actively Developed | Windows, macOS, Linux | [github.com/BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad) |
+  | Blender | 3D graphics, animation, CAD | Python | Actively Developed | Windows, macOS, Linux | [github.com/blender/blender](https://github.com/blender/blender) |
+  | QCAD | 2D design and drafting | ECMAScript | Actively Developed | Windows, macOS, Linux | [github.com/qcad/qcad](https://github.com/qcad/qcad) |
   | HeeksCAD | CNC machining | Python | Moderately Active | Windows, Linux |[github.com/Heeks/heekscad](https://github.com/Heeks/heekscad) |
   | CadQuery | Parametric 3D modeling | Python | Actively Developed | Windows, macOS, Linux | [github.com/CadQuery/cadquery](https://github.com/CadQuery/cadquery) |
   | Antimony | Design, node-based interface | Python | Moderately Active | Windows, macOS, Linux | [pypi.org/project/antimony/#files](https://pypi.org/project/antimony/#files), [github.com/mkeeter/antimony](https://github.com/mkeeter/antimony)  | |
