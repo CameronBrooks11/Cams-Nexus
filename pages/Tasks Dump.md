@@ -1,12 +1,3 @@
 - *This needs to be empty by the end of each day*
 - ---
-- Project stuff
-	- industrial press
-		-
-		-
-		- Complete / update current design schematic
-			- Version for Opta and another for Portenta
-		-
-		-
-		-
-	- [[Scientific Press Beta]]
+- Dump here!
