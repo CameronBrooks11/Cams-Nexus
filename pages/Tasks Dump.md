@@ -1,6 +1,6 @@
 - *This needs to be empty by the end of each day*
 - ---
-- Fill initially quick all the relevant current ones
+-
 - Fix script (times) and transfer person
 - UES - test
   collapsed:: true
@@ -56,11 +56,9 @@
 	- Success Plan for report due Friday the 19th
 	- Plan for confirming with masters students and getting them involved
 - Project stuff
-  collapsed:: true
-	- Email Pearce about Pipe Fitting
-	- collapsed:: true
-	  
-	  SnapTessSCAD
+	- project pages al
+	- SnapTessSCAD
+	  collapsed:: true
 		- Repo
 			- Script
 			- Examples
@@ -77,17 +75,15 @@
 		- Results
 		- Results of printing the samples
 		- How the results will be interpreted and presented for mechanical tests
-	- collapsed:: true
-	  
-	  RecurTreeSCAD
+	- RecurTreeSCAD
+	  collapsed:: true
 		- Script
 		- Examples
 		- Stl exports
 		- Pics
 		- README
-	- collapsed:: true
-	  
-	  SOSSAL (Scalable Open Source Solar Accessories Library))
+	- SOSSAL (Scalable Open Source Solar Accessories Library))
+	  collapsed:: true
 		- Scripts
 			- Corner
 			- Middle
@@ -109,10 +105,9 @@
 			- SD card and logging --> remove to beta
 			- Power monitoring --> remove to beta
 			- LCD screen
-			- Safety / state functions
-	- collapsed:: true
-	  
-	  Industrial press
+			- Safety / state functionsj
+	- industrial press
+	  collapsed:: true
 		- Project plan / timeline
 		- Paper outline
 		- Complete / update current design schematic
@@ -124,9 +119,8 @@
 		- Send to Dan to review
 		- Order stuff and arrange for time(s) to build
 		- Lit review
-	- collapsed:: true
-	  
-	  Scientific press beta
+	- Scientific press beta
+	  collapsed:: true
 		- Project plan / timeline  AFFiNE page
 		- Yukonstruct prototype fixes
 			- Port added alpha items over (logging, power monitoring, LCD)
