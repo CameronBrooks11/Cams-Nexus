@@ -1,9 +1,7 @@
 - *This needs to be empty by the end of each day*
 - ---
--
-- Fix script (times) and transfer person
-- UES - test
-  collapsed:: true
+- Add script to-dos
+- UES
 	- Answer all (Clarrie, GC, international)
 	- plan for The Doc
 		- Clubs rehaul --> prioritize discussion for wednesday
@@ -56,7 +54,7 @@
 	- Success Plan for report due Friday the 19th
 	- Plan for confirming with masters students and getting them involved
 - Project stuff
-	- project pages al
+	- project pages all current then all
 	- SnapTessSCAD
 	  collapsed:: true
 		- Repo
