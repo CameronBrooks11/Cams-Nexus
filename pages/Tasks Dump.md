@@ -2,14 +2,11 @@
 - ---
 - Project stuff
 	- industrial press
-		- Project plan / timeline
-		- Paper outline
+		-
+		-
 		- Complete / update current design schematic
 			- Version for Opta and another for Portenta
-		- Complete current design BOM
 		-
-		- Initial programming
-		- Final update for schematic and BOM
-		- Order stuff and arrange for time(s) to build
-		- Lit review
+		-
+		-
 	- [[Scientific Press Beta]]
