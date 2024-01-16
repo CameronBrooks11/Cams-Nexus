@@ -5,18 +5,9 @@
 	- Answer all (Clarrie, GC, international)
 	- plan for The Doc
 		- Clubs rehaul --> prioritize discussion for wednesday
-		- ACI add to agenda
+		-
 		- wellness --> cubes replaced by press?
 		- Clubs
-			-
-			- From USC
-			-
-			-
-			-
-			-
-			-
-			- Start of the final month of every semester?
-			- Feedback from stakeholders
 - Project stuff
   collapsed:: true
 	- project pages all current then all
