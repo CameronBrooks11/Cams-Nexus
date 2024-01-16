@@ -8,22 +8,15 @@
 		- ACI add to agenda
 		- wellness --> cubes replaced by press?
 		- Clubs
-			- Policy rehaul
+			-
 			- From USC
-			- Vice chairs on commission are delegation committee
-			- PF 2nd month of every semester (add grace period?)
-			- Clubs commission person can be anyone on team with a leadership position
-			- Must always attend
-			- Meeting are at set intervals
+			-
+			-
+			-
+			-
+			-
 			- Start of the final month of every semester?
 			- Feedback from stakeholders
-		- WESEL for CMLP53
-			- 3D printer (electrical enclosures, etc., validate)
-			- ask eugen
-- Grad school set plan
-	- Applications
-	- Scholarships --> OGS for next year timing how that works out
-	- Subject / topic / roadmap
 - Project stuff
   collapsed:: true
 	- project pages all current then all
