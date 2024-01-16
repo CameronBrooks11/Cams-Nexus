@@ -20,12 +20,6 @@
 		- WESEL for CMLP53
 			- 3D printer (electrical enclosures, etc., validate)
 			- ask eugen
-- Aero mould --> answer Brett
-- ISCI
-  collapsed:: true
-	- Orient
-	- PM
-	- Meeting
 - Payload
   collapsed:: true
 	- tasks formalize:
