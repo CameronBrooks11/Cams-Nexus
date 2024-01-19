@@ -44,5 +44,5 @@
 	  ```
 - **Test PHP**
 	- Visit `http://localhost/info.php` in a browser.
-- **See: ** [[Uninstalling Apache and PHP from Windows]]
-	-
+- *See:*  [[Uninstalling Apache and PHP from Windows]]
+- *See:* [[Kanboard Setup on Windows with Apache and PHP]]
