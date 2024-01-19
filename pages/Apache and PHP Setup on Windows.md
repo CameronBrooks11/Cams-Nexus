@@ -13,6 +13,8 @@
 	- Start the service: `httpd.exe -k start`
 - **Verify Installation**
 	- Open `http://localhost` in a web browser to see the Apache test page.
+- **Set ServerName**
+	- Go to httpd.conf and uncomment and change the ServerName to `ServerName localhost:80` or your website name
 - ## Step 2: Install PHP
 - **Download PHP**
 	- Go to [PHP for Windows](https://windows.php.net/download) and download the latest Thread Safe PHP version.
