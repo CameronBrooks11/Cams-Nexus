@@ -18,25 +18,24 @@
 	- Go to [PHP for Windows](https://windows.php.net/download) and download the latest Thread Safe PHP version.
 - **Extract PHP**
 	- Extract PHP files to a directory, e.g., `C:\php`.
-- ```
-  - **Configure PHP with Apache**
-    - **Rename `php.ini` File**
-      - Locate the file `php.ini-development` in your PHP installation directory (e.g., `C:\php`).
-      - Rename this file to `php.ini`.
-    - **Edit `php.ini` for Basic Configuration**
-      - Open `php.ini` in a text editor (like Notepad).
-      - Find the line `;extension_dir = "ext"`. This line might be commented out (indicated by a semicolon at the beginning).
-      - Remove the semicolon to uncomment this line. Ensure it reads `extension_dir = "ext"`. This line specifies the directory where PHP extensions are located.
-    - **Enable Required PHP Extensions**
-      - PHP extensions are additional features that you can enable or disable as needed. In the `php.ini` file, you'll find a list of these extensions, each preceded by a semicolon.
-      - Common extensions that might be required for various applications include `curl`, `gd2`, `mbstring`, `pdo_mysql`, `soap`, `xmlrpc`, and `xsl`. These extensions can be enabled by removing the semicolon at the start of each line.
-      - For example, to enable `curl`, find the line `;extension=curl`, and change it to `extension=curl`.
-      - Similarly, uncomment other required extensions by removing the semicolon at the beginning of each line.
-    - **Save Changes**
-      - After making these changes, save the `php.ini` file.
-    - **Restart Apache**
-      - For these changes to take effect, restart the Apache service. You can do this by running `httpd.exe -k restart` in the command prompt (run as administrator).
-  ```
+- **Configure PHP with Apache**
+  collapsed:: true
+	- **Rename `php.ini` File**
+		- Locate the file `php.ini-development` in your PHP installation directory (e.g., `C:\php`).
+		- Rename this file to `php.ini`.
+	- **Edit `php.ini` for Basic Configuration**
+		- Open `php.ini` in a text editor (like Notepad).
+		- Find the line `;extension_dir = "ext"`. This line might be commented out (indicated by a semicolon at the beginning).
+		- Remove the semicolon to uncomment this line. Ensure it reads `extension_dir = "ext"`. This line specifies the directory where PHP extensions are located.
+	- **Enable Required PHP Extensions**
+		- PHP extensions are additional features that you can enable or disable as needed. In the `php.ini` file, you'll find a list of these extensions, each preceded by a semicolon.
+		- Common extensions that might be required for various applications include `curl`, `gd2`, `mbstring`, `pdo_mysql`, `soap`, `xmlrpc`, and `xsl`. These extensions can be enabled by removing the semicolon at the start of each line.
+		- For example, to enable `curl`, find the line `;extension=curl`, and change it to `extension=curl`.
+		- Similarly, uncomment other required extensions by removing the semicolon at the beginning of each line.
+	- **Save Changes**
+		- After making these changes, save the `php.ini` file.
+	- **Restart Apache**
+		- For these changes to take effect, restart the Apache service. You can do this by running `httpd.exe -k restart` in the command prompt (run as administrator).
 - **Configure Apache to Use PHP**
 	- Edit Apache's `httpd.conf` file in `C:\Apache24\conf`.
 	- Add these lines at the end:
