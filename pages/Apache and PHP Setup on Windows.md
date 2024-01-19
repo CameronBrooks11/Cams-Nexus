@@ -7,7 +7,7 @@
 - **Open Terminal as Administrator**
 	- Search and run "Command Prompt" as administrator.
 - **Install Apache Service**
-	- Navigate to the Apache bin directory: `cd C:\Apache24\Apache24\bin`
+	- Navigate to the Apache bin directory: `cd F:\Apache24\bin`
 	- Install Apache as a service: `httpd.exe -k install`
 - **Start Apache Service**
 	- Start the service: `httpd.exe -k start`
