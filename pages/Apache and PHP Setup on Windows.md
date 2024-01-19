@@ -44,3 +44,5 @@
 	  ```
 - **Test PHP**
 	- Visit `http://localhost/info.php` in a browser.
+- **See: ** [[Uninstalling Apache and PHP from Windows]]
+	-
