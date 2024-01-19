@@ -19,6 +19,7 @@
 - **Extract PHP**
 	- Extract PHP files to a directory, e.g., `C:\php`.
 - **Configure PHP with Apache**
+  collapsed:: true
 	- **Rename `php.ini` File**
 		- Locate the file `php.ini-development` in your PHP installation directory (e.g., `C:\php`).
 		- Rename this file to `php.ini`.
@@ -40,10 +41,10 @@
 	- Add these lines at the end:
 	  ```
 	  PHPIniDir "C:/php"
-	  AddHandler application/x-httpd-php .php
-	  LoadModule php_module "C:/php/php7apache2_4.dll"
+	  AddHandler application/x-httpd-php.php
+	  LoadModule php_module "C:/php/php8apache2_4.dll"
 	  ```
-		- Adjust `php7apache2_4.dll` to your PHP version.
+		- Adjust `php8apache2_4.dll` to your PHP version.
 - **Restart Apache Service**
 	- Restart Apache: `httpd.exe -k restart`
 - ## Step 3: Test PHP
