@@ -19,7 +19,6 @@
 - **Extract PHP**
 	- Extract PHP files to a directory, e.g., `C:\php`.
 - **Configure PHP with Apache**
-  collapsed:: true
 	- **Rename `php.ini` File**
 		- Locate the file `php.ini-development` in your PHP installation directory (e.g., `C:\php`).
 		- Rename this file to `php.ini`.
@@ -29,7 +28,7 @@
 		- Remove the semicolon to uncomment this line. Ensure it reads `extension_dir = "ext"`. This line specifies the directory where PHP extensions are located.
 	- **Enable Required PHP Extensions**
 		- PHP extensions are additional features that you can enable or disable as needed. In the `php.ini` file, you'll find a list of these extensions, each preceded by a semicolon.
-		- Common extensions that might be required for various applications include `curl`, `gd2`, `mbstring`, `pdo_mysql`, `soap`, `xmlrpc`, and `xsl`. These extensions can be enabled by removing the semicolon at the start of each line.
+		- Common extensions that might be required for various applications include `curl`, `gd`, `mbstring`, `pdo_mysql`, `soap`, `xmlrpc`, and `xsl`. These extensions can be enabled by removing the semicolon at the start of each line.
 		- For example, to enable `curl`, find the line `;extension=curl`, and change it to `extension=curl`.
 		- Similarly, uncomment other required extensions by removing the semicolon at the beginning of each line.
 	- **Save Changes**
