@@ -44,7 +44,10 @@
 	- **Conceptual Design Review Presentation:** *November 22nd, 2023* - Teams are required to deliver a 20-minute presentation, including a PowerPoint file, to showcase their project's progress and future plans. This presentation should cover an overview of the project, team roles, design specifications, concept selection rationale, a detailed validation plan, adjustments in project timelines, risk management strategies, and the progress of the detailed design. The presentation, judged by university and community judges, should be clear, engaging, and include multimedia elements, with all team members participating and dressed in business attire.
 	- **Detailed Design Report:** *January 19th, 2024* -
 - ## Documentation and Design Drafts
-	- [Date]: [Description of document/draft] *(Replace with design document or draft details)*
+	- *September 29th, 2023*: Report 1 - Project Requirements & Scope
+	- *October 20th, 2023:* Report 2 - Concept Selection
+	- *November 22nd, 2023*: Conceptual Design Review Presentation
+	- *January 19th, 2024:* Report 3 Detailed Design Review
 - ## Meeting Notes and Design Reviews
 	- [Type]: [Link] *(Replace with specific meeting note or design review link)*
 - ## Risk Management
@@ -61,21 +64,3 @@
 	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
 	  
 	  ---
-- ## Project Resources
-- **Financial:** [Description of financials]
-- **Appropedia:** [Links to relevant Affine pages]
-- **Repository:** [GitLab/GitHub link]
-- ## Timeline and Milestones
-- ## Reviews
-- `[Date]`: [Objective]
-- ## Documentation and Reports
-- ## Meeting Notes, Journals, and Decisions
-- *Type*: *link
-- *Type*: *link
-- ## Risk Management
-- **Risk 1:** Description - Mitigation Strategy
-- **Risk 2:** Description - Mitigation Strategy
-- **Risk 3:** Description - Mitigation Strategy
-- ## Feedback and Adjustments
-- *Date*: *Feedback/Adjustment Description*
-- *Date*: *Feedback/Adjustment Description*
