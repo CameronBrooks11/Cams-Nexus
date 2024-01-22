@@ -1,3 +1,4 @@
+# Scientific Press Alpha
 - *Engineering Design Project Template*
 id:: 659d933b-b59c-42d7-9825-bfcb7afb4d83
 - **Category:** [Engineering Discipline/Design Focus] *(Replace with specific engineering discipline or design focus)*
