@@ -1,12 +1,12 @@
 - *Engineering Design Project Template*
-- **Category:**
+- **Category:** [[Aerospace Engineering]], [[Rocketry]], [[Control Systems]]
 - **Start Date:** September 9th
 - **Estimated End Date:** April 10th *(Replace with estimated end date)*
-- **Milestones:** *(Should be connected to tangible deliverables)*
-	- *Next:* Final design report
-	- Report 3
-	- Report 2
-	- Report 1
+- **Milestones:**
+	- *Next:* Final Design Report
+	- Report 3: Detailed Engineering Design
+	- Report 2: Conceptual Design
+	- Report 1: Project Definition & Requirements
 	- Team formation
 - ## Tasks
   
