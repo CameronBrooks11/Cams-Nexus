@@ -1,12 +1,23 @@
 - *Engineering Design Project Template*
-- **Category:** [Engineering Discipline/Design Focus] *(Replace with specific engineering discipline or design focus)*
-- **Start Date:** [Start Date] *(Replace with actual start date)*
-- **Estimated End Date:** [End Date] *(Replace with estimated end date)*
+- **Category:**
+- **Start Date:** September 9th
+- **Estimated End Date:** April 10th *(Replace with estimated end date)*
 - **Milestones:** *(Should be connected to tangible deliverables)*
-	- *Next:* Milestone N+1
-	- Milestone N
-	- Milestone N-1
-	- ...
+	- *Next:* Final design report
+	- Report 3
+	- Report 2
+	- Report 1
+	- Team formation
+- ## Tasks
+  
+  | Task                    | Description                                     | Status | Deadline |
+  |--|--|--|--|
+  | Document reviews        | Outcomes of meeting [notes]                     |        | [Date]   |
+  | Complete End 3 Sections | MJD, Risk Management, Feedback and Adjustments  |        | [Date]   |
+  | Add all tasks           | Port from MS Planner and updated back as needed |        | [Date]   |
+  |Report 3 plan ||||
+  |[[Capstone Motor & Battery Selection]]||||
+	- MOVE
 - ## Design Objectives
 - **Objective 1:** [Objective Description] *(Replace with specific design objective)*
 - **Objective 2:** [Objective Description] *(Replace with specific design objective)*
@@ -56,15 +67,6 @@
 - **Categories:** Course, Embedded Systems, Aerospace
 - **Start Date:** September 7th, 2023
 - **Estimated End Date:** April 8th, 2024
-- ## Tasks
-  
-  | Task                    | Description                                     | Status | Deadline |
-  |--|--|--|--|
-  | Document reviews        | Outcomes of meeting [notes]                     |        | [Date]   |
-  | Complete End 3 Sections | MJD, Risk Management, Feedback and Adjustments  |        | [Date]   |
-  | Add all tasks           | Port from MS Planner and updated back as needed |        | [Date]   |
-  |Report 3 plan ||||
-  |[[Capstone Motor & Battery Selection]]||||
 - ## Project Description
 - **Brief Overview:** [Short description of the project, its objectives, and expected outcomes.]
 - ## Key Objectives
