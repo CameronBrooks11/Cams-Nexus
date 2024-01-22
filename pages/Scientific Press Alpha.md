@@ -1,41 +1,54 @@
-# Scientific Press Alpha
+- *Engineering Design Project Template*
 id:: 659d933b-b59c-42d7-9825-bfcb7afb4d83
-- **Category:** Should match tags in Projects page database
-- **Start Date:** June 2023
-- **Estimated End Date:** January XX, 2024
-- ## Project Description
-- **Brief Overview:** Short description of the project, its objectives, and expected outcomes.
-- ## Key Objectives
-- **Objective 1:** Description
-- **Objective 2:** Description
-- **Objective 3:** Description
+- **Category:** [Engineering Discipline/Design Focus] *(Replace with specific engineering discipline or design focus)*
+- **Start Date:** [Start Date] *(Replace with actual start date)*
+- **Estimated End Date:** [End Date] *(Replace with estimated end date)*
+- **Milestones:** *(Should be connected to tangible deliverables)*
+	- *Next:* Milestone N+1
+	- Milestone N
+	- Milestone N-1
+	- ...
+- ## Design Objectives
+- **Objective 1:** [Objective Description] *(Replace with specific design objective)*
+- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
+- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
 - ...
+- ## Design Concept and Development
+- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
+- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
+- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
 - ## Team Members
-- **Lead:** Name
-- **Members:**
-	- Name: [Role/Expertise]
-	- Name: [Role/Expertise]
-- ## Project Resources
-- **Financials:** Description of financials
-- **Documentation:** Links to documentation
-- **Repository:** GitLab/GitHub link
-- ## Reviews
-- *Date*: Objective
-- *Date*: Objective
-- ## Documentation and Reports
-- *Date*: [Description of document/report]
-- *Date*: [Description of document/report]
+- **Lead Designer:** [Lead's Name] *(Replace with lead designer's name and details)*
+- **Design Team:**
+	- [Designer's Name]: [Role/Expertise] *(Replace with designer's name and details)*
+	- [Designer's Name]: [Role/Expertise] *(Replace with designer's name and details)*
+- ## Resources and Tools
+- **Design Software:** [List of design software/tools required] *(Detail the software and tools needed for the design work)*
+- **Materials:** [List of materials for prototyping] *(List all materials required for creating prototypes)*
+- **Budget:** [Budget details] *(Provide an overview of the budget for the design project)*
+- ## Timeline and Milestones
+- **Milestone 1:** [Date] - [Milestone Description] *(Replace with specific milestone details related to design phases)*
+- **Milestone 2:** [Date] - [Milestone Description] *(Replace with specific milestone details related to design phases)*
 - ...
-- ## Meeting Notes, Journals, and Decisions
-- *Type*: *link
-- *Type*: *link
+- ## Documentation and Design Drafts
+- [Date]: [Description of document/draft] *(Replace with design document or draft details)*
+- ...
+- ## Meeting Notes and Design Reviews
+- [Type]: [Link] *(Replace with specific meeting note or design review link)*
 - ...
 - ## Risk Management
-- **Risk 1:** Description - Mitigation Strategy
-- **Risk 2:** Description - Mitigation Strategy
-- **Risk 3:** Description - Mitigation Strategy
+- **Risk 1:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
+- **Risk 2:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
+- **Risk 3:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
 - ...
-- ## Feedback and Adjustments
-- *Date*: *Feedback/Adjustment Description*
-- *Date*: *Feedback/Adjustment Description*
+- ## Feedback and Design Adjustments
+- [Date]: [Feedback/Adjustment Description] *(Replace with specific feedback or adjustment details related to design changes)*
 - ...
+- ## Project Template Formatting Legend
+- **Bold Text:** Used for section headings and key points.
+	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
+	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
+	- `- [List Item]`: Used for listing items or tasks.
+	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
+	  
+	  ---
