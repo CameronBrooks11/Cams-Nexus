@@ -1,7 +1,7 @@
 - *Engineering Design Project Template*
 - **Category:** [[Aerospace Engineering]], [[Rocketry]], [[Control Systems]]
 - **Start Date:** September 9th
-- **Estimated End Date:** April 10th *(Replace with estimated end date)*
+- **Estimated End Date:** April 10th
 - **Milestones:**
 	- *Next:* Final Design Report
 	- Report 3: Detailed Engineering Design
@@ -19,26 +19,27 @@
   |[[Capstone Motor & Battery Selection]]||||
 	- MOVE
 - ## Design Objectives
-- **Objective 1:** [Objective Description] *(Replace with specific design objective)*
-- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
-- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
-- ...
+	- **Objective 1:** [Objective Description] *(Replace with specific design objective)*
+	- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
+	- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
+	- ...
 - ## Design Concept and Development
-- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
-- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
-- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
+	- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
+	- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
+	- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
 - ## Team Members
-- **Lead Designer:** [Lead's Name] *(Replace with lead designer's name and details)*
-- **Design Team:**
-	- [Designer's Name]: [Role/Expertise] *(Replace with designer's name and details)*
-	- [Designer's Name]: [Role/Expertise] *(Replace with designer's name and details)*
+- **Lead:** Giorgio Chassikos
+- **Members:**
+	- Cameron Brooks: Electrical design, controls software, prototyping
+	- Brett MacDonald: Mechanical design, CAD
+	- Shelby Mior: Physical Simulation, Documentation
 - ## Resources and Tools
-- **Design Software:** [List of design software/tools required] *(Detail the software and tools needed for the design work)*
-- **Materials:** [List of materials for prototyping] *(List all materials required for creating prototypes)*
-- **Budget:** [Budget details] *(Provide an overview of the budget for the design project)*
+	- **Design Software:** [[SolidWorks]], [[Jupyter]], [[Python]], [[KiCAD]]
+	- **Materials:** [List of materials for prototyping] *(List all materials required for creating prototypes)*
+	- **Budget:** $800 CAD from course, $1000 from Protospace
 - ## Timeline and Milestones
-- **Milestone 1:** [Date] - [Milestone Description] *(Replace with specific milestone details related to design phases)*
-- **Milestone 2:** [Date] - [Milestone Description] *(Replace with specific milestone details related to design phases)*
+	- **Milestone 1:** [Date] - [Milestone Description] *(Replace with specific milestone details related to design phases)*
+	- **Milestone 2:** [Date] - [Milestone Description] *(Replace with specific milestone details related to design phases)*
 - ...
 - ## Documentation and Design Drafts
 - [Date]: [Description of document/draft] *(Replace with design document or draft details)*
@@ -62,24 +63,6 @@
 	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
 	  
 	  ---
-- # Airbrakes Capstone
-  id:: 659f76c4-3971-493b-a032-f2a8d95a6562
-- **Categories:** Course, Embedded Systems, Aerospace
-- **Start Date:** September 7th, 2023
-- **Estimated End Date:** April 8th, 2024
-- ## Project Description
-- **Brief Overview:** [Short description of the project, its objectives, and expected outcomes.]
-- ## Key Objectives
-- **Objective 1:** [Description]
-- **Objective 2:** [Description]
-- **Objective 3:** [Description]
-- ...
-- ## Team Members
-- **Lead:** Giorgio Chassikos
-- **Members:**
-	- Cameron Brooks: Electrical design, controls software, prototyping
-	- Brett MacDonald: Mechanical design, CAD
-	- Shelby Mior: Aerospace Simulation, Documentation
 - ## Project Resources
 - **Financial:** [Description of financials]
 - **Appropedia:** [Links to relevant Affine pages]
