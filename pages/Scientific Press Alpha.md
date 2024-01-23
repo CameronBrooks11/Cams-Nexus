@@ -5,9 +5,12 @@ id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 - **Start Date:** July 2022
 - **Estimated End Date:** January 2024
 - **Milestones:** *(Should be connected to tangible deliverables)*
-	- *Next:* Milestone N+1
-	- Milestone N
-	- Version 1
+	- Return to v1
+	- Yukonstruct Build --> [[Scientific Press Beta]]
+	- Version 3 September 2023
+	- Version 2 March 2023
+	- Investigation of manufacturing MgO elements
+	- Version 1 January 2023
 	- Working Prototype September 2022
 	-
 - ## Design Objectives
