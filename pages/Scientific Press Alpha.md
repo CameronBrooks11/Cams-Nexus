@@ -19,18 +19,18 @@ id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 	- Working Prototype September 2022
 	-
 - ## Design Objectives
-	- **Objective 1:** Design and validate a miniature version of the precious plastics press for converting waste plastic regrind into high-quality plastic stockto serve as raw material for construction and manufacturing.
+	- **Objective 1:** Design and validate a miniature version of the precious plastics press for converting waste plastic regrind into high-quality plastic stock (sheets, bricks, etc.) to serve as raw material for construction and manufacturing.
 	- **Objective 2:** Create a device that is capable of performing material science studies.
-	- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
+	- **Objective 3:** Provide an openly accessible and thoroughly documented design that can be recreated by the average typical user of the device.
 - ## Design Concept and Development
-- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
-- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
-- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
+	- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
+	- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
+	- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
 - ## Team Members
-- **Lead Designer:** [Lead's Name] *(Replace with lead designer's name and details)*
-- **Design Team:**
-	- [Designer's Name]: [Role/Expertise] *(Replace with designer's name and details)*
-	- [Designer's Name]: [Role/Expertise] *(Replace with designer's name and details)*
+	- **Lead Designer:**
+	- **Team:**
+		- Cameron Brooks, Electrical and Controls
+		- Joshua M. Pearce, Supervisor
 - ## Resources and Tools
 - **Design Software:** [List of design software/tools required] *(Detail the software and tools needed for the design work)*
 - **Materials:** [List of materials for prototyping] *(List all materials required for creating prototypes)*
