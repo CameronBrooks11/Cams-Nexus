@@ -2,13 +2,13 @@
 id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 - *Engineering Design Project Template*
 - **Category:** [[Industrial Processing]], [[Material Science]], [[Control Systems]],[[Distributed Recycling and Manufacturing]]
-- **Start Date:** [Start Date] *(Replace with actual start date)*
-- **Estimated End Date:** [End Date] *(Replace with estimated end date)*
+- **Start Date:** July 2022
+- **Estimated End Date:** January 2024
 - **Milestones:** *(Should be connected to tangible deliverables)*
 	- *Next:* Milestone N+1
 	- Milestone N
 	- Milestone N-1
-	- ...
+	- Working prototype
 - ## Design Objectives
 - **Objective 1:** [Objective Description] *(Replace with specific design objective)*
 - **Objective 2:** [Objective Description] *(Replace with specific design objective)*
