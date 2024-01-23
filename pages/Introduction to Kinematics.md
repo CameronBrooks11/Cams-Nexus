@@ -1,1 +1,43 @@
--
+# Chapter 11: Introduction to Dynamics
+- ## Overview
+- Dynamics is the part of mechanics that deals with bodies in motion, as opposed to statics which focuses on bodies at rest.
+- ## Historical Background
+- The study of statics dates back to Greek philosophers.
+- Dynamics, as a formal study, began with Galileo (1564–1642) and was further developed by Newton (1642–1727).
+- ## Components of Dynamics
+- **Kinematics**
+	- Focuses on the geometry of motion.
+	- Deals with displacement, velocity, acceleration, and time without considering the cause of motion.
+- **Kinetics**
+	- Studies the relationship between forces, mass, and motion.
+	- Predicts motion caused by forces or determines forces required for a specific motion.
+- ## Dynamics of Particles (Chapters 11 to 14)
+- Early chapters focus on particles, treating bodies as single units without considering rotation.
+- Later chapters address dynamics of rigid bodies, considering rotational aspects.
+- ## Chapter 11: Kinematics of Particles
+- Analyzes the motion of particles, initially treated as single units regardless of size.
+- Initial focus on rectilinear motion: position, velocity, acceleration in straight-line movement.
+- Topics include:
+	- General methods for analyzing particle motion.
+	- Special cases: uniform motion and uniformly accelerated motion.
+	- Relative motion between particles.
+	- Graphical methods for problem-solving in rectilinear motion.
+- ### Sections in Chapter 11
+- [[11.1 Introduction to Dynamics]]
+- [[11.2 Position, Velocity, and Acceleration]]
+- [[11.3 Determination of the Motion of a Particle]]
+- [[11.4 Uniform Rectilinear Motion]]
+- [[11.5 Uniformly Accelerated Rectilinear Motion]]
+- [[11.6 Motion of Several Particles]]
+- [[11.7 Graphical Solution of Rectilinear-Motion Problems]]
+- [[11.8 Other Graphical Methods]]
+- [[11.9 Position Vector, Velocity, and Acceleration]]
+- [[11.10 Derivatives of Vector Functions]]
+- [[11.11 Rectangular Components of Velocity and Acceleration]]
+- [[11.12 Motion Relative to a Frame in Translation]]
+- [[11.13 Tangential and Normal Components]]
+- [[11.14 Radial and Transverse Components]]
+- ### Curvilinear Motion
+- Analysis of particle motion along curved paths.
+- Introduction of vector quantities and derivative of vector functions.
+- Detailed examination of different components of velocity and acceleration in
