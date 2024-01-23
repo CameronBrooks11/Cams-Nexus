@@ -1,7 +1,8 @@
 - 11.1: [[Introduction to Dynamics]]
 - 11.2: [[Position, Velocity, and Acceleration in Dynamics]]
 - 11.3: [[Determination of the Motion of a Particle]]
--
+- 11.4: [[Uniform Rectilinear Motion]]
+- 11.5: [[Uniformly Accelerated Rectilinear Motion]]
 - [[Uniform Rectilinear Motion]]
 - [[Uniformly Accelerated Rectilinear Motion]]
 - [[Motion of Several Particles]]

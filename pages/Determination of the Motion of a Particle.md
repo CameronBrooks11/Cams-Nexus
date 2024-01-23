@@ -1,5 +1,4 @@
-# Determination of the Motion of a Particle
-- ## Overview
+## Overview
 	- The motion of a particle is considered known when its position for every value of time \( t \) is known.
 	- Often, motion is defined by the type of acceleration the particle has, rather than a direct relation between position \( x \) and time \( t \).
 - ## Types of Acceleration
