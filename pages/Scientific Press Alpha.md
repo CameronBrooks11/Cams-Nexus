@@ -32,7 +32,7 @@ id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 		- Cameron Brooks, Electrical and Controls
 		- Joshua M. Pearce, Supervising Professor
 - ## Documentation and Design Drafts
-	-
+	- [Gitlab - ](https://gitlab.com/uwo-fast/open-source-distributed-recycling-and-additive-manufacturing/sheet-press/open-source-scientific-cold-and-hot-sheet-press)
 - ## Project Template Formatting Legend
 - **Bold Text:** Used for section headings and key points.
 	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
