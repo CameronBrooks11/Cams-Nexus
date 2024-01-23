@@ -36,8 +36,6 @@
 - ## Strategic Implications
 - **Future Prospects:** Need for innovative solutions to stay competitive and profitable.
 - **Stakeholder Impact:** Decisions to affect employees, local communities, and overall company performance.
-- ## Questions
-- # Additional Case Notes for GESNER GAS WORKS: FORMING THE FUTURE
 - ## Analysis Questions
 - ### 1. Customer Factors for Brimstone
 - **Key Considerations:** Identifying important factors for Brimstone's customers and ranking them.
