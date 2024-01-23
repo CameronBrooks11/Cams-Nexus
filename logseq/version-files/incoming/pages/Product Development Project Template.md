@@ -1,15 +1,12 @@
-- **Product Development Project Template Formatting Legend**
-	- **Bold Text:** Used for section headings and key points.
-	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
-	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
-	- `- [List Item]`: Used for listing items or tasks.
-	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
-	  
-	  ---
-- # Product Development Project Template
+- *Product Development Project Template*
 - **Category:** [Product Category/Type] *(Replace with the specific category or type of product)*
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
+- **Milestones:** *(Should be connected to tangible deliverables)*
+	- *Next:* Milestone N+1
+	- Milestone N
+	- Milestone N-1
+	- ...
 - ## Project Overview
 - **Product Concept:** [Brief description of the product concept] *(Replace with a brief overview of the product)*
 - **Target Market:** [Description of target market] *(Specify the intended market for the product)*
@@ -48,3 +45,11 @@
 - ## Feedback and Adjustments
 - [Date]: [Feedback/Adjustment Description] *(Replace with specific feedback or adjustment details)*
 - ...
+- ## Project Template Formatting Legend
+	- **Bold Text:** Used for section headings and key points.
+	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
+	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
+	- `- [List Item]`: Used for listing items or tasks.
+	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
+	  
+	  ---

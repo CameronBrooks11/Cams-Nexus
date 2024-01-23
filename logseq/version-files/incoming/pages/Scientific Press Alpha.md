@@ -8,7 +8,7 @@ id:: 659d933b-b59c-42d7-9825-bfcb7afb4d83
   | Task           | Description                                                         | Status | Deadline |
   | -------------- | ------------------------------------------------------------------- | ------ | -------- |
   | Add all tasks  | All tasks remaining to complete project alpha                       |        | \[Date]  |
-  | Message Morgan | Asking for general suggestions, meeting to discuss stuff as planned |        | \[Date]  |
+  |Paper complete | [Test Sheet Press Hardware X Paper Draft 11cam.docx](https://uwoca-my.sharepoint.com/:w:/g/personal/mwoods52_uwo_ca/EYSCtlrzprROlc3MJUqUZaYBagjo0F0PZnCBvILtQLQn6w) |        | \[Date]  |
 - ## Project Description
 - **Brief Overview:** Short description of the project, its objectives, and expected outcomes.
 - ## Key Objectives
@@ -25,9 +25,6 @@ id:: 659d933b-b59c-42d7-9825-bfcb7afb4d83
 - **Financials:** Description of financials
 - **Documentation:** Links to documentation
 - **Repository:** GitLab/GitHub link
-- ## Timeline and Milestones
-- **Milestone 1:** *Date* - Description
-- **Milestone 2:** *Date* - Description
 - ## Reviews
 - *Date*: Objective
 - *Date*: Objective

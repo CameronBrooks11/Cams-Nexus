@@ -1,3 +1,4 @@
+- [[CameronBrooks-net]]
 - name is `website-ip-address`
 	- `34.130.76.199`
 - Did the "Building a Custom Website with Google Cloud" tutorial on Google Cloud to:
@@ -55,7 +56,6 @@
 	- ```
 	  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 	  ```
-	- pine11appleexpress22
 	- Your identification has been saved in /home/cambrooks3393/.ssh/id_rsa
 	  Your public key has been saved in /home/cambrooks3393/.ssh/id_rsa.pub
 	  The key fingerprint is:
@@ -128,3 +128,5 @@
 		  sudo service apache2 restart
 		  ```
 - It works - even the Favicon!
+- I added a www CNAME record
+	- In order for it to redirect, I had to
