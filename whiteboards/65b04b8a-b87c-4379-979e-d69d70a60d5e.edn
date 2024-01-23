@@ -1,0 +1,46 @@
+{:blocks (
+{:block/created-at 1706052551305
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "GESNER Gas Works Case"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [1248 2225.0001336638425]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1c7a8560-ba47-11ee-b198-cd8dad2d93ee"
+:noFill false
+:point [-624 24]
+:parentId "65b04b8a-b87c-4379-979e-d69d70a60d5e"
+:collapsedHeight 0
+:nonce 1706052508155}}
+:block/updated-at 1706052551305})
+:pages (
+{:block/uuid #uuid "65b04b8a-b87c-4379-979e-d69d70a60d5e"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "65b04b8a-b87c-4379-979e-d69d70a60d5e"
+:name "65b04b8a-b87c-4379-979e-d69d70a60d5e"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("1c7a8560-ba47-11ee-b198-cd8dad2d93ee")}}
+:block/updated-at 1706052844572
+:block/created-at 1706052490409
+:block/type "whiteboard"
+:block/name "65b04b8a-b87c-4379-979e-d69d70a60d5e"
+:block/original-name "65b04b8a-b87c-4379-979e-d69d70a60d5e"})}
