@@ -1,0 +1,31 @@
+## Overview
+- **Background**: Sweet Dairy Treats (SDT) was founded by Janet Lancaster and later joined by her son, Mitchell Lancaster. It began with Janet's creation of ice cream sandwiches at a family event and evolved into a business selling these sandwiches to supermarkets and convenience stores.
+- **Current Scenario**: Mitchell Lancaster, now president, and Frank Rondonelli, production manager, are preparing for a projected 25% increase in sales during the upcoming hot summer.
+- ## History
+- **Early Beginnings**: Janet Lancaster invented the ice cream sandwich, "Janet’s Oatmeal Melters," at a family barbecue in 2003.
+- **Growth**: The product gained popularity at local events, leading to the establishment of a vendor's license and participation in the Waterfront Festival in Mississauga, Ontario.
+- **Transition to Business**: In 2011, with Mitchell's involvement, SDT was formally established, producing ice cream sandwiches for wider distribution.
+- ## Operations
+- **Production Process**: Involves making ice cream, cookies, and assembling them into sandwiches. The plant operates on weekdays with a specific schedule and processes.
+- **Production Capacity**: The current setup allows for a certain volume of production, detailed in terms of machinery capability and labor efficiency.
+- ## Marketing and Sales
+- **Strategy**: Led by Mitchell, focusing on the unique homemade taste of their sandwiches.
+- **Achievements**: By 2021, contracts with 179 supermarkets and 37 convenience stores, with sales patterns reflecting higher summer demand.
+- ## Ice Cream Production
+- **Process**: Detailed steps from mixing ingredients to pasteurization, homogenization, and final steps before assembly into sandwiches.
+- **Efficiency Concerns**: Issues with the pasteurizer and potential improvements in the latter stages of production.
+- ## Cookie Production
+- **Procedure**: Involves mixing, baking, and hand-cutting cookies before they move to the sandwich assembly stage.
+- **Quality Control**: Hand-cutting contributes to the homemade appeal, despite minor inconsistencies.
+- ## Sandwich Production
+- **Assembly**: Automated process of aligning cookies, injecting ice cream, and packaging.
+- **Freezing and Storage**: Details on freezing room capacity and storage duration for quality maintenance.
+- ## Alternatives for Expansion
+- **Options**: Include purchasing additional mixing machinery, expanding freezer storage, hiring more staff, and leasing machines.
+- **Considerations**: Costs, efficiency improvements, and potential impact on SDT's operations and profitability.
+- ## Decision and Challenges
+- **Frank’s Dilemma**: Need to develop an effective plan to meet the increased demand while considering operational constraints and future growth.
+- ## Conclusion
+- **Action Plan Requirement**: A detailed and persuasive plan is needed to ensure SDT can meet the anticipated demand and maintain quality.
+- **Future Prospects**: Decisions made will significantly impact SDT's ability to capitalize on market opportunities and manage operational challenges.
+- ##
