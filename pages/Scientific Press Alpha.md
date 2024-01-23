@@ -19,8 +19,8 @@ id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 	- Working Prototype September 2022
 	-
 - ## Design Objectives
-	- **Objective 1:** Design and validate a miniature version of the precious plastics press.
-	- **Objective 2:** Create a device capable of material science studies
+	- **Objective 1:** Design and validate a miniature version of the precious plastics press for converting waste plastic regrind into high-quality plastic stockto serve as raw material for construction and manufacturing.
+	- **Objective 2:** Create a device that is capable of performing material science studies.
 	- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
 - ## Design Concept and Development
 - **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
