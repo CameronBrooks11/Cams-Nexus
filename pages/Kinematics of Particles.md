@@ -7,16 +7,7 @@
 - 11.7, 11.8: [[Graphical Solutions of Rectilinear Motion Problems]]
 - 11.9: [[Position Vector, Velocity, and Acceleration in Curvilinear Motion]]
 - 11.10: [[Derivatives of Vector Functions]]
-- 11.11
--
-- [[Uniform Rectilinear Motion]]
-- [[Uniformly Accelerated Rectilinear Motion]]
-- [[Motion of Several Particles]]
-- [[Graphical Solution of Rectilinear Motion Problems]]
-- [[Other Graphical Methods]]
-- [[Position Vector, Velocity, and Acceleration]]
-- [[Derivatives of Vector Functions]]
-- [[Rectangular Components of Velocity and Acceleration]]
-- [[Motion Relative to a Frame in Translation]]
+- 11.11: [[Rectangular Components of Velocity and Acceleration]]
+- 11.12: [[Motion Relative to a Frame in Translation]]
 - [[Tangential and Normal Components]]
 - [[Radial and Transverse Components]]
