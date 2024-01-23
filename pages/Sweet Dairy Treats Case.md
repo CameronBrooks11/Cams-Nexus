@@ -29,4 +29,28 @@
 - **Action Plan Requirement**: A detailed and persuasive plan is needed to ensure SDT can meet the anticipated demand and maintain quality.
 - **Future Prospects**: Decisions made will significantly impact SDT's ability to capitalize on market opportunities and manage operational challenges.
 - ## Analysis Questions
--
+- **Task 1: Identifying Customer Needs**
+	- Quality: Maintain homemade taste and quality.
+	- Availability: Ensure supply meets peak summer demand.
+	- Variety: Consider interest in different flavors.
+	- Price: Balance between quality and affordability.
+- **Task 2: Process Flow and Demand Analysis**
+	- Analyze current and projected monthly demand.
+	- Assess capacities of ice cream, cookie, and sandwich production.
+	- Compare overall capacity with current and projected demand.
+- **Task 3: Impact of Proposed Changes**
+	- Calculate increased capacity from additional mixing machine.
+	- Assess impact of increased freezer storage.
+	- Determine capacity improvement with an additional employee.
+	- Evaluate new overall capacity against projected demand.
+- **Task 4: Financial and Qualitative Analysis of Proposed Changes**
+	- Perform cost-benefit analysis and calculate payback period.
+	- Determine NPV over ten years at 8% MARR.
+	- Consider qualitative implications like brand image and employee morale.
+- **Task 5: Analysis of Leasing Option**
+	- Analyze net benefit and payback period of leasing vs. purchasing.
+	- Calculate NPV of leasing over ten years at 8% MARR.
+	- Assess qualitative implications of leasing.
+- **Task 6: Frank Rondonelli's Decision**
+	- Evaluate decision based on capacity, financial viability, and strategic alignment.
+	- Recommend an action plan considering operational, financial, and strategic factors.
