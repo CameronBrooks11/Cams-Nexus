@@ -7,8 +7,9 @@ id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 - **Milestones:** *(Should be connected to tangible deliverables)*
 	- *Next:* Milestone N+1
 	- Milestone N
-	- Milestone N-1
-	- Working prototype
+	- Version 1
+	- Working Prototype September 2022
+	-
 - ## Design Objectives
 - **Objective 1:** [Objective Description] *(Replace with specific design objective)*
 - **Objective 2:** [Objective Description] *(Replace with specific design objective)*
