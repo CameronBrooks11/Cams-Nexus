@@ -19,7 +19,7 @@
   |16| [[Scientific Press Gamma]] | 1 | -- | -- | | | | |
   |17| [[Open Source Embroidery Machine]] | 1 | -- | -- | | | | |
   |18| [[ChainMeshSCAD]] | 1 | Planning | -- | | | | |
-	- Initiation[Hol
+  |19| [[Custom Resistive Elements]] | 10 | Planning | -- | | | | |
 -
 - ## Ideas
   collapsed:: true

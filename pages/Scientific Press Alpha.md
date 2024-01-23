@@ -15,13 +15,13 @@ id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 		- Not feasible for current project --> [[Custom Resistive Elements]]
 	- Version 1 January 2023
 	- Investigation of manufacturing MgO elements feasibility
+		- Not feasible for current project --> [[Scalable Open Induction Heating]]
 	- Working Prototype September 2022
 	-
 - ## Design Objectives
-- **Objective 1:** [Objective Description] *(Replace with specific design objective)*
-- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
-- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
-- ...
+	- **Objective 1:** Design and validate a miniature version of the precious plastics press.
+	- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
+	- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
 - ## Design Concept and Development
 - **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
 - **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
