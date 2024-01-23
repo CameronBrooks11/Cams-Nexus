@@ -1,1 +1,42 @@
--
+# Scientific Press Alpha
+id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
+- *Engineering Design Project Template*
+- **Category:** [[Industrial Processing]], [[Material Science]], [[Control Systems]],[[Distributed Recycling and Manufacturing]]
+- **Start Date:** July 2022
+- **Estimated End Date:** January 2024
+- **Milestones:** *(Should be connected to tangible deliverables)*
+	- Paper January 2024
+	- Return to v1-Refined January 2024
+	- Yukonstruct Build
+		- V1 to here --> [[Scientific Press Beta]]
+	- Version 3 September 2023
+	- Version 2 March 2023
+	- Investigation of induction heating feasibility
+		- Not feasible for current project --> [[Custom Resistive Elements]]
+	- Version 1 January 2023
+	- Investigation of manufacturing MgO elements feasibility
+		- Not feasible for current project --> [[Scalable Open Induction Heating]]
+	- Working Prototype September 2022
+- ## Design Objectives
+	- **Objective 1:** Design and validate a miniature version of the precious plastics press for converting waste plastic regrind into high-quality plastic stock (sheets, bricks, etc.) to serve as raw material for construction and manufacturing.
+	- **Objective 2:** Create a device that is capable of performing material science studies.
+	- **Objective 3:** Provide an openly accessible and thoroughly documented design that can be recreated by the average typical user of the device.
+- ## Design Concept and Development
+	- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
+	- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
+	- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
+- ## Team Members
+	- **Lead Designer:**
+	- **Team:**
+		- Cameron Brooks, Electrical and Controls
+		- Joshua M. Pearce, Supervising Professor
+- ## Documentation and Design Drafts
+	- [Gitlab: open-source-scientific-cold-and-hot-sheet-press](https://gitlab.com/uwo-fast/open-source-distributed-recycling-and-additive-manufacturing/sheet-press/open-source-scientific-cold-and-hot-sheet-press)
+- ## Project Template Formatting Legend
+- **Bold Text:** Used for section headings and key points.
+	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
+	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
+	- `- [List Item]`: Used for listing items or tasks.
+	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
+	  
+	  ---
