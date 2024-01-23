@@ -21,7 +21,7 @@ id:: 65aee480-7c54-43d0-85a8-dffd5226dd15
   |[[Capstone Motor & Battery Selection]]||||
 	- MOVE
 - ## Design Objectives
-	- **Objective 1:** [Objective Description] *(Replace with specific design objective)*
+	- **Objective 1:**d
 	- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
 	- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
 	- ...
@@ -50,14 +50,6 @@ id:: 65aee480-7c54-43d0-85a8-dffd5226dd15
 	- *October 20th, 2023:* Report 2 - Concept Selection
 	- *November 22nd, 2023*: Conceptual Design Review Presentation
 	- *January 19th, 2024:* Report 3 Detailed Design Review
-- ## Meeting Notes and Design Reviews
-	- [Type]: [Link] *(Replace with specific meeting note or design review link)*
-- ## Risk Management
-	- **Risk 1:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
-	- **Risk 2:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
-	- **Risk 3:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
-- ## Feedback and Design Adjustments
-	- [Date]: [Feedback/Adjustment Description] *(Replace with specific feedback or adjustment details related to design changes)*
 - ## Project Template Formatting Legend
 - **Bold Text:** Used for section headings and key points.
 	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
