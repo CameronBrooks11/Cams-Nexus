@@ -5,12 +5,16 @@ id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 - **Start Date:** July 2022
 - **Estimated End Date:** January 2024
 - **Milestones:** *(Should be connected to tangible deliverables)*
-	- Return to v1
-	- Yukonstruct Build --> [[Scientific Press Beta]]
+	- Paper January 2024
+	- Return to v1-Refined January 2024
+	- Yukonstruct Build
+		- V1 to here --> [[Scientific Press Beta]]
 	- Version 3 September 2023
 	- Version 2 March 2023
-	- Investigation of manufacturing MgO elements
+	- Investigation of induction heating feasibility
+		- Not feasible for current project --> [[Custom Resistive Elements]]
 	- Version 1 January 2023
+	- Investigation of manufacturing MgO elements feasibility
 	- Working Prototype September 2022
 	-
 - ## Design Objectives
