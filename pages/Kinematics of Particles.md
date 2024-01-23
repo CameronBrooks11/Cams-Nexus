@@ -3,6 +3,7 @@
 - 11.3: [[Determination of the Motion of a Particle]]
 - 11.4: [[Uniform Rectilinear Motion]]
 - 11.5: [[Uniformly Accelerated Rectilinear Motion]]
+- 11.6: [[Motion of Several Particles]]
 - [[Uniform Rectilinear Motion]]
 - [[Uniformly Accelerated Rectilinear Motion]]
 - [[Motion of Several Particles]]
