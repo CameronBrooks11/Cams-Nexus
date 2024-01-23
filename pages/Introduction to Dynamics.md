@@ -1,5 +1,4 @@
-# Introduction to Dynamics
-- ## Overview
+## Overview
 	- Dynamics is the study of bodies in motion, as opposed to statics, which focuses on bodies at rest.
 	- The field of dynamics was significantly advanced by [[Galileo]] and [[Isaac Newton]], with Newton formulating the fundamental laws of motion.
 - ## Key Components of Dynamics
