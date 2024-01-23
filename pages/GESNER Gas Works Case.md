@@ -42,6 +42,7 @@
 - ### 2. Process Capacity Analysis
 - **Objective:** Calculate current capacity at each step in tonnes per hour and annual sulphur pastilles production.
 - **Focus:** Identify system bottlenecks; calculate storage days at key steps.
+- ![image.png](../assets/image_1706054263877_0.png)
 - ### 3. Impact of Increased Truck Offloading
 - **Analysis Goal:** Assess how capacity changes with increased truck offloading.
 - **Evaluation:** Examine qualitative pros and cons, and quantitative costs and benefits.
