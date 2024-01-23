@@ -9,5 +9,5 @@
 - 11.10: [[Derivatives of Vector Functions]]
 - 11.11: [[Rectangular Components of Velocity and Acceleration]]
 - 11.12: [[Motion Relative to a Frame in Translation]]
-- [[Tangential and Normal Components]]
-- [[Radial and Transverse Components]]
+- 11.13: [[Tangential and Normal Components of Acceleration]]
+- 11.14: [[Radial and Transverse Components of Motion]]
