@@ -21,10 +21,9 @@ id:: 65aee480-7c54-43d0-85a8-dffd5226dd15
   |[[Capstone Motor & Battery Selection]]||||
 	- MOVE
 - ## Design Objectives
-	- **Objective 1:**d
+	- **Objective 1:** Design, manufacture, and test airbrakes for a sounding rocket to apply an optimal drag profile to precisely target 10,000ft apogee.
 	- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
-	- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
-	- ...
+	- **Objective 3:** Ensure detailed and comprehensive documentation to provide to
 - ## Design Concept and Development
 	- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
 	- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
