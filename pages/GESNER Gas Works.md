@@ -37,4 +37,30 @@
 - **Future Prospects:** Need for innovative solutions to stay competitive and profitable.
 - **Stakeholder Impact:** Decisions to affect employees, local communities, and overall company performance.
 - ## Questions
--
+- # Additional Case Notes for GESNER GAS WORKS: FORMING THE FUTURE
+- ## Analysis Questions
+- ### 1. Customer Factors for Brimstone
+- **Key Considerations:** Identifying important factors for Brimstone's customers and ranking them.
+- ### 2. Process Capacity Analysis
+- **Objective:** Calculate current capacity at each step in tonnes per hour and annual sulphur pastilles production.
+- **Focus:** Identify system bottlenecks; calculate storage days at key steps.
+- ### 3. Impact of Increased Truck Offloading
+- **Analysis Goal:** Assess how capacity changes with increased truck offloading.
+- **Evaluation:** Examine qualitative pros and cons, and quantitative costs and benefits.
+- **Assumptions:** Consistent sulphur price, 7-year useful life.
+- ### 4. Combined Capacity Increase and Pump Upgrades
+- **Capacity Analysis:** Determine changes in capacity with combined initiatives.
+- **Evaluation Criteria:**
+	- **Qualitative Aspects:** Pros and cons of simultaneous truck offloading increase and pump upgrades.
+	- **Quantitative Assessment:** Costs, benefits, and external rate of return.
+	- **Financial Analysis:** After-tax cash flows and Net Present Value (NPV).
+- **Assumptions:** Stable sulphur price, 5-year useful life, 20% tax rate.
+- ### 5. Implementing Piping Upgrades and Pour to Block Strategy
+- **Storage Analysis:** Determine days of storage with the pour to block strategy.
+- **Evaluation Criteria:**
+	- **Qualitative Aspects:** Pros and cons of implementing piping upgrades and pouring to block.
+	- **Quantitative Assessment:** Costs and benefits, with annual block pouring.
+- **Assumption:** Stable sulphur price.
+- ### 6. Decision-Making as Michelle Beauchesne
+- **Decision Framework:** Combine qualitative and quantitative analyses to make an informed decision.
+- **Approach:** Detailed support from analyses to justify the chosen strategy.
