@@ -1,6 +1,7 @@
 - notes to add:
 	- Need to do NPV
 - # Engineering Economics
+- [[Engineering Economics Math]]
 - [[Engineering Economics Cases]]
 - ## Overview
 	- Engineering Economics focuses on assessing [[investment alternatives]] to make optimal decisions.
@@ -35,7 +36,6 @@
 - ### Decision & Support
 	- Involves understanding the problem thoroughly and applying the analysis to solve it.
 - ## Implementing Engineering Economics
-- [[Engineering Economics Math]]
 - ### Task Analysis in Practice
 	- Determining customer needs and prioritizing outcomes based on quality, quantity, price, service, and function.
 - ### Process Analysis in Practice
