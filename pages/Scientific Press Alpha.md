@@ -17,7 +17,6 @@ id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 	- Investigation of manufacturing MgO elements feasibility
 		- Not feasible for current project --> [[Scalable Open Induction Heating]]
 	- Working Prototype September 2022
-	-
 - ## Design Objectives
 	- **Objective 1:** Design and validate a miniature version of the precious plastics press for converting waste plastic regrind into high-quality plastic stock (sheets, bricks, etc.) to serve as raw material for construction and manufacturing.
 	- **Objective 2:** Create a device that is capable of performing material science studies.
@@ -32,7 +31,7 @@ id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 		- Cameron Brooks, Electrical and Controls
 		- Joshua M. Pearce, Supervising Professor
 - ## Documentation and Design Drafts
-	- [Gitlab - ](https://gitlab.com/uwo-fast/open-source-distributed-recycling-and-additive-manufacturing/sheet-press/open-source-scientific-cold-and-hot-sheet-press)
+	- [Gitlab: open-source-scientific-cold-and-hot-sheet-press](https://gitlab.com/uwo-fast/open-source-distributed-recycling-and-additive-manufacturing/sheet-press/open-source-scientific-cold-and-hot-sheet-press)
 - ## Project Template Formatting Legend
 - **Bold Text:** Used for section headings and key points.
 	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
