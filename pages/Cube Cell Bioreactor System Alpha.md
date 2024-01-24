@@ -2,7 +2,7 @@
 id:: 659f77da-6359-45cd-ac4c-9302fe21953e
 title:: Cube Cell Bioreactor System Alpha
 - *Engineering Design Project Template*
-- **Category:** [[Aerospace]], [[Process Control]], [[Embedded Systems]],
+- **Category:** [[Aerospace]], [[Process Control]], [[Embedded Systems]], [[Bioengineering]]
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
 - **Milestones:** *(Should be connected to tangible deliverables)*
@@ -11,17 +11,18 @@ title:: Cube Cell Bioreactor System Alpha
 	- Milestone N-1
 	- ...
 - ## Design Objectives
-- **Objective 1:** [Objective Description] *(Replace with specific design objective)*
-- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
-- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
-- ...
+	- **Objective 1:** [Objective Description] *(Replace with specific design objective)*
+	- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
+	- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
+	- ...
 - ## Design Concept and Development
-- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
-- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
-- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
+	- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
+	- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
+	- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
 - ## Team Members
 - **Lead Designer:** Cameron K. Brooks
 - **Team:**
+  collapsed:: true
 	- **Dominic Guerra**
 		- **Email:** `dguerra4@uwo.ca`
 		- **Year:** `2nd`

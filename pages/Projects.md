@@ -25,6 +25,6 @@ id:: 659f6827-5c4d-4334-9789-17c97000a316
   |5| [[Scientific Press Beta]]  | 21 |Planning[:br][Hold]| [[Experimental Research Project]], [[Product Development Project]], [[Engineering Design Project]]  | Manufacturing, Materials, Process Control, Embedded Systems | FAST |  ||
   |6|[[DraftSCAD]]|11|Paper Outline|[[Software Engineering Project]]|Mechanical Design, User Interface|FAST|||
   |7| [[ISCI3D]]  | 35 | Design Execution [Active]| [[Engineering Design Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Manufacturing, Embedded Systems, Materials | AddiTronics, Thompson Grant | Ravneet Rattan, Jessica Kerr ||
-  |8| [[Cube Cell Bioreactor System Alpha]]  | 39 |Design Execution[:br][Active]|[[Engineering Design Project]], [[Experimental Research Project]] | Aerospace, Process Control, Embedded Systems | Rocketry, FAST | [[W.E.R.T Payload 23/24]] ||
+  |8| [[Cube Cell Bioreactor System Alpha]]  | 39 |Design Execution[:br][Active]|[[Engineering Design Project]], [[Experimental Research Project]] | Aerospace, Process Control, Embedded Systems, Bioengineering | Rocketry, FAST | [[W.E.R.T Payload 23/24]] ||
   |9| [[RecurTreeSCAD]] | 1 | Paper Outline [Active] | [[Software Engineering Project]] | Manufacturing, Materials | FAST | ||
   |10| [[Pipe-Fitting-SCAD]] | 1 | Design Execution [Active] | [[Software Engineering Project]], [[Engineering Design Project]] | Software, Mechanical, MEP| FAST | ||
