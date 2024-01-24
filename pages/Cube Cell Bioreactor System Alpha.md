@@ -2,7 +2,7 @@
 id:: 659f77da-6359-45cd-ac4c-9302fe21953e
 title:: Cube Cell Bioreactor System Alpha
 - *Engineering Design Project Template*
-- **Category:** [Engineering Discipline/Design Focus] *(Replace with specific engineering discipline or design focus)*
+- **Category:** [[Aerospace]], [[Process Control]], [[Embedded Systems]],
 - **Start Date:** [Start Date] *(Replace with actual start date)*
 - **Estimated End Date:** [End Date] *(Replace with estimated end date)*
 - **Milestones:** *(Should be connected to tangible deliverables)*
