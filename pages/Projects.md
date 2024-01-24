@@ -15,7 +15,7 @@ id:: 659f6827-5c4d-4334-9789-17c97000a316
 	- [[Interdisciplinary Research Project]]          [[Interdisciplinary Research Project Template]]
 	- [[Innovation and Technology Project]]          [[Innovation and Technology Project Template]]
 	- [[Educational and Outreach Project]]          [[Educational and Outreach Project Template]]
-<<<<<<< main
+	  <<<<<<< main
 - |#|Project|Progress|Status|Type|Subject|Association|People|Links|
   |--|--|--|--|--|--|--|--|--|
   |1| [[Scientific Press Alpha]] | 80 | Finalization [Active] | [[Experimental Research Project]], [[Engineering Design Project]] |Embedded Systems, Process Control, Manufacturing, Materials | FAST | Morgan C. Woods, Cameron K. Brooks, Joshua M. Pearce ||
@@ -25,9 +25,9 @@ id:: 659f6827-5c4d-4334-9789-17c97000a316
   |5| [[Scientific Press Beta]]  | 21 |Planning[:br][Hold]| [[Experimental Research Project]], [[Product Development Project]], [[Engineering Design Project]]  | Manufacturing, Materials, Process Control, Embedded Systems | FAST |  ||
   |6|[[DraftSCAD]]|11||[[Software Engineering Project]]|Mechanical Design, User Interface|FAST|||
   |7| [[ISCI3D]]  | 35 | Design Execution [Active]| [[Engineering Design Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Manufacturing, Embedded Systems, Materials | AddiTronics, Thompson Grant | Ravneet Rattan, Jessica Kerr ||
-  |8| [[Advanced Cube Cell Bioreactor System Alpha]]  | 39 |Design Execution[:br][Active]|[[Engineering Design Project]], [[Experimental Research Project]] | Aerospace, Process Control, Embedded Systems | Rocketry, FAST | [[W.E.R.T Payload 23/24]] ||
+  |8| [[Cube Cell Bioreactor System Alpha]]  | 39 |Design Execution[:br][Active]|[[Engineering Design Project]], [[Experimental Research Project]] | Aerospace, Process Control, Embedded Systems | Rocketry, FAST | [[W.E.R.T Payload 23/24]] ||
   |9| [[RecurTreeSCAD]] | 1 | Design Execution [Active] | [[Software Engineering Project]] | Manufacturing, Materials | FAST | ||
-=======
+  =======
 - |#|Project|Progress|Status|Type|Subject|Association|People|Links|
   |--|--|--|--|--|--|--|--|--|
   |1| [[Scientific Press Alpha]] | 80 | Finalization [Active] | [[Experimental Research Project]], [[Engineering Design Project]] |Embedded Systems, Process Control, Manufacturing, Materials | FAST | Morgan C. Woods, Cameron K. Brooks, Joshua M. Pearce ||
@@ -37,7 +37,7 @@ id:: 659f6827-5c4d-4334-9789-17c97000a316
   |5| [[Scientific Press Beta]]  | 21 |Planning[:br][Hold]| [[Experimental Research Project]], [[Product Development Project]], [[Engineering Design Project]]  | Manufacturing, Materials, Process Control, Embedded Systems | FAST |  ||
   |6|[[DraftSCAD]]|11|Paper Outline|[[Software Engineering Project]]|Mechanical Design, User Interface|FAST|||
   |7| [[ISCI3D]]  | 35 | Design Execution [Active]| [[Engineering Design Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Manufacturing, Embedded Systems, Materials | AddiTronics, Thompson Grant | Ravneet Rattan, Jessica Kerr ||
-  |8| [[Advanced Cube Cell Bioreactor System Alpha]]  | 39 |Design Execution[:br][Active]|[[Engineering Design Project]], [[Experimental Research Project]] | Aerospace, Process Control, Embedded Systems | Rocketry, FAST | [[W.E.R.T Payload 23/24]] ||
+  |8| [[Cube Cell Bioreactor System Alpha]]  | 39 |Design Execution[:br][Active]|[[Engineering Design Project]], [[Experimental Research Project]] | Aerospace, Process Control, Embedded Systems | Rocketry, FAST | [[W.E.R.T Payload 23/24]] ||
   |9| [[RecurTreeSCAD]] | 1 | Paper Outline [Active] | [[Software Engineering Project]] | Manufacturing, Materials | FAST | ||
->>>>>>> origin/main
+  >>>>>>> origin/main
   |10| [[Pipe-Fitting-SCAD]] | 1 | Design Execution [Active] | [[Software Engineering Project]], [[Engineering Design Project]] | Software, Mechanical, MEP| FAST | ||
