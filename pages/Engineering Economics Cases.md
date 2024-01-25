@@ -1,3 +1,3 @@
 - [[Accuride Canada Incorporated Case]]
-- [[GESNER Gas Works Case]]
+-
 - [[Sweet Dairy Treats Case]]
