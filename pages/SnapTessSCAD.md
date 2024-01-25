@@ -12,6 +12,8 @@
 	- Results
 	- Results of printing the samples
 	- How the results will be interpreted and presented for mechanical tests
+	- BETTER FOR VISUALLY OR PHYSICALLY IMPAIRED, elderly?
+		- test?
 - # SnapTessSCAD
   id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
   collapsed:: true
