@@ -8,7 +8,7 @@
   |5| [[TraceSculptor]] | 1 | Not Started| [[Software Engineering Project]] | Manufacturing, Materials | FAST, AddiTronics | [Fangkai?] ||
   |6| [[Project Icarus]]  | 1 | Not Started | -- | Software, Accessibility | FAST, Masters |  |  |
   |7| [[Fabricatus-Astra]] | 1 | Not Started | -- | | | | |
-  |8| [[Bloom-SCAD]] | 1 | Not Started | -- | | | | |
+  |8|  | 0 | Not Started | -- | | | | |
   |9| [[MakerPackager]] | 1 | Not Started | -- | | | | |
   |10| [[Conductive Deposition for 3D Printing (ElectroformStudio)]] | 1 | Not Started | -- | | | | |
   |11| [[MakerPackager]] | 1 | Not Started | -- | | | | |
