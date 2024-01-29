@@ -1,23 +1,30 @@
 # Hypochlorous Acid Generator
 id:: 659f7922-5af9-4909-9918-70bed07e76af
 	- [[Hypochlorous Acid Generator: Break 1]]
-- **Category:** [Engineering Discipline/Design Focus] *(Replace with specific engineering discipline or design focus)*
-- **Start Date:** [Start Date] *(Replace with actual start date)*
-- **Estimated End Date:** [End Date] *(Replace with estimated end date)*
+- **Category:** Biomedical, Process Control, Embedded Systems
+- **Start Date:** December 2021
+- **Estimated End Date:**
 - **Milestones:** *(Should be connected to tangible deliverables)*
 	- *Next:* Milestone N+1
 	- Milestone N
 	- Milestone N-1
 	- ...
-- ## Design Objectives
-- **Objective 1:** [Objective Description] *(Replace with specific design objective)*
-- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
-- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
-- ...
+- ## Objectives
+	- **Objective 1:** Design and prototype a device capa
+	- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
+	- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
 - ## Design Concept and Development
 - **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
 - **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
 - **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
+- ## Experimental Design
+- **Hypothesis:** [State the hypothesis or research questions] *(Replace with the hypothesis or research questions)*
+- **Experiment Setup:** [Describe the setup of the experiment] *(Detail the experimental setup including equipment and materials)*
+- **Procedures:** [Describe the experimental procedures] *(Outline the step-by-step procedures for the experiment)*
+- ## Data Collection and Analysis
+- **Data Collection Methods:** [Describe methods for data collection] *(Explain how data will be collected and recorded)*
+- **Analysis Techniques:** [Describe the techniques for data analysis] *(Detail how the collected data will be analyzed)*
+- **Expected Outcomes:** [Describe the expected outcomes of the experiment] *(Outline what results are anticipated from the experiment)*
 - ## Team Members
 - **Lead Designer:** [Lead's Name] *(Replace with lead designer's name and details)*
 - **Design Team:**
