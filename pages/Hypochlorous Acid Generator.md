@@ -10,7 +10,7 @@ id:: 659f7922-5af9-4909-9918-70bed07e76af
 	- Milestone N-1
 	- ...
 - ## Objectives
-	- **Objective 1:** Design and prototype a device capa
+	- **Objective 1:** Design and prototype a device capable of using electrical energy to electrolyze salt water into
 	- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
 	- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
 - ## Design Concept and Development
