@@ -22,7 +22,7 @@ id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 	- **Objective 2:** Create a device that is capable of performing material science studies.
 	- **Objective 3:** Provide an openly accessible and thoroughly documented design that can be recreated by the average typical user of the device.
 - ## Design Concept and Development
-	- **Initial Concept:** A small-scale hot and cold press for scientists to manufacture material science samples to  composites. Two 1'x1' steel platens supported by a steel frame with legs such that a bottle jack can sit below the two parallel steel platens to press them to press them together.
+	- **Initial Concept:** A small-scale hot and cold press for scientists to manufacture material science samples to test novel composites, with a focus on recycling of waste plastic. The device consists of two 1x1 foot steel platens supported by a steel frame with legs such that a bottle jack can sit below the two parallel steel platens to press them to press them together. The platens are directly supported by two equal steel members arranged in a cross where the bottom
 	- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
 	- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
 - ## Team Members
