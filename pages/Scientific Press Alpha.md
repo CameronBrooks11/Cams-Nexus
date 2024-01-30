@@ -22,7 +22,7 @@ id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 	- **Objective 2:** Create a device that is capable of performing material science studies.
 	- **Objective 3:** Provide an openly accessible and thoroughly documented design that can be recreated by the average typical user of the device.
 - ## Design Concept and Development
-	- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
+	- **Initial Concept:** Two 1'x1' steel platens
 	- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
 	- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
 - ## Team Members
