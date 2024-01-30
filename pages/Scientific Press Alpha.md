@@ -12,10 +12,10 @@ id:: 65aee54d-f7ee-4a65-a11f-afbb44bc5a69
 	- Version 3 September 2023
 	- Version 2 March 2023
 	- Investigation of induction heating feasibility
-		- Not feasible for current project -->
+		- Not feasible for current project --> [[Scalable Open Induction Heating]]
 	- Version 1 January 2023
 	- Investigation of manufacturing MgO elements feasibility
-		- Not feasible for current project --> [[Scalable Open Induction Heating]]
+		- Not feasible for current project --> [[Custom Resistive Elements]]
 	- Working Prototype September 2022
 - ## Design Objectives
 	- **Objective 1:** Design and validate a miniature version of the precious plastics press for converting waste plastic regrind into high-quality plastic stock (sheets, bricks, etc.) to serve as raw material for construction and manufacturing.
