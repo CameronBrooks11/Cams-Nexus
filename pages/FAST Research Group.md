@@ -15,7 +15,6 @@
   |*Horizon*||||||||
   |[[SOSSAL]]||||||||
   | [[Component Expansion Additive Manufacture System]]  ||||||||
-  | [[FEMORA-One]]  ||||||||
   | [[Hypochlorous Acid Generator]]  ||||||||
   | [[TraceSculptor]] ||||||||
   | [[Project Icarus]]  ||||||||

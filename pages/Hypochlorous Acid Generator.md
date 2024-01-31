@@ -1,6 +1,7 @@
 # Hypochlorous Acid Generator
 id:: 659f7922-5af9-4909-9918-70bed07e76af
 	- [[Hypochlorous Acid Generator: Break 1]]
+	- Expaning on it in the future by doing something like [[FEMORA-One Concept]]
 - **Category:** Biomedical, Process Control, Embedded Systems
 - **Start Date:** December 2021
 - **Estimated End Date:**
