@@ -5,7 +5,7 @@
 - Consolodating? --> database
 - note to cam: remember principles of [[build, modify, and distribute]]
 - "The computer was the death of the analytical engineer"
-	-
+	- Human-readable described digital designs preserve design intent much better
 - High-level outline
 	-
 - ## Features Scratch
