@@ -23,3 +23,8 @@
 	- They can edit constraints specified my author
 		- Or they can download the file and open it in an actual CAD program
 	- Video/sequence program showing the steps to building OS devices
+- ## LLM Chaining
+- https://github.com/guidance-ai/guidance
+- https://github.com/microsoft/semantic-kernel
+- https://github.com/FlowiseAI/Flowise
+-
