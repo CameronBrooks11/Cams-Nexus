@@ -2,17 +2,18 @@
 	- [Research Management Board](logseq://graph/Cams-Nexus?page=Research%20Management)
 - ## Current FAST Project Tracker
 - **Progress Tracking**
-	- `✓` complete
-	- `X` incomplete
-	- `~` in-progress
+	- `✓` complete.
+	- `X` incomplete.
+	- `~` in-progress.
 	- `...` in-progress without a clear endpoint.
 	- `?`state of ambiguity or unknown progress.
+	- `⤺` revising or redoing.
 	- `→` could indicate progress moving forward.
 	- `←` might signify regression or moving backward in progress.
 	- `|` could represent a stagnant or paused state.
 - |Project Page|Literature Review|Paper Outline|Methods & Materials|Results|Discussion & Conclusion|Paper Revision & Edits|Peer Review|
   |--|--|--|--|--|--|--|--|
-  | `✓` [[Scientific Press Alpha]] |`✓`|`✓`|`✓`|`✓`|`✓`|`X`|`X`|
+  | `✓` [[Scientific Press Alpha]] |`✓`|`✓`|`⤺`|`✓`|`✓`|`X`|`X`|
   | `✓` [[SnapTessSCAD]] |`✓`|`X`|`X`|`X`|`X`|`X`|`X`|
   |`✓` [[Industrial Press]]  |`✓`|`X`|`X`|`X`|`X`|`X`|`X`|
   |`✓` [[Scientific Press Beta]]  |`✓`|`X`|`X`|`X`|`X`|`X`|`X`|
