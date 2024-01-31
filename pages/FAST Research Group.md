@@ -1,4 +1,6 @@
-# Current FAST Project Tracker
+## Relevant
+	- [Research Management Board](logseq://graph/Cams-Nexus?page=Research%20Management)
+- ## Current FAST Project Tracker
 - |Project|Project Page (Concept)|Literature Review|Paper Outline|Methods & Materials|||
   |--|--|--|--|--|--|--|
   | [[Scientific Press Alpha]] |||||||
