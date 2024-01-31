@@ -1,9 +1,16 @@
 ## Relevant
 	- [Research Management Board](logseq://graph/Cams-Nexus?page=Research%20Management)
 - ## Current FAST Project Tracker
-- Symbols
-	- `✓`
-	- `X`
+- **Progress Tracking**
+	- Progress can be represented using symbols.
+		- `✓` typically represents completion or success.
+		- `X` often denotes failure or lack of completion.
+- `~` could represent partial completion or uncertainty.
+	- `...` might symbolize ongoing progress without a clear endpoint.
+	- `?` could indicate a state of ambiguity or unknown progress.
+	- `→` could indicate progress moving forward.
+	- `←` might signify regression or moving backward in progress.
+	- `|` could represent a stagnant or paused state.
 - |Project Page|Literature Review|Paper Outline|Methods & Materials|Results|Discussion & Conclusion|Paper Revision & Edits|Peer Review|
   |--|--|--|--|--|--|--|--|
   | `X` [[Scientific Press Alpha]] |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
