@@ -26,7 +26,7 @@
   |*Horizon*|---|---|---|---|---|---|---|
   |`X` [[SOSSAL]]|`X`|`X`|`X`|`X`|`X`|`X`|`X`|
   |`X` [[Component Expansion Additive Manufacture System]]  |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
-  |`X` [[Hypochlorous Acid Generator]]  |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
+  |`X` [[Hypochlorous Acid Generator]]  |`X` [Appropedia](https://www.appropedia.org/Literature_Review:_Open_Source_Hypochlorous_Acid_Generator) |`X`|`X`|`X`|`X`|`X`|`X`|
   |`X` [[TraceSculptor]] |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
   |`X` [[Project Icarus]]  |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
   |`X` [[MakerPackager]] |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
