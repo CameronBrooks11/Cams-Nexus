@@ -10,7 +10,8 @@
 - High-level outline
 	- Review the open source
 		- Licensing
-	-
+	- Refine the source
+		- Tries to essentially "crack" or convert a design back into one which can be edited with an open source design description
 	-
 - ## Features Scratch
 - Online user friendly CAD viewer and editor
