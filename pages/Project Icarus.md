@@ -11,4 +11,7 @@
 	- Video/sequence program showing the steps to building OS devices
 - # Overall flow
 - Components
+	- Collection of data
 	-
+	- Interface-link
+	- Procedural framework(s)
