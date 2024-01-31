@@ -7,7 +7,9 @@
 - "The computer was the death of the analytical engineer"
 	- Human-readable described digital designs preserve design intent much better (e.g. scripted CAD)
 - High-level outline
-	- Review
+	- Review the open source
+		- Lisencing
+	-
 - ## Features Scratch
 - Online user friendly CAD viewer and editor
 	- They can edit constraints specified my author
