@@ -12,10 +12,10 @@
 	- `|` could represent a stagnant or paused state.
 - |Project Page|Literature Review|Paper Outline|Methods & Materials|Results|Discussion & Conclusion|Paper Revision & Edits|Peer Review|
   |--|--|--|--|--|--|--|--|
-  | `X` [[Scientific Press Alpha]] |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
-  | `✓` [[SnapTessSCAD]] |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
-  |`X` [[Industrial Press]]  |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
-  |`X` [[Scientific Press Beta]]  |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
+  | `✓` [[Scientific Press Alpha]] |`✓`|`✓`|`✓`|`✓`|`✓`|`X`|`X`|
+  | `✓` [[SnapTessSCAD]] |`✓`|`X`|`X`|`X`|`X`|`X`|`X`|
+  |`✓` [[Industrial Press]]  |`✓`|`X`|`X`|`X`|`X`|`X`|`X`|
+  |`✓` [[Scientific Press Beta]]  |`✓`|`X`|`X`|`X`|`X`|`X`|`X`|
   |`X`[[DraftSCAD]]|`X`|`X`|`X`|`X`|`X`|`X`|`X`|
   |`X` [[ISCI3D]]  |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
   |`X` [[Cube Cell Bioreactor System Alpha]]  |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
