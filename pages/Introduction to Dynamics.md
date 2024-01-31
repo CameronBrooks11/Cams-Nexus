@@ -17,6 +17,13 @@
 	- Includes general methods and particular cases like uniform motion and uniformly accelerated motion.
 	- Discusses the simultaneous motion of several particles and relative motion concepts.
 	- Introduces graphical methods for problem-solving in rectilinear motion.
+	- \( \text{Average velocity} = \frac{\Delta x}{\Delta t} \)
+	- \( v = \lim_{\Delta t \to 0} \frac{\Delta x}{\Delta t} \)
+	- \( v = \frac{dx}{dt} \) (Equation 11.1)
+	- \( \text{Average acceleration} = \frac{\Delta v}{\Delta t} \)
+	- \( a = \lim_{\Delta t \to 0} \frac{\Delta v}{\Delta t} \)
+	- \( a = \frac{dv}{dt} \) (Equation 11.2)
+	- \( a = \frac{d^2x}{dt^2} \) (Equation 11.3)
 - ### Curvilinear Motion of a Particle
 	- Motion along curved paths, treating position, velocity, and acceleration as vector quantities.
 	- Introduces the concept of derivatives of vector functions.
