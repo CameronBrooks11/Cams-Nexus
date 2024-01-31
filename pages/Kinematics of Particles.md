@@ -1,3 +1,4 @@
+- Based on Vector Mechanics for Engineers_11e_Dynamics-McGraw-Hill
 - 11.1: [[Introduction to Dynamics]]
 - 11.2: [[Position, Velocity, and Acceleration in Dynamics]]
 - 11.3: [[Determination of the Motion of a Particle]]
