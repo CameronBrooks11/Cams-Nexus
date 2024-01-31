@@ -9,7 +9,8 @@
 	- Lighter --> user renders it on their device since there is no need for specialized software
 - High-level outline
 	- Review the open source
-		- Lisencing
+		- Licensing
+	-
 	-
 - ## Features Scratch
 - Online user friendly CAD viewer and editor
