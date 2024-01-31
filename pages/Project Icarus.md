@@ -27,4 +27,5 @@
 - https://github.com/guidance-ai/guidance
 - https://github.com/microsoft/semantic-kernel
 - https://github.com/FlowiseAI/Flowise
--
+- https://github.com/microsoft/autogen
+- https://github.com/langchain-ai/
