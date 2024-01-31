@@ -1,3 +1,9 @@
+- [https://forum.freecad.org/viewtopic.php?f=22&t=28901&p=350160](https://forum.freecad.org/viewtopic.php?f=22&t=28901&p=350160)
+- [https://forum.freecad.org/viewtopic.php?t=41174](https://forum.freecad.org/viewtopic.php?t=41174)
+- [https://forum.freecad.org/viewtopic.php?f=22&t=40673](https://forum.freecad.org/viewtopic.php?f=22&t=40673)
+-
+-
+-
 - | **Name** | **Primary Focus** | **Scripting Language** | **Development Status** | **Platform Compatibility** | **Links** |
   | FreeCAD | General, mechanical engineering | Python | Actively Developed | Windows, macOS, Linux | [github.com/FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) |
   | OpenSCAD | Script-based modeling | OpenSCAD | Actively Developed | Windows, macOS, Linux | [github.com/openscad/openscad](https://github.com/openscad/openscad) |
