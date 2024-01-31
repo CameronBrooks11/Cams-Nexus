@@ -10,6 +10,8 @@
 - High-level outline
 	- Review the open source
 		- Licensing
+		- Parts of "The Open Source"
+			- Rep
 	- Refine the source
 		- Tries to essentially "crack" or convert a design back into one which can be edited with an interpretable open source design [language description]
 	-
