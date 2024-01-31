@@ -10,7 +10,7 @@
 	- Acceleration \( a \) can be a function of variables \( x \), \( v \), and \( t \).
 	- Determining \( x \) in terms of \( t \) requires two successive integrations.
 - ## Common Classes of Motion
-	- 1. **Acceleration as a Function of Time (\( a = f(t) \))**
+	- 1. **Acceleration as a Function of Time \( (a = f(t)) \)**
 		- Integrating acceleration over time gives velocity.
 		- Further integration of velocity with respect to time gives position.
 		- Requires initial conditions \( v_0 \) and \( x_0 \) at \( t = 0 \) for unique solution.
