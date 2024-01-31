@@ -13,23 +13,39 @@
   | [[GeoGrow]] ||||||||
   | [[Pipe-Fitting-SCAD]] ||||||||
   |-|-|-|-|-|-|-|-|
-- |Project||
-  |--|
-  |[[SOSSAL]]||
-  | [[Component Expansion Additive Manufacture System]]  ||
-  | [[FEMORA-One]]  ||
-  | [[Hypochlorous Acid Generator]]  ||
-  | [[TraceSculptor]] ||
-  | [[Project Icarus]]  |  |
-  | [[Fabricatus-Astra]] | |
-  | [[MakerPackager]] | |
-  | [[Conductive Deposition for 3D Printing (ElectroformStudio)]] | |
-  | [[MakerPackager]] | |
-  | [[OpenSCAD Package Manager]] | |
-  | [[DARPA Dryer]] | |
-  | [[Scalable Open Induction Heating]] | |
-  | [[Open Source Scraper and Search Engine]] | |
-  | [[Scientific Press Gamma]] | |
-  | [[Open Source Embroidery Machine]] | |
-  | [[ChainMeshSCAD]] | |
-  | [[Custom Resistive Elements]] | |
+  |[[SOSSAL]]||||||||
+  | [[Component Expansion Additive Manufacture System]]  ||||||||
+  | [[FEMORA-One]]  ||||||||
+  | [[Hypochlorous Acid Generator]]  ||||||||
+  | [[TraceSculptor]] ||||||||
+  | [[Project Icarus]]  ||||||||
+  | [[MakerPackager]] ||||||||
+  | [[Conductive Deposition for 3D Printing (ElectroformStudio)]] ||||||||
+  | [[MakerPackager]] ||||||||
+  | [[OpenSCAD Package Manager]] ||||||||
+  | [[DARPA Dryer]] ||||||||
+  | [[Scalable Open Induction Heating]] ||||||||
+  | [[Open Source Scraper and Search Engine]] ||||||||
+  | [[Scientific Press Gamma]] ||||||||
+  | [[Open Source Embroidery Machine]] ||||||||
+  | [[ChainMeshSCAD]] ||||||||
+  | [[Custom Resistive Elements]] ||||||||
+- |Project||||||||
+  |--|--|--|--|--|--|--|--|
+  |[[SOSSAL]]||||||||
+  | [[Component Expansion Additive Manufacture System]]  ||||||||
+  | [[FEMORA-One]]  ||||||||
+  | [[Hypochlorous Acid Generator]]  ||||||||
+  | [[TraceSculptor]] ||||||||
+  | [[Project Icarus]]  ||||||||
+  | [[Fabricatus-Astra]] ||||||||
+  | [[MakerPackager]] ||||||||
+  | [[Conductive Deposition for 3D Printing (ElectroformStudio)]] ||||||||
+  | [[MakerPackager]] ||||||||
+  | [[OpenSCAD Package Manager]] ||||||||
+  | [[DARPA Dryer]] ||||||||
+  | [[Scalable Open Induction Heating]] ||||||||
+  | [[Scientific Press Gamma]] ||||||||
+  | [[Open Source Embroidery Machine]] ||||||||
+  | [[ChainMeshSCAD]] ||||||||
+  | [[Custom Resistive Elements]] ||||||||
