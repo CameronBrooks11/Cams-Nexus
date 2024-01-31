@@ -12,7 +12,7 @@
   | [[Cube Cell Bioreactor System Alpha]]  ||||||||
   | [[GeoGrow]] ||||||||
   | [[Pipe-Fitting-SCAD]] ||||||||
-  |--|--|--|--|--|--|--|--|
+  |*Horizon*||||||||
   |[[SOSSAL]]||||||||
   | [[Component Expansion Additive Manufacture System]]  ||||||||
   | [[FEMORA-One]]  ||||||||
