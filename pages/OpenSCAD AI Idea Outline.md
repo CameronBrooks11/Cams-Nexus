@@ -1,4 +1,4 @@
-- OpenSCAD AI Proposal Skeleton
+## OpenSCAD AI Proposal Skeleton
 	- **Data**
 		- Data Collection
 			- Source Diversification: Gather scripts from various sources for diverse use cases and complexities.
