@@ -11,7 +11,7 @@
 - ## Dynamics of Particles
 - ### General Concept
 	- Initially treats bodies (regardless of size) as particles, ignoring rotation about their mass center.
-	- Later chapters will explore dynamics of rigid bodies, where rotation is significant.
+	- Later will explore dynamics of rigid bodies, where rotation is significant.
 - ### Rectilinear Motion of a Particle
 	- Analyzes position, velocity, and acceleration in straight-line motion.
 	- Includes general methods and particular cases like uniform motion and uniformly accelerated motion.
