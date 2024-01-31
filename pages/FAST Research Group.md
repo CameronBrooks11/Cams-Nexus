@@ -1,5 +1,5 @@
 # Current FAST Project Tracker
-- |Project|Project Page|Literature Review|Paper Outline|
+- |Project|Project Page (Concept)|Literature Review|Paper Outline|
   |--|--|--|--|
   | [[Scientific Press Alpha]] ||||
   | [[SnapTessSCAD]]  ||||
