@@ -3,11 +3,11 @@
 - ## Overall Goal / Objective Scratch
 - Improved capturing, retention and flow of open hardware data between atoms and bits.
 - Consolodating? --> database
-- note to cam: remember principles of [[build, modify, and distribute]]
+- note to cam: remember principles of [design], [[build, modify, and distribute]]
 - "The computer was the death of the analytical engineer"
-	- Human-readable described digital designs preserve design intent much better
+	- Human-readable described digital designs preserve design intent much better (e.g. scripted CAD)
 - High-level outline
-	-
+	- Review
 - ## Features Scratch
 - Online user friendly CAD viewer and editor
 	- They can edit constraints specified my author
