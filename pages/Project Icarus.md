@@ -10,8 +10,11 @@
 - High-level outline
 	- Review the open source
 		- Licensing
-		- Parts of "The Open Source"
-			- Rep
+		- Parts of The Free and Open Source
+			- [things that are open source fully]
+			- vitamins
+			- block boxes
+			- binary blobs (source available)
 	- Refine the source
 		- Tries to essentially "crack" or convert a design back into one which can be edited with an interpretable open source design [language description]
 	-
