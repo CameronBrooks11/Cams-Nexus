@@ -9,3 +9,5 @@
 	- They can edit constraints specified my author
 		- Or they can download the file and open it in an actual CAD program
 	- Video/sequence program showing the steps to building OS devices
+- # Overall flow
+- Three main
