@@ -3,7 +3,7 @@
 - ## Current FAST Project Tracker
 - |Project Page|Literature Review|Paper Outline|Methods & Materials|Results|Discussion & Conclusion|Paper Revision & Edits|Peer Review|
   |--|--|--|--|--|--|--|--|
-  | [[Scientific Press Alpha]] ||||||||
+  | `X` [[Scientific Press Alpha]] ||||||||
   | [[SnapTessSCAD]]  ||||||||
   | [[Industrial Press]]  ||||||||
   | [[Scientific Press Beta]]  ||||||||
