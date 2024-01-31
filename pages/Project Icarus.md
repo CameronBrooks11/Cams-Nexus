@@ -4,14 +4,10 @@
 - Improved capturing, retention and flow of open hardware data between atoms and bits.
 - Consolodating? --> database
 - note to cam: remember principles of [[build, modify, and distribute]]
+- High-level outline
+	-
 - ## Features Scratch
 - Online user friendly CAD viewer and editor
 	- They can edit constraints specified my author
 		- Or they can download the file and open it in an actual CAD program
 	- Video/sequence program showing the steps to building OS devices
-- # Overall flow
-- Components
-	- Collection of data
-	-
-	- Interface / Link / Frontend
-	- Procedural framework(s) / Flow control
