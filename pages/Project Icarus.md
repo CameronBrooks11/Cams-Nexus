@@ -13,5 +13,5 @@
 - Components
 	- Collection of data
 	-
-	- Interface-link
+	- Interface / Link / Frontend
 	- Procedural framework(s)
