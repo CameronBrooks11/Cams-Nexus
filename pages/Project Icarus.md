@@ -4,6 +4,8 @@
 - Improved capturing, retention and flow of open hardware data between atoms and bits.
 - Consolodating? --> database
 - note to cam: remember principles of [[build, modify, and distribute]]
+- "The computer was the death of the analytical engineer"
+	-
 - High-level outline
 	-
 - ## Features Scratch
