@@ -3,6 +3,7 @@
 	- [brain board](logseq://graph/Cams-Nexus?page=brain%20board)
 - ## FAST Project Tracker
 	- **Progress Tracking**
+	  collapsed:: true
 		- `✓` complete.
 		- `X` incomplete.
 		- `~` in-progress.
@@ -38,3 +39,8 @@
 		  |`⤺` [[DARPA Dryer]] |`S`|`X`|`X`|`X`|`X`|`X`|`X`|
 		  |`X` [[Scalable Open Induction Heating]] |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
 		  |`X` [[Custom Resistive Elements]] |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
+	- Complete
+	  collapsed:: true
+		- |Project Page|Literature Review|Paper Outline|Methods & Materials|Results|Discussion & Conclusion|Paper Revision & Edits|Peer Review|
+		  |--|--|--|--|--|--|--|--|
+		  |`✓` [[Additive Manufacture Breakout Board]] |`✓`|`✓`|`✓`|`✓`|`✓`|`✓`|`✓`|
