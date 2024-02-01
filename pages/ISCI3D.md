@@ -14,10 +14,9 @@
 	- **Objective 1:** [Objective Description] *(Replace with specific design objective)*
 	- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
 	- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
-	- ...
 - ## Design Concept and Development
 	- **Initial Concept:** Create a toolhead attachment that fits a broad range of desktop 3D printers to allow for conductive copper wire to be integrated into the 3D geometry of the printed object.
-	- **Design Development:** ff
+	- **Design Development:**
 	- **Prototyping and Testing:** ff
 - ## Team Members
 	- **Lead Designer:** Cameron Brooks
@@ -31,15 +30,10 @@
 	- **[Budget](https://docs.google.com/spreadsheets/d/1WqoQG4rnTx-nUo3W4dfR4vPnOCfwY8zvTUCzo0IChpg/edit?usp=sharing):** $2,507.00
 - ## Documentation and Design Drafts
 	- [Date]: [Description of document/draft] *(Replace with design document or draft details)*
-- ## Risk Management
-	- **Risk 1:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
-	- **Risk 2:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
-	- **Risk 3:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
-	- ...
 - ## Feedback and Design Adjustments
 	- [Date]: [Feedback/Adjustment Description] *(Replace with specific feedback or adjustment details related to design changes)*
-	- ...
 - ## Project Template Formatting Legend
+  collapsed:: true
 	- **Bold Text:** Used for section headings and key points.
 		- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
 		- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
