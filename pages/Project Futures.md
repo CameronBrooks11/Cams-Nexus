@@ -1,7 +1,10 @@
 ## Fleshed Out Ideas
 - |#|Project|Progress|Status|Type|Subject|Association|People| Links |
   |--|--|--|--|--|--|--|--|
+  |6|[[DraftSCAD]]|11|Paper Outline|[[Software Engineering Project]]|Mechanical Design, User Interface|FAST|||
   |1|[[SOSSAL]]|15|Initiation[Hold]|[[Software Engineering Project]]|Mechanical Design, Solar PV, Appropriate Technology, Local Manufacturing|FAST|||
+  |9| [[GeoGrow]] | 1 | Paper Outline [Active] | [[Software Engineering Project]] | Manufacturing, Materials | FAST | ||
+  
   |2| [[Component Expansion Additive Manufacture System]]  | 1 |Initiation[Hold]| [[Software Engineering Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Manufacturing, Materials | AddiTronics, FAST | Cameron K. Brooks, Joshua M. Pearce ||
   |3| [[FEMORA-One]]  | 1 |Initiation[:br][Hold]| [[Engineering Design Project]], [[Experimental Research Project]] | Process Control, Manufacturing, Materials, Embedded Systems, Biomedical | FAST |  ||
   |4| [[Hypochlorous Acid Generator]]  | 20 | Planning[:br][Hold]| [[Engineering Design Project]], [[Clinical Trial Project]] , [[Product Development Project]] , [[Experimental Research Project]] | Biomedical, Process Control, Embedded Systems | FAST |  ||
