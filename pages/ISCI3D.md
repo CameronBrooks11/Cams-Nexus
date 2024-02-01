@@ -17,15 +17,17 @@
 	- ...
 - ## Design Concept and Development
 	- **Initial Concept:** Create a toolhead attachment that fits a broad range of desktop 3D printers to allow for conductive copper wire to be integrated into the 3D geometry of the printed object.
-	- **Design Development:*
-	- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
+	- **Design Development:** ff
+	- **Prototyping and Testing:** ff
 - ## Team Members
-	- **Lead Designer:** [Lead's Name] *(Replace with lead designer's name and details)*
+	- **Lead Designer:** Cameron Brooks
 	- **Design Team:**
-		- [Designer's Name]: [Role/Expertise] *(Replace with designer's name and details)*
-		- [Designer's Name]: [Role/Expertise] *(Replace with designer's name and details)*
+		- Ravneet Rattan: Mechatronics & Additive Manufacturing
+		- Jessica Kerr: Mechanical Engineering
 - ## Resources and Tools
-	- **Design Software:** [List of design software/tools required] *(Detail the software and tools needed for the design work)*
+	- **Design Software:**
+		- Google Suite
+		- Fusion360
 	- **Materials:** [List of materials for prototyping] *(List all materials required for creating prototypes)*
 	- **Budget:** [Budget details] *(Provide an overview of the budget for the design project)*
 - ## Timeline and Milestones
