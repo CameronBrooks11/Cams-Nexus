@@ -3,8 +3,8 @@
 	- [Revo Roto Landing Page – E3D](https://e3d-online.com/pages/revo-roto-landing-page)
 	- [Revo Six Assembly Guide – E3D Help Centre](https://e3d-online.zendesk.com/hc/en-us/articles/4408428411153-Revo-Six-Assembly-Guide)
 - **Category:** [[Manufacturing]], [[Embedded Systems]], [[Materials]]
-- **Start Date:** [Start Date] *(Replace with actual start date)*
-- **Estimated End Date:** [End Date] *(Replace with estimated end date)*
+- **Start Date:** July 2023
+- **Estimated End Date:** April 2024
 - **Milestones:** *(Should be connected to tangible deliverables)*
 	- *Next:* Milestone N+1
 	- Milestone N
@@ -16,8 +16,8 @@
 	- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
 	- ...
 - ## Design Concept and Development
-	- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
-	- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
+	- **Initial Concept:** Create a toolhead attachment that fits a broad range of desktop 3D printers to allow for conductive copper wire to be integrated into the 3D geometry of the printed object.
+	- **Design Development:*
 	- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
 - ## Team Members
 	- **Lead Designer:** [Lead's Name] *(Replace with lead designer's name and details)*
