@@ -19,7 +19,7 @@ id:: 659f6827-5c4d-4334-9789-17c97000a316
 - |#|Project|Progress|Status|Type|Subject|Association|People|Links|
   |--|--|--|--|--|--|--|--|--|
   |1| [[Scientific Press Alpha]] | 80 | Finalization | [[Experimental Research Project]], [[Engineering Design Project]] |Embedded Systems, Process Control, Manufacturing, Materials | FAST | Morgan C. Woods, Cameron K. Brooks, Joshua M. Pearce ||
-  |2| [[Airbrakes Capstone]]  | 40 |Manufacturing/Prototyping Execution| [[Engineering Design Project]] | Course, Embedded Systems, Aerospace |Rocketry, Capstone (BESc)| Giorgio Chassikos, Cameron Brooks, Brett MacDonald, Shelby Mior ||
+  |2| [[Airbrakes Capstone]]  | 65 |Manufacturing/Prototyping Execution| [[Engineering Design Project]] | Course, Embedded Systems, Aerospace |Rocketry, Capstone (BESc)| Giorgio Chassikos, Cameron Brooks, Brett MacDonald, Shelby Mior ||
   |3| [[SnapTessSCAD]]  | 65 |Paper Outline[:br]| [[Software Engineering Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Materials, Manufacturing, Software | FAST, AddiTronics | Cameron K. Brooks, Joshua M. Pearce ||
   |4| [[Industrial Press]]  | 41 |Design Execution| [[Experimental Research Project]], [[Engineering Design Project]] | Embedded Systems, Process Control, Materials, Manufacturing | FAST | Morgan C. Woods, Cameron K. Brooks, Joshua M. Pearce ||
   |5| [[Scientific Press Beta]]  | 35 |Planning| [[Experimental Research Project]], [[Product Development Project]], [[Engineering Design Project]]  | Manufacturing, Materials, Process Control, Embedded Systems | FAST | Morgan C. Woods, Cameron K. Brooks, Joshua M. Pearce ||
