@@ -25,4 +25,4 @@ id:: 659f6827-5c4d-4334-9789-17c97000a316
   |5| [[Scientific Press Beta]]  | 35 |Planning| [[Experimental Research Project]], [[Product Development Project]], [[Engineering Design Project]]  | Manufacturing, Materials, Process Control, Embedded Systems | FAST | Morgan C. Woods, Cameron K. Brooks, Joshua M. Pearce ||
   |6| [[ISCI3D]]  | 35 |Design Execution| [[Engineering Design Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Manufacturing, Embedded Systems, Materials | AddiTronics, Thompson Grant | Ravneet Rattan, Jessica Kerr ||
   |7| [[Cube Cell Bioreactor System Alpha]]  | 39 |Design Execution[:br][Active]|[[Engineering Design Project]], [[Experimental Research Project]] | Aerospace, Process Control, Embedded Systems, Bioengineering | Rocketry, FAST | [[W.E.R.T Payload 23/24]] ||
-  |8| [[Pipe-Fitting-SCAD]] | 1 | Design Execution | [[Software Engineering Project]], [[Engineering Design Project]] | Software, Mechanical, MEP| FAST | || /tab
+  |8| [[Pipe-Fitting-SCAD]] | 1 | Design Execution | [[Software Engineering Project]], [[Engineering Design Project]] | Software, Mechanical, MEP| FAST | ||
