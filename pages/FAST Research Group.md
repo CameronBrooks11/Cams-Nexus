@@ -21,6 +21,7 @@
 		  |`⤺` [[Cube Cell Bioreactor System Alpha]]  |`⤺`|`⤺`|`~`|`X`|`X`|`X`|`X`|
 		  |`⤺` [[Pipe-Fitting-SCAD]] |`?`|`?`|`✓`|`X`|`X`|`X`|`X`|
 	- Inactive
+	  collapsed:: true
 		- |Project Page|Literature Review|Paper Outline|Methods & Materials|Results|Discussion & Conclusion|Paper Revision & Edits|Peer Review|
 		  |--|--|--|--|--|--|--|--|
 		  |`X` [[GeoGrow]] |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
