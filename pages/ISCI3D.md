@@ -28,18 +28,9 @@
 	- **Design Software:**
 		- Google Suite
 		- Fusion360
-	- **Materials:** [List of materials for prototyping] *(List all materials required for creating prototypes)*
-	- **Budget:** [Budget details] *(Provide an overview of the budget for the design project)*
-- ## Timeline and Milestones
-	- **Milestone 1:** [Date] - [Milestone Description] *(Replace with specific milestone details related to design phases)*
-	- **Milestone 2:** [Date] - [Milestone Description] *(Replace with specific milestone details related to design phases)*
-	- ...
+	- **[Budget](https://docs.google.com/spreadsheets/d/1WqoQG4rnTx-nUo3W4dfR4vPnOCfwY8zvTUCzo0IChpg/edit?usp=sharing):** $2,507.00
 - ## Documentation and Design Drafts
 	- [Date]: [Description of document/draft] *(Replace with design document or draft details)*
-	- ...
-- ## Meeting Notes and Design Reviews
-	- [Type]: [Link] *(Replace with specific meeting note or design review link)*
-	- ...
 - ## Risk Management
 	- **Risk 1:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
 	- **Risk 2:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
