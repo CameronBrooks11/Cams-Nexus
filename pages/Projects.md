@@ -16,7 +16,8 @@ id:: 659f6827-5c4d-4334-9789-17c97000a316
 	- [[Innovation and Technology Project]]          [[Innovation and Technology Project Template]]
 	- [[Educational and Outreach Project]]          [[Educational and Outreach Project Template]]
 	  <<<<<<< main
-- |#|Project|Progress|Status|Type|Subject|Association|People|Links|
+- id:: 65b16dca-1693-4fe4-80e3-86ec8d43f320
+  |#|Project|Progress|Status|Type|Subject|Association|People|Links|
   |--|--|--|--|--|--|--|--|--|
   |1| [[Scientific Press Alpha]] | 80 | Finalization | [[Experimental Research Project]], [[Engineering Design Project]] |Embedded Systems, Process Control, Manufacturing, Materials | FAST | Morgan C. Woods, Cameron K. Brooks, Joshua M. Pearce ||
   |2| [[Airbrakes Capstone]]  | 65 |Manufacturing/Prototyping Execution| [[Engineering Design Project]] | Course, Embedded Systems, Aerospace |Rocketry, Capstone (BESc)| Giorgio Chassikos, Cameron Brooks, Brett MacDonald, Shelby Mior ||
