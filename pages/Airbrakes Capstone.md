@@ -1,6 +1,7 @@
 <<<<<<< main
-# Airbrakes Capstone
-id:: 659f76c4-3971-493b-a032-f2a8d95a6562
+
+- # Airbrakes Capstone
+  id:: 659f76c4-3971-493b-a032-f2a8d95a6562
 - **Categories:** Course, Embedded Systems, Aerospace
 - **Start Date:** September 7th, 2023
 - **Estimated End Date:** April 8th, 2024
@@ -12,9 +13,9 @@ id:: 659f76c4-3971-493b-a032-f2a8d95a6562
   | Complete End 3 Sections | MJD, Risk Management, Feedback and Adjustments  |        | [Date]   |
   | Add all tasks           | Port from MS Planner and updated back as needed |        | [Date]   |
   |Report 3 plan ||||
-=======
-# Airbrakes Capstone
-id:: 65aee480-7c54-43d0-85a8-dffd5226dd15
+  =======
+- # Airbrakes Capstone
+  id:: 65aee480-7c54-43d0-85a8-dffd5226dd15
 - *Engineering Design Project Template*
 - **Category:** [[Aerospace Engineering]], [[Rocketry]], [[Control Systems]]
 - **Start Date:** September 9th
@@ -33,7 +34,7 @@ id:: 65aee480-7c54-43d0-85a8-dffd5226dd15
   | Complete End 3 Sections | MJD, Risk Management, Feedback and Adjustments  |        | [Date]   |
   | Add all tasks           | Port from MS Planner and updated back as needed |        | [Date]   |
   |Report 3 plan ||||
->>>>>>> origin/main
+  >>>>>>> origin/main
   |[[Capstone Motor & Battery Selection]]||||
 	- MOVE
 - ## Design Objectives

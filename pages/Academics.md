@@ -136,7 +136,7 @@
 			- [[NMM 3415A]]
 		- **Term Honor**: Dean's Honor List
 		- **Description**:
-			- [[CONTROL SYSTEMS]]
+			- [[Control Systems]]
 			- [[INTRO TO SIGNAL PROCESSING]]
 			- [[ELECTRIC MACHINES]]
 			- [[ELECTRIC POWER SYSTEMS I]]
