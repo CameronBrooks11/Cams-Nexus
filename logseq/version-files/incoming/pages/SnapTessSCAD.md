@@ -1,6 +1,17 @@
 - Drop down for images.
   collapsed:: true
 	- ![10853_2022_8015_Fig2_HTML.webp](../assets/10853_2022_8015_Fig2_HTML_1705261120475_0.webp){:height 1150, :width 1250}
+- Scratch
+	- Intro
+		- Lit review
+		- Description
+	- Methods and materials
+		- Explain SCAD methods
+		- Explain printing procedure
+		- Explain mechanical testing methods
+	- Results
+	- Results of printing the samples
+	- How the results will be interpreted and presented for mechanical tests
 - # SnapTessSCAD
   id:: 659d9a28-beb9-492e-85c9-e2ebcbab39a7
   collapsed:: true

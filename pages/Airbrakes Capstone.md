@@ -1,5 +1,3 @@
-<<<<<<< main
-
 - # Airbrakes Capstone
   id:: 659f76c4-3971-493b-a032-f2a8d95a6562
 - **Categories:** Course, Embedded Systems, Aerospace
