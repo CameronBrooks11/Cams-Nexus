@@ -1,6 +1,6 @@
-# Cube Cell Bioreactor System Alpha
+# Hi-Rel Modular Bio-Chem Reactor
 id:: 659f77da-6359-45cd-ac4c-9302fe21953e
-title:: Cube Cell Bioreactor System Alpha
+title:: Hi-Rel Modular Bio-Chem Reactor
 - *Engineering Design Project Template*
 - **Category:** [[Aerospace]], [[Process Control]], [[Embedded Systems]], [[Bioengineering]]
 - **Start Date:** [Start Date] *(Replace with actual start date)*

@@ -19,7 +19,7 @@
 		  |`⤺` [[Industrial Press]]  |`⤺`|`⤺`|`X`|`X`|`X`|`X`|`X`|
 		  |`⤺` [[Scientific Press Beta]]  |`⤺`|`⤺`|`X`|`X`|`X`|`X`|`X`|
 		  |`⤺` [[ISCI3D]]  |`⤺`|`⤺`|`X`|`X`|`X`|`X`|`X`|
-		  |`⤺` [[Cube Cell Bioreactor System Alpha]]  |`⤺`|`⤺`|`~`|`X`|`X`|`X`|`X`|
+		  |`⤺` [[Hi-Rel Modular Bio-Chem Reactor]]  |`⤺`|`⤺`|`~`|`X`|`X`|`X`|`X`|
 		  |`⤺` [[Pipe-Fitting-SCAD]] |`?`|`?`|`✓`|`X`|`X`|`X`|`X`|
 	- Inactive
 	  collapsed:: true
