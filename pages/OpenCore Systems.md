@@ -28,7 +28,10 @@
 - Transportation and Urban Planning
 	- Bike
 - Environmental Monitoring and Protection
-- Research, Development and Prototyping Tools
+- Industrial and Scientific
+	- BREAD
+	- Open PLC
+- Prototyping and Development Tools
 	- Get under development technology to contribute
 	- Anything provided as-is or incomplete
 	- HPR Flight computer
