@@ -21,7 +21,6 @@
 - Research, Education and Access to Information
 	- MIT open courseware and openstax mixed with teaching STEM through technology
 	- Kits for completing certain degrees
-	- Any under deve
 - Digital Infrastructure and Communication
 	- Framework laptop
 	- Smart phone
@@ -29,4 +28,7 @@
 - Transportation and Urban Planning
 	- Bike
 - Environmental Monitoring and Protection
-	-
+- Research, Development and Prototyping Tools
+	- Get under development technology to contribute
+	- Anything provided as-is or incomplete
+	- HPR Flight computer
