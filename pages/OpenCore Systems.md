@@ -1,0 +1,12 @@
+- The main areas
+	- Agriculture and Food Production
+		- Microfarms (http://www.hectar.org/)
+	- Healthcare and Medicine
+	- Renewable Energy Systems
+		- Wind
+		- Solar
+	- Water Purification and Management
+	- Education and Access to Information
+	- Digital Infrastructure and Communication
+	- Transportation and Urban Planning
+	- Environmental Monitoring and Protection
