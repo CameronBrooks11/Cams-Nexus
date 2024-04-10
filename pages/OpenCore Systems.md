@@ -1,11 +1,16 @@
-- The main areas
+- Main areas
 	- Agriculture and Food Production
 		- Microfarms (http://www.hectar.org/)
 	- Healthcare and Medicine
+		- Josh's baby light
+		- ECG with Glia
 	- Renewable Energy Systems
 		- Wind
+			- [Omnidirectional harvesting](https://www.sciencedirect.com/science/article/pii/S1369702123003486)
 		- Solar
+			- All of Pearce stuff
 	- Water Purification and Management
+	-
 	- Education and Access to Information
 	- Digital Infrastructure and Communication
 	- Transportation and Urban Planning
