@@ -1,4 +1,5 @@
-## Core Areas
+- OST
+- ## Core Areas
 - Manufacturing and Hardware Production
 	- ISCI3D
 	- Rotoforge
