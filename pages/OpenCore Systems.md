@@ -14,7 +14,7 @@
 	- Wind
 		- [Omnidirectional harvesting](https://www.sciencedirect.com/science/article/pii/S1369702123003486)
 	- Solar
-		- All of Pearce stuff
+		- All of Pearce's work
 - Water Purification and Management
 	- HOCl Generator
 	- Filtering project (Tierney)
@@ -25,13 +25,19 @@
 	- Framework laptop
 	- Smart phone
 	- Phone
-- Transportation and Urban Planning
+- Transportation and Mobility
 	- Bike
+	- Anita Walker
 - Environmental Monitoring and Protection
+	-
 - Industrial and Scientific
 	- BREAD
 	- Open PLC
+	- Potentiostat
 - Prototyping and Development Tools
 	- Get under development technology to contribute
 	- Anything provided as-is or incomplete
 	- HPR Flight computer
+- Parts and Components
+	- Similar to sparkfun sell all used stuff to double up
+	- More discrete separation between systems and parts
