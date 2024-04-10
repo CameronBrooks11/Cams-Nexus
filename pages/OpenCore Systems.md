@@ -1,4 +1,7 @@
 - Main areas
+	- Manufacturing and Hardware Production
+		- ISCI3D
+		- Rotoforge
 	- Agriculture and Food Production
 		- Microfarms (http://www.hectar.org/)
 	- Healthcare and Medicine
@@ -10,8 +13,12 @@
 		- Solar
 			- All of Pearce stuff
 	- Water Purification and Management
-	-
+		- HOCl Generator
 	- Education and Access to Information
 	- Digital Infrastructure and Communication
+		- Framework laptop
+		- Smart phone
+		- Phone
 	- Transportation and Urban Planning
 	- Environmental Monitoring and Protection
+-
