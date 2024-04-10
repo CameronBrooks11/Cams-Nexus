@@ -1,4 +1,5 @@
-- OST
+- ORS
+-
 - ## Core Areas
 - Manufacturing and Hardware Production
 	- ISCI3D
