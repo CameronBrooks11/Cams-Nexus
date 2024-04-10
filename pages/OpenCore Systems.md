@@ -1,30 +1,32 @@
-- Main areas
-	- Manufacturing and Hardware Production
-		- ISCI3D
-		- Rotoforge
-	- Agriculture and Food Production
-		- Microfarms (http://www.hectar.org/)
-		- Bioreactor
-	- Healthcare and Medicine
-		- Josh's baby light
-		- ECG with Glia
-		- Medical Bioreactor
-	- Renewable Energy Systems
-		- Wind
-			- [Omnidirectional harvesting](https://www.sciencedirect.com/science/article/pii/S1369702123003486)
-		- Solar
-			- All of Pearce stuff
-	- Water Purification and Management
-		- HOCl Generator
-		- Filtering project (Tierney)
-	- Education and Access to Information
-		- MIT open courseware and openstax mixed with teaching STEM through technology
-		- Kits for completing certain degrees
-	- Digital Infrastructure and Communication
-		- Framework laptop
-		- Smart phone
-		- Phone
-	- Transportation and Urban Planning
-		- Bike
-	- Environmental Monitoring and Protection
-		-
+## Core Areas
+- Manufacturing and Hardware Production
+	- ISCI3D
+	- Rotoforge
+- Agriculture and Food Production
+	- Microfarms (http://www.hectar.org/)
+	- MOS Reactor
+- Healthcare and Medicine
+	- Josh's baby light
+	- ECG with Glia
+	- Medical Bioreactor
+	- Pioreactor
+- Renewable Energy Systems
+	- Wind
+		- [Omnidirectional harvesting](https://www.sciencedirect.com/science/article/pii/S1369702123003486)
+	- Solar
+		- All of Pearce stuff
+- Water Purification and Management
+	- HOCl Generator
+	- Filtering project (Tierney)
+- Research, Education and Access to Information
+	- MIT open courseware and openstax mixed with teaching STEM through technology
+	- Kits for completing certain degrees
+	- Any under deve
+- Digital Infrastructure and Communication
+	- Framework laptop
+	- Smart phone
+	- Phone
+- Transportation and Urban Planning
+	- Bike
+- Environmental Monitoring and Protection
+	-
