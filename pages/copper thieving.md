@@ -1,1 +1,2 @@
-- https://www.freelists.org/post/si-list/Impact-on-Copper-Thieving-on-10G-Routing,3
+- (Lee Ritchie's post)[https://www.freelists.org/post/si-list/Impact-on-Copper-Thieving-on-10G-Routing,3] paraphrased:
+	-
