@@ -1,5 +1,5 @@
-- ORS
--
+- Integrum Technology Systems
+- Integrum Group
 - ## Core Areas
 - Manufacturing and Hardware Production
 	- ISCI3D
