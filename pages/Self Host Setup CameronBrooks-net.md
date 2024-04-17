@@ -1,13 +1,14 @@
 ### Step 2: Configure  Firewall
-- Make sure that your firewall allows HTTP and HTTPS traffic. If you’re using `ufw` (Uncomplicated Firewall), you can do it like this:
-  
-  ```
-  sudo ufw allow 'Apache'
-  sudo ufw enable
-  sudo ufw status
-  ```
+	- Make sure that your firewall allows HTTP and HTTPS traffic. If you’re using `ufw` (Uncomplicated Firewall), you can do it like this:
+	  
+	  ```
+	  sudo ufw allow 80/tcp
+	  sudo ufw allow 443/tcp
+	  sudo ufw enable
+	  sudo ufw status
+	  ```
 - ### Step 3: Test Apache
-- Check if Apache is running by accessing your server’s IP address in a web browser (http://your_server_ip). You should see the default Apache Debian page.
+	- Check if Apache is running by accessing your server’s IP address in a web browser (http://your_server_ip). You should see the default Apache Debian page.
 - ### Step 4: Configure Apache for Your Website
 - **Create a Directory for Your Website:**
 - ```
@@ -43,19 +44,11 @@
 - ```
   sudo a2ensite yourdomain.com.conf
   ```
-- **Disable the Default Site (optional):**
-  
-  ```
-  bash
-  ```
+- **Disable the Default Site:**
 - ```
   sudo a2dissite 000-default.conf
   ```
 - **Reload Apache to apply changes:**
-  
-  ```
-  bash
-  ```
 - ```
   sudo systemctl reload apache2
   ```
