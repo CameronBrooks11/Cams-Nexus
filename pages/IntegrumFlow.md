@@ -32,5 +32,5 @@
 		  | A | Conceptual Design Tools | Tools used to sketch, diagram, and map initial ideas. | 2, 5 |
 		  | B | Analytical and Simulation Tools | Software for detailed analysis and simulation to optimize design. | 3, 6 |
 		  | C | Detailed Design and CAD Tools | Tools for creating detailed and precise design representations, like CAD software. | 6 |
-		  | D | Documentation and Management Tools | Software for managing design information and project coordination. | 4, 5, 6, 7, 8 |
-		  | E | Testing and Validation Tools | Tools for testing designs physically or virtually to ensure they meet specifications. | 7, 8 |
+		  | D | Documentation and Management Tools | Software for managing design information and project coordination. | 1, 2, 3, 4, 5, 6, 7, 8 |
+		  | E | Manufacturing, Testing and Validation Tools | Tools for testing designs physically or virtually to ensure they meet specifications. | 7, 8 |
