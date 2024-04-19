@@ -14,7 +14,7 @@
 	- **Manufacturing, Testing and Validation Tools**:
 		- **Purpose**: Used to create and post-design to ensure the product performs as intended under actual operating conditions and to validate the design with real-world data.
 		- **Examples**: Physical testing equipment and prototypes, as well as software tools for running virtual tests and validation scenarios.
-- Tables
+- Tables with reference to https://en.wikipedia.org/wiki/Engineering_design_process
 	- ### Table 1: Steps of the Engineering Design Process
 		- | Step ID | Stage of Design Process | Description |
 		  | ---- | ---- | ---- |
@@ -34,3 +34,22 @@
 		  | C | Detailed Design and CAD Tools | Tools for creating detailed and precise design representations, like CAD software. | 6 |
 		  | D | Documentation and Management Tools | Software for managing design information and project coordination. | 1, 2, 3, 4, 5, 6, 7, 8 |
 		  | E | Manufacturing, Testing and Validation Tools | Tools for testing designs physically or virtually to ensure they meet specifications. | 7, 8 |
+- Other design flow from general wikipedia: https://en.wikipedia.org/wiki/Design#Process
+	- Typical stages consistent with the rational model include the following:[[23]](https://en.wikipedia.org/wiki/Design#cite_note-23)
+	- Pre-production design
+		- [Design brief](https://en.wikipedia.org/wiki/Design_brief) – initial statement of intended outcome.
+		- [Analysis](https://en.wikipedia.org/wiki/Analysis) – analysis of design goals.
+		- [Research](https://en.wikipedia.org/wiki/Research) – investigating similar designs in the field or related topics.
+		- [Specification](https://en.wikipedia.org/wiki/Specification) – specifying requirements of a design for a product ([product design specification](https://en.wikipedia.org/wiki/Product_design_specification))[[24]](https://en.wikipedia.org/wiki/Design#cite_note-24) or service.
+		- [Problem solving](https://en.wikipedia.org/wiki/Problem_solving) – [conceptualizing](https://en.wiktionary.org/wiki/conceptualize) and [documenting](https://en.wikipedia.org/wiki/Document) designs.
+		- [Presentation](https://en.wikipedia.org/wiki/Presentation) – presenting designs.
+	- Design during production.
+		- [Development](https://en.wikipedia.org/wiki/Product_development) – continuation and improvement of a design.
+		- [Product testing](https://en.wikipedia.org/wiki/Product_testing) – *[in situ](https://en.wikipedia.org/wiki/In_situ)* testing of a design.
+	- Post-production design feedback for future designs.
+		- [Implementation](https://en.wikipedia.org/wiki/Implementation) – introducing the design into the environment.
+		- [Evaluation](https://en.wikipedia.org/wiki/Evaluation) and [conclusion](https://en.wikipedia.org/wiki/Logical_consequence) – summary of process and results, including [constructive criticism](https://en.wikipedia.org/wiki/Constructive_criticism) and suggestions for future improvements.
+	- Redesign – any or all stages in the design process repeated (with 
+	  corrections made) at any time before, during, or after production.
+	  
+	  Each stage has many associated [best practices](https://en.wikipedia.org/wiki/Best_practices).[[25]](https://en.wikipedia.org/wiki/Design#cite_note-25)
