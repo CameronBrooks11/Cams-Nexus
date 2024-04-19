@@ -1,19 +1,6 @@
 ## IntegrumFlow
-	- **Conceptual Design Tools**:
-		- **Purpose**: These tools are used to outline initial ideas, explore feasibility, and establish basic functionality and the interrelationships between system components.
-		- **Examples**: Concept maps, sketches, system block diagrams, and preliminary mathematical models. Tools like mind-mapping software and basic diagramming tools are also common in this phase.
-	- **Analytical and Simulation Tools**:
-		- **Purpose**: Once the basic concept is defined, these tools are used to refine the designs through detailed analysis and simulation. This helps in optimizing design parameters, predicting performance, and identifying potential problems without the need for physical prototypes.
-		- **Examples**: Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Electromagnetic field solvers, electrical circuit simulation, etc. These tools often use advanced mathematical models to simulate physical behaviors and interactions.
-	- **Detailed Design and CAD Tools**:
-		- **Purpose**: These are used for creating detailed and precise representations of the final product. This phase focuses on the physical dimensions, tolerances, materials, and manufacturing processes.
-		- **Examples**: 2D and 3D Computer-Aided Design (CAD) software, which are critical for creating manufacturing-ready designs and ensuring that parts fit together correctly. CAD tools are often integrated with other functionalities such as CAM (Computer-Aided Manufacturing) and CAE (Computer-Aided Engineering) for a more comprehensive design and manufacturing approach.
-	- **Documentation and Management Tools**:
-		- **Purpose**: Essential for managing the extensive information generated during the design process and for ensuring that designs meet all specifications, standards, and regulatory requirements.
-		- **Examples**: Project management software, Product Lifecycle Management (PLM) tools, and documentation software. These tools help in tracking revisions, managing collaborations, and maintaining comprehensive records of the design process.
-	- **Testing and Validation Tools**:
-		- **Purpose**: Used post-design to ensure the product performs as intended under actual operating conditions and to validate the design with real-world data.
-		- **Examples**: Physical testing equipment and prototypes, as well as software tools for running virtual tests and validation scenarios.
+	- [[IntegrumFlow]]
+	-
 - ## Core Product Areas
 	- Manufacturing and Hardware Production
 		- ISCI3D
