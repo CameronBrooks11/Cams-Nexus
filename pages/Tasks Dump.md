@@ -1,20 +1,20 @@
 - *This needs to be empty by the end of each day*
 - ---
 - Dump here!
-- ECE4445
-	- Final Exam (Dec. 11)
-- ECE4455
-	- Final Project (Nov. 29 — Dec. 16)
-- ECE 4487
-	- Final report + prototype (Dec. 6)
-- ISCI3D
-	- Organize project / repo
-	- Spool
-- Large press
-	- Painting
-	- Mechanical Assembly
-	- Element mounting
-	- Order elec parts
-- BR / PBR
-	- Paper
-- Pioreactor + pH/DO
+	- ECE4445
+		- Final Exam (Dec. 11)
+	- ECE4455
+		- Final Project (Nov. 29 — Dec. 16)
+	- ECE 4487
+		- Final report + prototype (Dec. 6)
+	- ISCI3D
+		- Organize project / repo
+		- Spool
+	- Large press
+		- Painting
+		- Mechanical Assembly
+		- Element mounting
+		- Order elec parts
+	- BR / PBR
+		- Paper
+	- Pioreactor + pH/DO

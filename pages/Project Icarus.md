@@ -1,4 +1,4 @@
-- I've had a lot of [[Possible Plans for My Masters]], and this page serves as the shaping up of "[[The Chosen One]]" - except for the fact that it's probably a [[hybrid]] of those various [[ideas]] and others:
+- I've had a lot of [[Possible Plans for My Masters]], and this page serves as the shaping up an idea I had
   id:: 659f79c0-a686-4d7f-8566-2731c02a72f1
 	- [[OpenSCAD AI Idea Outline]]
 	- [[OpenSCAD Master Repo Idea Outline]] --> related to [[GSoC 2024 Project Planning: Simple Library Manager]]

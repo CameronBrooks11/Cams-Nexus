@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["brain board" "fast research group" "tasks dump" "projects" "project futures" "projects shelf" "project ideas" "projects archive" "project archive" "we rocketry team" "undergraduate engineering society" "academics" "academia" "western engineering rocketry team"]
+ :favorites ["my undergraduate degree" "brain board" "fast research group" "tasks dump" "projects" "project futures" "projects shelf" "project ideas" "projects archive" "project archive" "academics"]
 
  ;; Set flashcards interval.
  ;; Expected value:

@@ -1,15 +1,6 @@
-# Current Links
-- **Course**:
-	- [[BUSINESS 1299E]]
-	- [[IE 4491B]]
-	- [[MME 2234B]]
-	- [[MME 4499]]
-- # Western University Undergraduate Degree
-- ## Western University Unofficial Transcript
+## Western University Unofficial Transcript
 	- ### Print Date: 2024/01/09
 	  **Basis of Admission**: Ontario Secondary School Diploma 2020
-	  
-	  ---
 	- #### Beginning of Undergraduate Record
 	- ### 2020 Fall/Winter
 	  **Faculty of Science**
