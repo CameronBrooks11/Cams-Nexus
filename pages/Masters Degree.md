@@ -11,4 +11,7 @@
 	- Hardware Design composability
 	- Software versus hardware progress
 - # Masters [[Papers]]
-	-
+	- Modular hardware system + Software
+	- Bioreactors
+	- Chromatography
+	- Process control for ICFAR
