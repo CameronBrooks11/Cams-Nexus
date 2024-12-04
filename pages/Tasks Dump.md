@@ -1,6 +1,9 @@
 - *This needs to be empty by the end of each day*
 - ---
 - Dump here!
+	- Misc
+		- Tidy logseq
+		- Get website setup
 	- ECE4445
 		- Final Exam (Dec. 11)
 	- ECE4455
