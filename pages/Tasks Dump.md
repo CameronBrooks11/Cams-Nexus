@@ -1,16 +1,4 @@
 - *This needs to be empty by the end of each day*
 - ---
 - Dump here!
-	- ECE 4487
-		- Final report + prototype (Dec. 6)
-	- ISCI3D
-		- Organize project / repo
-		- Spool
-	- Large press
-		- Painting
-		- Mechanical Assembly
-		- Element mounting
-		- Order elec parts
-	- BR / PBR
-		- Paper
-	- Pioreactor + pH/DO
+	-
